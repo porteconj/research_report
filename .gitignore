@@ -19,8 +19,6 @@ _site
 *~
 # *.lock
 
-*.sum
-*.mod
 
 
 # OS or Editor folders
