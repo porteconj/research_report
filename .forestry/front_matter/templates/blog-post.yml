@@ -12,11 +12,5 @@ fields:
   name: title
   label: title
 - type: text
-  name: type
-  label: type
-- type: text
   name: url
   label: url
-- type: list
-  name: categories
-  label: categories
