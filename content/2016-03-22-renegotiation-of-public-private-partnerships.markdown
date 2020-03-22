@@ -3,7 +3,8 @@ author: albuquru
 date: 2016-03-22 13:15:41+00:00
 draft: false
 title: Renegotiation of Public-Private Partnerships
-url: /renegotiation-of-public-private-partnerships/
+type: post
+url: /2016/03/22/renegotiation-of-public-private-partnerships/
 categories:
 - Portuguese Economy Research Report
 ---

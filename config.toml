@@ -3,4 +3,14 @@ title = "Portuguese Economy Research Report"
 [module]
 
 [[module.imports]]
+disable = false
+ignoreConfig = true
 path = "github.com/porteconj/pej_blog_theme"
+
+[[module.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.mounts]]
+source = "layouts"
+target = "layouts"

@@ -3,7 +3,8 @@ author: albuquru
 date: 2016-04-06 16:55:04+00:00
 draft: false
 title: Productivity and Organization in Portuguese Firms
-url: /productivity-and-organization-in-portuguese-firms/
+type: post
+url: /2016/04/06/productivity-and-organization-in-portuguese-firms/
 categories:
 - Portuguese Economy Research Report
 ---

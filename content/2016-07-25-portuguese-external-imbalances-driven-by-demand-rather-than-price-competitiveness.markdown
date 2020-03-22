@@ -3,8 +3,10 @@ author: albuquru
 date: 2016-07-25 14:30:41+00:00
 draft: false
 title: 'Portuguese external imbalances: driven by demand rather than price competitiveness'
-url: /portuguese-external-imbalances-driven-by-demand-rather-than-price-competitiveness/
-
+type: post
+url: /2016/07/25/portuguese-external-imbalances-driven-by-demand-rather-than-price-competitiveness/
+categories:
+- Portuguese Economy Research Report
 ---
 
 Large current account deficits in European economies, among them Portugal, have been a decisive feature of the European banking and sovereign debt crisis. While the Portuguese current account has undergone a severe adjustment, the level of external debt remains among the highest in Europe and reducing it down to the threshold defined by the EU-Commission’s Macroeconomic Imbalance Procedure is likely to take decades.

@@ -4,7 +4,8 @@ date: 2016-07-14 17:25:12+00:00
 draft: false
 title: The Portuguese interbank money market during the subprime crisis and sovereign
   debt crisis
-url: /the-portuguese-interbank-money-market-during-the-subprime-crisis-and-sovereign-debt-crisis/
+type: post
+url: /2016/07/14/the-portuguese-interbank-money-market-during-the-subprime-crisis-and-sovereign-debt-crisis/
 categories:
 - Portuguese Economy Research Report
 ---

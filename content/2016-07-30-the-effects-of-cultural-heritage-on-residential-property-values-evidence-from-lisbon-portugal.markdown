@@ -4,7 +4,8 @@ date: 2016-07-30 22:25:02+00:00
 draft: false
 title: 'The effects of cultural heritage on residential property values: evidence
   from Lisbon, Portugal'
-url: /the-effects-of-cultural-heritage-on-residential-property-values-evidence-from-lisbon-portugal/
+type: post
+url: /2016/07/30/the-effects-of-cultural-heritage-on-residential-property-values-evidence-from-lisbon-portugal/
 categories:
 - Portuguese Economy Research Report
 ---

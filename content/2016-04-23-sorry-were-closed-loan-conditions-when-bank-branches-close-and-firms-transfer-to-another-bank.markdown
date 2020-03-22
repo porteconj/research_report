@@ -4,7 +4,8 @@ date: 2016-04-23 14:52:53+00:00
 draft: false
 title: 'Sorry, we’re closed: loan conditions when bank branches close and firms transfer
   to another bank'
-url: /sorry-were-closed-loan-conditions-when-bank-branches-close-and-firms-transfer-to-another-bank/
+type: post
+url: /2016/04/23/sorry-were-closed-loan-conditions-when-bank-branches-close-and-firms-transfer-to-another-bank/
 categories:
 - Portuguese Economy Research Report
 ---

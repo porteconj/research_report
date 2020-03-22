@@ -11,7 +11,6 @@ categories:
 
 It is often argued that public policies to support investment and innovation play a vital role when firms have difficulties in accessing external finance. However, several studies have demonstrated that public support can have no effect on the policy targets or even have a negative effect on firm performance. Oneexplanation for these findings could be the selection process to participate in public support programs.
 
-
 The aim of the article is to assess differences in investment project characteristics (expected impact) between firms with approved and non-approved applications and to understand which kinds of projects are selected for a subsidy. The analysis is focused on the case study of applications submitted to the Portuguese Innovation Incentive System (SI Innovation) between 2007 and 2013.
 
 The results show that firms with approved applications are those that expect to invest more and forecast a higher increase in exports and productivity as the result of the investment project. However, these firms have investment projects with a lower contribution for growth and lower economic efficiency (return on investment in terms of productivity). Micro and small firms, which are usually more financially constrained, are less likely to receive the subsidy.
