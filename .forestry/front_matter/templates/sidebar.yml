@@ -1,0 +1,20 @@
+---
+label: Sidebar
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: blogInfo
+  label: blogInfo
+- type: field_group_list
+  name: sidebarLinks
+  label: sidebarLinks
+  fields:
+  - type: text
+    name: url
+    label: url
+  - type: text
+    name: title
+    label: title
