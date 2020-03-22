@@ -4,7 +4,6 @@ title = "Portuguese Economy Research Report"
 
 [[module.imports]]
 disable = false
-ignoreConfig = true
 path = "github.com/porteconj/pej_blog_theme"
 
 [[module.mounts]]
