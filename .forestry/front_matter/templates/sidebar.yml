@@ -1,6 +1,7 @@
 ---
 label: Sidebar
 hide_body: true
+display_field: title
 fields:
 - type: text
   name: title
@@ -13,8 +14,8 @@ fields:
   label: sidebarLinks
   fields:
   - type: text
-    name: url
-    label: url
-  - type: text
     name: title
     label: title
+  - type: text
+    name: url
+    label: url
