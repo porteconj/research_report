@@ -6,9 +6,15 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: blogInfo
-  label: blogInfo
+- name: blogInfo
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Blog Information
 - type: field_group_list
   name: sidebarLinks
   label: sidebarLinks
