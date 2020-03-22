@@ -5,6 +5,8 @@ blogInfo: 'This forum is dedicated to research on the Portuguese Economy. All sc
   of Master’s dissertations, PhD thesis, or that circulates as working papers, as
   well as published work (articles, chapters, and books). '
 sidebarLinks:
+- title: Join The Network
+  url: "#"
 - url: https://pej.iseg.ulisboa.pt/
   title: Journal Website
 
