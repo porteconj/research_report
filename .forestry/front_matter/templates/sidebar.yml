@@ -17,7 +17,7 @@ fields:
   label: Blog Information
 - type: field_group_list
   name: sidebarLinks
-  label: sidebarLinks
+  label: Sidebar Links
   fields:
   - type: text
     name: title
@@ -25,5 +25,12 @@ fields:
   - type: text
     name: url
     label: url
+  description: The links to other parts of PEJ that are displayed in the blog sidebar
+  config:
+    labelField: title
+- name: blogCurator
+  type: field_group
+  config: {}
+  label: Blog Curator
 pages:
 - content/sidebar.md
