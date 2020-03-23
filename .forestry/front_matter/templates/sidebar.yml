@@ -31,6 +31,12 @@ fields:
 - name: blogCurator
   type: field_group
   config: {}
+  fields:
+  - name: picture
+    type: file
+    config:
+      maxSize: '3'
+    label: Picture
   label: Blog Curator
 pages:
 - content/sidebar.md
