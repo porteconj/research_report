@@ -1,8 +1,6 @@
-github.com/porteconj/pej_blog_theme v0.0.0-20200322103447-9fcc6ab31fae h1:zp7uUUg74+JnsYQZ220m6godRSUCqW64EmA+fBQkULY=
-github.com/porteconj/pej_blog_theme v0.0.0-20200322103447-9fcc6ab31fae/go.mod h1:/JCYeJuQjItUD2ZL2jGUdMRCkm8i+9qcUJl1c8JVPvU=
-github.com/porteconj/pej_blog_theme v0.0.0-20200322201339-6b27e241f7ac h1:uB5Z3YrjLrnN8QljffY8BNpVaPoIgLluRv8i9v/UuHY=
-github.com/porteconj/pej_blog_theme v0.0.0-20200322201339-6b27e241f7ac/go.mod h1:/JCYeJuQjItUD2ZL2jGUdMRCkm8i+9qcUJl1c8JVPvU=
-github.com/porteconj/pej_blog_theme v0.0.0-20200323162424-eee0abd807ba h1:cz/hPFCx91KGHWxCv9PS+0VvHD/xIIxy3exyGPSD7R4=
-github.com/porteconj/pej_blog_theme v0.0.0-20200323162424-eee0abd807ba/go.mod h1:/JCYeJuQjItUD2ZL2jGUdMRCkm8i+9qcUJl1c8JVPvU=
-github.com/porteconj/pej_blog_theme v0.0.0-20200323172900-c204b1039411 h1:d8h73YLGQCdmzimXOFvvjkRo3TDnke8S19zCR/fT0T8=
-github.com/porteconj/pej_blog_theme v0.0.0-20200323172900-c204b1039411/go.mod h1:/JCYeJuQjItUD2ZL2jGUdMRCkm8i+9qcUJl1c8JVPvU=
+github.com/olafghanizadeh/social-images-module v0.0.0-20200323184542-15530ed0e40a h1:u16eNVvaRM8kErxL429eKJsTcFaqVFP32X7KHVs7yA4=
+github.com/olafghanizadeh/social-images-module v0.0.0-20200323184542-15530ed0e40a/go.mod h1:2yneEXGM/XW1CT3boqdDqnU/Qqh8u9kFJqR2n1JIDbU=
+github.com/olafghanizadeh/social-images-module v0.0.0-20200323185146-bc2a2150818c h1:6c6WgqP1oaGX5JlgUC/s+vBaI2AaI1fbFWlcO7Jzb5I=
+github.com/olafghanizadeh/social-images-module v0.0.0-20200323185146-bc2a2150818c/go.mod h1:2yneEXGM/XW1CT3boqdDqnU/Qqh8u9kFJqR2n1JIDbU=
+github.com/porteconj/pej_blog_theme v0.0.0-20200323175859-2cf35ad99a8c h1:h/Si8+vL/MUOQ1LD/hgHpaA3q7KB/7RV1/r7Te/cbr0=
+github.com/porteconj/pej_blog_theme v0.0.0-20200323175859-2cf35ad99a8c/go.mod h1:/JCYeJuQjItUD2ZL2jGUdMRCkm8i+9qcUJl1c8JVPvU=

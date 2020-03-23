@@ -10,10 +10,27 @@ enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
 
+[outputFormats]
+[outputFormats.HTML]
+mediaType = "text/html"
+[outputFormats.card]
+mediaType = "text/html"
+path = "card"
+permalinkable = true
+
+[outputs]
+  home = ["HTML", "json"]
+  page = ["HTML", "card"]
+
 [module]
 [[module.imports]]
 disable = false
 path = "github.com/porteconj/pej_blog_theme"
+
+[[module.imports]]
+disable = false
+ignoreConfig = false
+path = "github.com/olafghanizadeh/social-images-module"
 
 [[module.mounts]]
 source = "assets"
@@ -22,4 +39,6 @@ target = "assets"
 [[module.mounts]]
 source = "layouts"
 target = "layouts"
+
+
 
