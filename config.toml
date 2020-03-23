@@ -1,8 +1,16 @@
 title = "Portuguese Economy Research Report"
+description = "Nice page"
 baseURL = "/"
 
-[module]
 
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+
+[module]
 [[module.imports]]
 disable = false
 path = "github.com/porteconj/pej_blog_theme"
