@@ -1,4 +1,5 @@
 title = "Portuguese Economy Research Report"
+baseURL = "/"
 
 [module]
 
