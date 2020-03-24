@@ -15,3 +15,12 @@ fields:
 - type: text
   name: url
   label: url
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
