@@ -9,5 +9,16 @@ sidebarLinks:
   url: "#"
 - url: https://pej.iseg.ulisboa.pt/
   title: Journal Website
+blogCurator:
+  picture: ''
+  name: Rui Alburquerque
+  description: This page is curated by Professor Rui Alburquerque, currently teaching
+    and researching at Boston College. His main research interests are in asset pricing
+    and corporate governance.
+  links:
+  - title: IDEAS
+    link: https://ideas.repec.org/e/pal94.html#research
+  - title: Personal website
+    link: https://ruialbuquerque.webs.com/
 
 ---

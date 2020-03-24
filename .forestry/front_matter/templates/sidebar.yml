@@ -37,6 +37,38 @@ fields:
     config:
       maxSize: '3'
     label: Picture
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
+  - name: links
+    type: field_group_list
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Title
+    - name: link
+      type: text
+      config:
+        required: false
+      label: Link
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Links
   label: Blog Curator
 pages:
 - content/sidebar.md
