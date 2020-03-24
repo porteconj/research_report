@@ -9,6 +9,9 @@ enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
 
+[params]
+cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1585066179/research_report/"
+
 [module]
 [[module.imports]]
 disable = false
