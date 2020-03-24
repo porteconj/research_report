@@ -16,7 +16,7 @@ sections:
   path: content/sidebar.md
   label: Sidebar Information
 upload_dir: research_report
-public_path: ''
+public_path: https://res.cloudinary.com/portuguese-economic-journal/image/upload
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
