@@ -1,18 +1,16 @@
 ---
 author: albuquru
-date: 2016-11-20 11:23:05+00:00
-draft: false
+date: 2016-11-20T11:23:05.000+00:00
 title: The Impact of Collective Labor Bargaining Extensions
 type: post
-url: /2016/11/20/the-impact-of-collective-bargaining-extensions/
+url: "/2016/11/20/the-impact-of-collective-bargaining-extensions/"
 categories:
 - Portuguese Economy Research Report
----
 
+---
 The recent crises raised a number of questions about the role of structural reforms in promoting economic growth. One area that has received greater attention is collective bargaining: the interactions between firms and employees in setting of pay and many other working conditions can be highly relevant promoting micro and macro flexibility, increasing resilience during a crisis and growth during the recovery.
 
-![screen-shot-2016-11-20-at-11-31-28-am](https://portugueseeconomicjournal.files.wordpress.com/2016/11/screen-shot-2016-11-20-at-11-31-28-am.png)
-
+![](/v1585066179/research_report/2016/11/research_report_2016_11_screen-shot-2016-11-20-at-11-31-28-am_xmezim.png)
 
 This paper studies the causal impact of collective bargaining on the labor market. This study is focused on extensions, a key dimension of collective bargaining in many countries, related to the intervention of the State in widening the coverage of agreements to all firms and workers in each sector, regardless of union or employer association membership.
 
