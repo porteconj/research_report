@@ -16,6 +16,6 @@ The primary school expansion started in December 1940 with the approval of a nat
 
 The paper uses geographical variation in the number of schools built (and planned) to estimate causal effects of the increase in the supply of primary schools between 1940 and 1962. We find that an additional school per 1,000 residents increased enrolment by 20 students per 1,000 residents older than 7 and increased the literacy rate of the population aged 7 to 39 by 13 percent, relative to that of the population older than 40 in 1960.
 
-![image.png](https://portugueseeconomicjournal.files.wordpress.com/2019/12/image.png)
+![](/v1585066179/research_report/2019/12/research_report_2019_12_image_nsfpra.png)
 
 Click here to go to the paper by [Pedro Gomes and Matilde Pinto Machado](https://www.cambridge.org/core/journals/revista-de-historia-economica-journal-of-iberian-and-latin-american-economic-history/article/literacy-and-primary-school-expansion-in-portugal-194062/4293880054BF0A8DD101CC0335BC8734).
