@@ -1,15 +1,14 @@
 ---
 author: albuquru
-date: 2019-12-15 15:30:59+00:00
-draft: false
+date: 2019-12-15T15:30:59.000+00:00
 title: Aging and the compression of disability
 type: post
-url: /2019/12/15/aging-and-the-compression-of-disability/
+url: "/2019/12/15/aging-and-the-compression-of-disability/"
 categories:
 - Portuguese Economy Research Report
----
 
-![Screen Shot 2019-12-16 at 12.59.09 AM.png](/2019/12/screen-shot-2019-12-16-at-12.59.09-am.png)
+---
+![](/v1585066172/research_report/2019/12/research_report_2019_12_screen-shot-2019-12-16-at-12.59.09-am_a8dmiy.png)
 
 The age composition of the population in higher income countries has changed considerably. Signs of population aging have prompted concerns about its effects on the cost of health care systems. As people are living longer are they living healthier? On the one hand, the hypothesis of life extension, proposes that we are living longer but in poorer health. On the other hand, the optimistic hypothesis of “morbidity compression” proposes that as we live longer we spent less time in poor health.
 
