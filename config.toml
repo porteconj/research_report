@@ -10,7 +10,8 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
-cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload/"
+cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload"
+cloudinaryPath = "research_report"
 
 [module]
 [[module.imports]]
