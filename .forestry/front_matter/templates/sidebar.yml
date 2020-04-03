@@ -3,6 +3,11 @@ label: Sidebar
 hide_body: true
 display_field: title
 fields:
+- name: logo
+  type: file
+  config:
+    maxSize: '2'
+  label: logo
 - type: text
   name: title
   label: title
