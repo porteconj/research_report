@@ -18,5 +18,6 @@ blogCurator:
   links:
   - title: Personal website
     link: https://ruialbuquerque.webs.com/
+logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1585913410/research_report/perr_logo_j8egle.svg
 
 ---
