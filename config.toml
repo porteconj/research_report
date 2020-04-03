@@ -1,5 +1,5 @@
 title = "Portuguese Economy Research Report"
-description = "Nice page"
+description = "A blog on ongoing research on the Portuguese economy"
 baseURL = "/"
 
 languageCode = "en-us"
@@ -12,6 +12,8 @@ canonifyURLs = true
 [params]
 cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload/"
 cloudinaryPath = "research_report"
+twitter = "@porteconj"
+sitename = "Portuguese Economy Research Report"
 
 [module]
 [[module.imports]]
