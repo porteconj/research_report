@@ -10,7 +10,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
-cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload/"
+cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload"
 cloudinaryPath = "research_report"
 twitter = "@porteconj"
 sitename = "Portuguese Economy Research Report"
