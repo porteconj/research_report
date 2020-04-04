@@ -5,8 +5,10 @@ blogInfo: 'This forum is dedicated to research on the Portuguese Economy. All sc
   of Master’s dissertations, PhD thesis, or that circulates as working papers, as
   well as published work (articles, chapters, and books). '
 sidebarLinks:
+- title: Send your contribution
+  url: mailto:discussionspej@gmail.com
 - title: Join The Network
-  url: "#"
+  url: https://docs.google.com/forms/d/e/1FAIpQLSf_XBpr7klTMwn_OR9aSNWFfmP9m663cqitoLqXwTidfNY9jQ/viewform
 - url: https://pej.iseg.ulisboa.pt/
   title: Journal Website
 blogCurator:
