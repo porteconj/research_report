@@ -9,7 +9,7 @@ sidebarLinks:
   url: mailto:discussionspej@gmail.com
 - title: Join The Network
   url: https://docs.google.com/forms/d/e/1FAIpQLSf_XBpr7klTMwn_OR9aSNWFfmP9m663cqitoLqXwTidfNY9jQ/viewform
-- url: https://pej.iseg.ulisboa.pt/
+- url: https://pej.pt
   title: Journal Website
 blogCurator:
   picture: "/v1585074958/research_report/rui_zarg8m.jpg"
