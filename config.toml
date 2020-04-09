@@ -14,6 +14,7 @@ cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/up
 cloudinaryPath = "research_report"
 twitter = "@porteconj"
 sitename = "Portuguese Economy Research Report"
+seoImage = "https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1586458023/research_report/ograph_jf38qz.png"
 
 [module]
 [[module.imports]]
