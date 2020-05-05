@@ -13,7 +13,7 @@ sections:
   templates:
   - blog-post
 - type: document
-  path: content/sidebar.md
+  path: content/posts
   label: Sidebar Information
 upload_dir: research_report
 public_path: ''
