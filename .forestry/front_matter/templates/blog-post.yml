@@ -22,3 +22,5 @@ fields:
   label: type
   default: post
   hidden: true
+pages:
+- content/posts/test-post.md
