@@ -15,5 +15,12 @@ fields:
 - type: text
   name: title
   label: title
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  default: post
+  hidden: true
 pages:
 - content/posts/test-post.md
