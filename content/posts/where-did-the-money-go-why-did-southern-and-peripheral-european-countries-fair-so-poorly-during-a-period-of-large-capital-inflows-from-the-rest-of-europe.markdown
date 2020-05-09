@@ -2,7 +2,6 @@
 author = "albuquru"
 categories = ["Portuguese Economy Research Report"]
 date = 2020-03-25T15:59:35Z
-draft = true
 title = "PhD funding and time to PhD completion in Portugal"
 type = "post"
 url = ""
