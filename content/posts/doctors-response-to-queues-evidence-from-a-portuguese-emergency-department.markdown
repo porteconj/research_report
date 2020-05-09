@@ -1,25 +1,17 @@
 +++
 author = "albuquru"
 categories = ["Portuguese Economy Research Report"]
-date = 2020-04-05T15:59:35Z
+date = 2020-05-06T15:59:35Z
 draft = true
-title = "Doctors’ response to queues: evidence from a Portuguese emergency department"
+title = "Determinants of total factor productivity in the Portuguese quaternary sector"
 type = "post"
 url = "/doctor-response-queues/"
 
 +++
-This study analyzes how emergency room doctors change their behavior when the waiting room is crowded. Resources in a fast-care setting such as emergency departments are limited (namely physicians’ time), and so it is important to study the extent to which those restrictions reflect on lower provision of care when more patients are waiting.
+This paper studies total factor productivity (TFP) of the quaternary sector, or knowledge-based activities sector. The occupations associated with this sector are linked with knowledge and social/creative intelligence. These activities are admittedly less likely to be automated in the future due to their human heuristic requirements. A descriptive analysis of a firm-level dataset of Portuguese firms shows that this group of activities differs from others along several characteristics: the share of gross value added, capital per worker, and wage expenses. For these reasons the quaternary sector should be studied separately.
 
-The paper evaluates doctors’ response to an increase in the number of people waiting on three different dimensions: time spent with patients, number of exams and lab tests during the patient’s visit, and likelihood of being sent home or to a primary care facility rather than being treated at the hospital.
+The research finds that wages, international openness, and innovation impact quaternary-sector TFP positively, as is commonly found in the manufacturing and services sector. However, a smaller impact of innovation on knowledge-based activities relative to manufacturing suggests decreasing returns to innovation. Internal firm characteristics, age and size, demonstrate a non-linear impact on quaternary TFP. Finally, contrary to the remaining sectors of economic activity, the results show that leverage impacts negatively TFP on quaternary firms. This last finding may be explained by the quaternary sector’s almost exclusive use of equity financing.
 
-The paper contains data on all patients that visit the emergency department of a Lisbon hospital over almost two years. It studies variations in the queue size that occur within an hour to control for patients characteristics that depend on seasonality and time of day. The paper uses the effect of arrivals to the emergency room to provide causal estimates of the queue size on doctors’ behavior: results portray the effect of the queue size on the outcomes and do not capture any effect of the outcomes on the queue size (reverse causality).
+TFP is a crucial component to long-term economic progress. It is crucial to understand which factors determine the growth of this key variable. As the quaternary sector becomes increasingly important as a driver of economic growth, understanding the sources of variation in TFP in the sector can help us better forecast growth.
 
-The paper shows that as the queue size increases, doctors spend less time with patients, and prescribe fewer lab tests and exams. Patients are more likely to be discharged to a primary care facility, while less likely to be admitted to the hospital.
-
-The paper also studies the heterogeneity of doctors’ response to the queue according to patients’ urgency level determined during the emergency department triage. There is evidence of heterogeneity in the time spent with the patient: when the queue increases, doctors decrease more the length of stay of patients with low urgency than those with a very high urgency visit. We do not find such evidence in the decision to send patients for exams/lab tests.
-
-Rationing both treatment and diagnosis is not bad _per se_, and whether it has negative health consequences is an empirical question that depends on the amount of benefits that patients lose from seeing their level of treatment and diagnosis decreased. If the patients have only mild health issues, then decreasing the amount of time spent with a doctor may not have any serious consequences.
-
-It is encouraging that the paper finds some evidence that physicians ration treatment efficiently, in the sense that they decrease intensity to patients without urgent conditions, whose health impacts are more likely to be small, by more than for patients with urgent conditions.
-
-Click here to go to the paper by [Bruno Martins and Luís Filipe](https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3957).
+Click here to go to the paper by [Paulo Matos and Pedro Neves](https://ideas.repec.org/p/mde/wpaper/0149.html).
