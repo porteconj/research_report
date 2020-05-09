@@ -2,7 +2,6 @@
 author = "albuquru"
 categories = ["Portuguese Economy Research Report"]
 date = 2020-04-05T15:59:35Z
-draft = true
 title = "Doctors’ response to queues: evidence from a Portuguese emergency department"
 type = "post"
 url = "/phd-funding-portugal/"
