@@ -1,23 +1,25 @@
 +++
 author = "albuquru"
 categories = ["Portuguese Economy Research Report"]
-date = 2020-03-25T15:59:35Z
+date = 2020-04-05T15:59:35Z
 draft = true
-title = "PhD funding and time to PhD completion in Portugal"
+title = "Doctors’ response to queues: evidence from a Portuguese emergency department"
 type = "post"
 url = "/phd-funding-portugal/"
 
 +++
-This paper investigates the impact of PhD funding on the time to PhD completion, using data of PhD holders working in Portugal. Time to PhD completion has been a major cause for concern for research funding agencies, universities, academics, and doctoral students facing increasingly constrained labor markets, particularly in academia. The Higher Education Funding Council for England reported that, in 2013, around 73% of those starting Ph.Ds. in 2010/11 were projected to take 7 years to receive the degree, while in the USA all fields of knowledge reported median times of more than 6 years to complete the Ph.D., and some were around 9 years. A key factor associated with time to PhD completion is funding.
+This study analyzes how emergency room doctors change their behavior when the waiting room is crowded. Resources in a fast-care setting such as emergency departments are limited (namely physicians’ time), and so it is important to study the extent to which those restrictions reflect on lower provision of care when more patients are waiting.
 
-Previous studies found mixed findings concerning the effects of PhD funding, but these were mostly focused on single disciplinary fields, or a single university, and the vast majority considered the US higher education system. This study makes use of a representative sample of the population of PhD holders working in Portugal in all fields of knowledge. This dataset allows for a more comprehensive and robust analysis, and focuses on several research questions. What determines the probability of receiving funding to pursue a PhD? Do PhD funded and PhD self-funded students differ in the time to PhD completion? Are there differences between those students receiving funds from PhD grants and from research project grants? The empirical approach to answer these questions deals with the concern that the factors leading to student’s receiving funding are likely to also affect the time to PhD completion.
+The paper evaluates doctors’ response to an increase in the number of people waiting on three different dimensions: time spent with patients, number of exams and lab tests during the patient’s visit, and likelihood of being sent home or to a primary care facility rather than being treated at the hospital.
 
-The paper finds that the probability of receiving funding to pursue a PhD is higher for younger students, females, Portuguese nationals, and those with multidisciplinary educations.
+The paper contains data on all patients that visit the emergency department of a Lisbon hospital over almost two years. It studies variations in the queue size that occur within an hour to control for patients characteristics that depend on seasonality and time of day. The paper uses the effect of arrivals to the emergency room to provide causal estimates of the queue size on doctors’ behavior: results portray the effect of the queue size on the outcomes and do not capture any effect of the outcomes on the queue size (reverse causality).
 
-The paper also finds that the time to PhD completion increases for financially supported students, though it decreases for funded students with high research productivity–a critical credential in academic and scholarly settings with clear relevance for hiring. The paper does not find a statistically significant difference in the time to PhD completion between those funded by PhD grants and those funded by research project grants.
+The paper shows that as the queue size increases, doctors spend less time with patients, and prescribe fewer lab tests and exams. Patients are more likely to be discharged to a primary care facility, while less likely to be admitted to the hospital.
 
-The results show that PhD students respond to incentives and that these incentives shape the behaviors related to the completion of their doctoral studies. This is evident when one combines the probability to receive PhD funding with research productivity during the doctoral studies. Accumulating these two credentials (PhD funding plus publications) gives Ph.D. students more confidence to face the labor market after finishing the degree, knowing they have a signal edge in the competitive (and constrained) market they will be facing (which in Portugal is still mainly the academic labor market).
+The paper also studies the heterogeneity of doctors’ response to the queue according to patients’ urgency level determined during the emergency department triage. There is evidence of heterogeneity in the time spent with the patient: when the queue increases, doctors decrease more the length of stay of patients with low urgency than those with a very high urgency visit. We do not find such evidence in the decision to send patients for exams/lab tests.
 
-Regardless of whether the support is through a fellowship or a research assistantship, when students receive funding support to engage in research-related activities the time to the Ph.D. increases. This result should not imply that funding to support Ph.D. students should be reduced or constrained to improve the overall time to completion. Without funding, the number of potential doctoral students may substantially decline with potential detrimental effects for universities and countries trying to raise their human capital. Rather, funding support for Ph.D. students appears to be critical to attracting good candidates to doctoral programs and giving them enough time to prepare for the constrained national and global postdoctoral labor markets.
+Rationing both treatment and diagnosis is not bad _per se_, and whether it has negative health consequences is an empirical question that depends on the amount of benefits that patients lose from seeing their level of treatment and diagnosis decreased. If the patients have only mild health issues, then decreasing the amount of time spent with a doctor may not have any serious consequences.
 
-Click here to go to the paper by [Hugo Horta, Mattia Cattaneo and Michele Meoli](https://academic.oup.com/rev/advance-article-abstract/doi/10.1093/rev/rvz002/5321164).
+It is encouraging that the paper finds some evidence that physicians ration treatment efficiently, in the sense that they decrease intensity to patients without urgent conditions, whose health impacts are more likely to be small, by more than for patients with urgent conditions.
+
+Click here to go to the paper by [Bruno Martins and Luís Filipe](https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3957).
