@@ -6,9 +6,12 @@ fields:
 - type: text
   name: author
   label: author
+  hidden: true
 - type: datetime
   name: date
-  label: date
+  label: Date
+  config:
+    date_format: ''
 - type: text
   name: title
   label: title
