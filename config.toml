@@ -5,6 +5,9 @@ baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 
+[permalinks]
+  posts = "/:year/:month/:title/"
+
 enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
