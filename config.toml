@@ -6,7 +6,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 
 [permalinks]
-  posts = "/:year/:month/:title/"
+  posts = "/:year/:month/:slug/"
 
 enableGitInfo = true
 enableRobotsTXT = true
