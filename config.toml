@@ -13,6 +13,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
+analyticsID = "UA-81134426-2"
 cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload"
 cloudinaryPath = "research_report"
 twitter = "@porteconj"

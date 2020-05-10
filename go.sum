@@ -94,3 +94,9 @@ github.com/porteconj/pej_blog_theme v0.0.0-20200403174841-98a5d4f5cac6 h1:3sxJPq
 github.com/porteconj/pej_blog_theme v0.0.0-20200403174841-98a5d4f5cac6/go.mod h1:/JCYeJuQjItUD2ZL2jGUdMRCkm8i+9qcUJl1c8JVPvU=
 github.com/porteconj/pej_blog_theme v0.0.0-20200403203851-18a1de372941 h1:DGTO0gQXwiOjYen0gcNb7GZIOp68BeenAPEN8DvLskc=
 github.com/porteconj/pej_blog_theme v0.0.0-20200403203851-18a1de372941/go.mod h1:/JCYeJuQjItUD2ZL2jGUdMRCkm8i+9qcUJl1c8JVPvU=
+github.com/porteconj/pej_blog_theme v0.0.0-20200510115535-15ce4b8eafa6 h1:34MGh3+chqA0ub4yiP3E8tfI5zm2BVyRW555cIIFP8Q=
+github.com/porteconj/pej_blog_theme v0.0.0-20200510115535-15ce4b8eafa6/go.mod h1:/JCYeJuQjItUD2ZL2jGUdMRCkm8i+9qcUJl1c8JVPvU=
+github.com/porteconj/pej_blog_theme v0.0.0-20200510120134-fb26fc01129c h1:/+w7g05oCVZxfb0ljZmta30qEYqEcGbXEvvNkUPmkLs=
+github.com/porteconj/pej_blog_theme v0.0.0-20200510120134-fb26fc01129c/go.mod h1:/JCYeJuQjItUD2ZL2jGUdMRCkm8i+9qcUJl1c8JVPvU=
+github.com/porteconj/pej_blog_theme v0.0.0-20200510120527-98ecdc3ca79d h1:dOKt0l/ybuRgBQJOze/jv9BJ5dWlxHmZsWzwGfb/Bxw=
+github.com/porteconj/pej_blog_theme v0.0.0-20200510120527-98ecdc3ca79d/go.mod h1:/JCYeJuQjItUD2ZL2jGUdMRCkm8i+9qcUJl1c8JVPvU=
