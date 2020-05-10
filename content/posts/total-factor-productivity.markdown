@@ -4,7 +4,7 @@ categories = ["Portuguese Economy Research Report"]
 date = 2020-05-06T15:59:35Z
 title = "Determinants of total factor productivity in the Portuguese quaternary sector"
 type = "post"
-url = "/doctor-response-queues/"
+url = "/determinants-total-factor-productivity/"
 
 +++
 This paper studies total factor productivity (TFP) of the quaternary sector, or knowledge-based activities sector. The occupations associated with this sector are linked with knowledge and social/creative intelligence. These activities are admittedly less likely to be automated in the future due to their human heuristic requirements. A descriptive analysis of a firm-level dataset of Portuguese firms shows that this group of activities differs from others along several characteristics: the share of gross value added, capital per worker, and wage expenses. For these reasons the quaternary sector should be studied separately.
