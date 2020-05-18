@@ -15,6 +15,9 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  name: subtitle
+  label: subtitle
 - name: type
   type: text
   config:
