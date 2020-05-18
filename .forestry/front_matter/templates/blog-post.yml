@@ -11,7 +11,7 @@ fields:
   name: date
   label: Date
   config:
-    date_format: 'MM/DD/YYYY'
+    date_format: MM/DD/YYYY
 - type: text
   name: title
   label: title
