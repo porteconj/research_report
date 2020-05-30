@@ -21,6 +21,7 @@ sitename = "Portuguese Economy Research Report"
 seoImage = "https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1586458023/research_report/ograph_jf38qz.png"
 footerText = "This blog is an initiave of the Portugese Economic Journal. The forum runs independently from the Portuguese Economic Journal (PEJ) and posts published on the blog have no obligation or right towards the journal. The forum is not affiliated with any religion, political parties and ideologies. Participants are responsible for opinions expressed therein."
 netlifyFetch = "https://boring-goodall-0284a0.netlify.app/.netlify/functions/fetch"
+seoImagePath = "https://perr-preview.netlify.app/img/"
 
 [module]
 [[module.imports]]
