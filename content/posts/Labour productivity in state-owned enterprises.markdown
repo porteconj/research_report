@@ -3,7 +3,7 @@ author = "albuquru"
 categories = ["Portuguese Economy Research Report"]
 date = 2020-05-06T15:59:35Z
 draft = true
-title = "Determinants of total factor productivity in the Portuguese quaternary sector"
+title = "Labour productivity in state-owned enterprises"
 type = "post"
 url = "/determinants-total-factor-productivity/"
 
