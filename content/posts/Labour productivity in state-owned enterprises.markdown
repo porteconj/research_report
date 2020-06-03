@@ -4,7 +4,7 @@ categories = ["Portuguese Economy Research Report"]
 date = 2020-06-03T15:59:35Z
 title = "Labor productivity in state-owned enterprises"
 type = "post"
-url = "/determinants-total-factor-productivity/"
+url = "/labor-productivity-state-owned-enterprises/"
 
 +++
 As a measure of austerity in the aftermath of the Global and Financial Crisis (GFC), the Portuguese government revoked four holidays for both public and private employees: two civilian (Republic Day and Restoration of Independence) and two religious (Corpus Christi and All Saints Day) holidays. A plausible motivation for canceling the two holidays was to increase the number of working days and thereby lowering labor costs. The move was effective starting in 2013 and was presented as a measure to increase productivity among public employees. The four holidays were restored by the government in January 2016.
