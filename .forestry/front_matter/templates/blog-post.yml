@@ -25,3 +25,5 @@ fields:
   label: type
   default: post
   hidden: true
+pages:
+- content/posts/labor-productivity-in-state-owned-enterprises.md
