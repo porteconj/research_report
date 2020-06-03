@@ -2,6 +2,7 @@
 author = "albuquru"
 categories = ["Portuguese Economy Research Report"]
 date = 2020-06-03T15:59:35Z
+draft = true
 title = "Labor productivity in state-owned enterprises"
 type = "post"
 url = "/determinants-total-factor-productivity/"
