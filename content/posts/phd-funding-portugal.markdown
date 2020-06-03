@@ -5,7 +5,7 @@ date = 2020-03-25T15:59:35Z
 title = "PhD funding and time to PhD completion in Portugal"
 type = "post"
 url = "/phd-funding-portugal/"
-
+aliases: [/2020/03/25/phd-funding-and-time-to-phd-completion-in-portugal/]
 +++
 This paper investigates the impact of PhD funding on the time to PhD completion, using data of PhD holders working in Portugal. Time to PhD completion has been a major cause for concern for research funding agencies, universities, academics, and doctoral students facing increasingly constrained labor markets, particularly in academia. The Higher Education Funding Council for England reported that, in 2013, around 73% of those starting Ph.Ds. in 2010/11 were projected to take 7 years to receive the degree, while in the USA all fields of knowledge reported median times of more than 6 years to complete the Ph.D., and some were around 9 years. A key factor associated with time to PhD completion is funding.
 
