@@ -3,7 +3,7 @@ author = "albuquru"
 date = 2020-06-11T23:00:00Z
 subtitle = ""
 title = "The disposition effect among mutual fund participants in Portugal"
-type = ""
+type = "post"
 
 +++
 The disposition effect is the propensity of investors to sell assets on which they have experienced gains and to hold assets on which they have faced (unrealized) losses. This paper studies the disposition effect among mutual fund participants in Portugal.
