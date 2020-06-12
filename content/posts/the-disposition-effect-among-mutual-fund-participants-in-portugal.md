@@ -1,7 +1,6 @@
 +++
 author = "albuquru"
 date = 2020-06-11T23:00:00Z
-draft = true
 subtitle = ""
 title = "The disposition effect among mutual fund participants in Portugal"
 type = ""
