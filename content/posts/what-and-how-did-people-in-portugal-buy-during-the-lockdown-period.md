@@ -3,7 +3,7 @@ author = "albuquru"
 date = 2020-06-22T23:00:00Z
 subtitle = ""
 title = "What and how did people in Portugal buy during the Great Lockdown period?"
-type = ""
+type = "post"
 
 +++
 While experts had warned about the likelihood of a pandemic given the increasing frequency of outbreaks in this century, SARS-CoV-2 caught the world largely unprepared. Over the last century, pandemics have been responsible for more deaths than armed conflicts. Their impact on economic activity is also overwhelming. This paper presents early evidence of the impact of the covid-19 pandemic on the Portuguese economy.
