@@ -23,3 +23,5 @@ The paper finds suggestive evidence of initial stockpiling of essential through 
 ![](/v1592925363/research_report/Screen_Shot_2020-06-23_at_4.15.19_PM_xc3lw2.png)
 
 It is also interesting to note the rapid recovery of purchases in technology and entertainment in April, after an initial drop in March, possibly to adapt to the confinement. Moreover, buyers adjust their shopping strategies in rational ways to minimize public health risks: they go less often to supermarkets and buy more each time, and visit local groceries more.
+
+Click here to go to the paper by [Bruno Carvalho, Susana Peralta, and Joao Pereira dos Santos](https://econpapers.repec.org/paper/ecawpaper/2013_2f307531.htm).
