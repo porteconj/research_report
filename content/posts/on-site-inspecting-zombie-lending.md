@@ -1,10 +1,10 @@
 +++
 author = "albuquru"
 date = 2020-07-06T23:00:00Z
-draft = true
+draft = false
 subtitle = ""
 title = "On-site inspecting zombie lending"
-type = ""
+type = "post"
 
 +++
 Zombie firms have received a lot of attention from academics and policymakers in the aftermath of the last global financial crisis. These are firms that are non-viable, but they remain artificially alive through the rollover of bank loans. This typically happens in low interest rate environments, when banks have fewer incentives to recognize losses in their balance sheet. By lending to these zombie firms, banks are not allocating scarce funding to firms with viable projects, thereby leading to a misallocation of resources in the economy.
