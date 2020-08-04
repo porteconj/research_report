@@ -26,6 +26,7 @@ fields:
   default: post
   hidden: true
 pages:
+- content/posts/competition-in-the-over-the-counter-drug-market-after-deregulation-evidence-from-portugal.md
 - content/posts/labor-productivity-in-state-owned-enterprises.md
 - content/posts/on-site-inspecting-zombie-lending.md
 - content/posts/the-disposition-effect-among-mutual-fund-participants-in-portugal.md
