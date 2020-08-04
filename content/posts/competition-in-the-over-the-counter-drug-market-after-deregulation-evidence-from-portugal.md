@@ -3,7 +3,7 @@ author = "albuquru"
 date = 2020-08-03T23:00:00Z
 subtitle = ""
 title = "Competition in the over-the-counter drug market after deregulation: evidence from Portugal"
-type = ""
+type = "post"
 
 +++
 In 2005, Portugal allowed over-the-counter (OTC) drugs to be sold outside pharmacies, namely in supermarkets and outlets (_parafarmácias)_. The rationale for OTC market liberalization was simple: the entry of new retailers, combined with free pricing, would lower OTC prices via increased competition. This paper examines whether the entry of new, non-pharmacy OTC retailers triggered price reductions by incumbent pharmacies.
