@@ -1,7 +1,6 @@
 +++
 author = "albuquru"
 date = 2020-09-17T04:00:00Z
-draft = true
 subtitle = ""
 title = "Corporate governance and financial policies of Portuguese family firms"
 type = ""
