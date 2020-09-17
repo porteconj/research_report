@@ -1,9 +1,9 @@
 +++
 author = "albuquru"
 date = 2020-09-17T04:00:00Z
-subtitle = ""
+subtitle = "A paper by Inna Sousa Paiva"
 title = "Corporate governance and financial policies of Portuguese family firms"
-type = ""
+type = "post"
 
 +++
 Many businesses in the global economy are family firms. How do family firms differ from non-family firms with regards to corporate governance and financial policies? Current literature on the issue of corporate governance and financial development provides evidence that family firms adopt different financial practices from their non-family counterparts. Private family firms are at an advantage in terms of management experience and governance and a disadvantage when it comes to obtaining long-term debt and external equity. This may be the result of the unique characteristics of the private family business.
