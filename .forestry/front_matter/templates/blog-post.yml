@@ -18,13 +18,6 @@ fields:
 - type: text
   name: subtitle
   label: subtitle
-- name: type
-  type: text
-  config:
-    required: false
-  label: type
-  default: post
-  hidden: true
 pages:
 - content/posts/competition-in-the-over-the-counter-drug-market-after-deregulation-evidence-from-portugal.md
 - content/posts/corporate-governance-and-financial-policies-of-portuguese-family-firms.md
