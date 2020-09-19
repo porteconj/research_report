@@ -1,7 +1,6 @@
 +++
 author = "albuquru"
 date = 2020-09-19T04:00:00Z
-draft = true
 subtitle = ""
 title = "The impact of minimum wage policies in financially distressed firms"
 type = ""
