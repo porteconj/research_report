@@ -31,6 +31,11 @@ blogCurator:
       link: https://www.linkedin.com/in/domingos-seward-617059151/
 logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1585913410/research_report/perr_logo_j8egle.svg
 blogCurators:
+- name: Rui Alburquerque
+  title: Principal curator
+  bio: ''
+  picture: ''
+  links: []
 - name: Domingos Seward
   title: Co-curator
   bio: ''
