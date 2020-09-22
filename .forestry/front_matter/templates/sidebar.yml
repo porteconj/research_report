@@ -64,7 +64,7 @@ fields:
       config:
         required: false
       label: title
-    - name: links
+    - name: link
       type: text
       config:
         required: false

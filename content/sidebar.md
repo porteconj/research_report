@@ -36,14 +36,16 @@ blogCurators:
   bio: This page is curated by Professor Rui Alburquerque, currently teaching and
     researching at Boston College. His main research interests are in asset pricing
     and corporate governance.
-  picture: ''
+  picture: '/v1585074958/research_report/rui_zarg8m.jpg'
   links:
   - title: Perosnal website
-    links: https://ruialbuquerque.webs.com/
+    link: https://ruialbuquerque.webs.com/
 - name: Domingos Seward
   title: Co-curator
   bio: ''
-  picture: ''
-  links: []
+  picture: '/v1600776415/research_report/domingos.jpg'
+  links:
+  - title: LinkedIn
+    link: https://www.linkedin.com/in/domingos-seward-617059151/
 
 ---
