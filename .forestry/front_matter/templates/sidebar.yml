@@ -41,6 +41,39 @@ fields:
     config:
       required: false
     label: name
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: bio
+    type: text
+    config:
+      required: false
+    label: bio
+  - name: picture
+    type: file
+    config:
+      maxSize: 64
+    label: picture
+  - name: links
+    type: field_group_list
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: title
+    - name: links
+      type: text
+      config:
+        required: false
+      label: links
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: links
   config:
     min: 
     max: 
