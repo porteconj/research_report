@@ -34,50 +34,17 @@ fields:
   config:
     labelField: title
 - name: blogCurators
-  type: field_group
-  config: {}
+  type: field_group_list
   fields:
-  - name: blogCurator
-    type: field_group_list
-    fields:
-    - name: name
-      type: text
-      config:
-        required: false
-      label: name
-    - name: picture
-      type: file
-      config:
-        maxSize: 64
-      label: Picture
-    - name: description
-      type: text
-      config:
-        required: false
-      label: description
-    - name: links
-      type: field_group_list
-      fields:
-      - name: link
-        type: text
-        config:
-          required: false
-        label: link
-      - name: title
-        type: text
-        config:
-          required: false
-        label: title
-      config:
-        min: 
-        max: 
-        labelField: 
-      label: links
+  - name: name
+    type: text
     config:
-      min: 
-      max: 
-      labelField: 
-    label: Blog Curator
-  label: Blog Curator
+      required: false
+    label: name
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Blog Curators
 pages:
 - content/sidebar.md
