@@ -12,21 +12,29 @@ sidebarLinks:
 - url: http://pej.pt
   title: Journal Website
 blogCurator:
-  - rui:
-      picture: "/v1585074958/research_report/rui_zarg8m.jpg"
-      name: Rui Alburquerque
-      title: Main curator
-      description: This page is curated by Professor Rui Alburquerque, currently teaching and researching at Boston College. His main research interests are in asset pricing and corporate governance.
-      links:
-      - title: Personal website
-        link: https://ruialbuquerque.webs.com/
-  - domingos:
-      picture: "/v1600776415/research_report/domingos.jpg"
-      name: Domingos Seward
-      title: Co-curator
-      links:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/domingos-seward-617059151/
+- rui:
+    picture: "/v1585074958/research_report/rui_zarg8m.jpg"
+    name: Rui Alburquerque
+    title: Main curator
+    description: This page is curated by Professor Rui Alburquerque, currently teaching
+      and researching at Boston College. His main research interests are in asset
+      pricing and corporate governance.
+    links:
+    - title: Personal website
+      link: https://ruialbuquerque.webs.com/
+- domingos:
+    picture: "/v1600776415/research_report/domingos.jpg"
+    name: Domingos Seward
+    title: Co-curator
+    links:
+    - title: LinkedIn
+      link: https://www.linkedin.com/in/domingos-seward-617059151/
 logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1585913410/research_report/perr_logo_j8egle.svg
+blogCurators:
+  blogCurator:
+  - name: Domingos
+    picture: ''
+    description: ''
+    links: []
 
 ---
