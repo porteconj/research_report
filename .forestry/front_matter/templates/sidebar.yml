@@ -68,7 +68,7 @@ fields:
       type: text
       config:
         required: false
-      label: links
+      label: link
     config:
       min: 
       max: 
