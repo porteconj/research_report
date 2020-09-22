@@ -33,7 +33,7 @@ fields:
   description: The links to other parts of PEJ that are displayed in the blog sidebar
   config:
     labelField: title
-- name: blogCurator
+- name: blogCurators
   type: field_group
   config: {}
   fields:
@@ -55,29 +55,29 @@ fields:
       config:
         required: false
       label: description
+    - name: links
+      type: field_group_list
+      fields:
+      - name: link
+        type: text
+        config:
+          required: false
+        label: link
+      - name: title
+        type: text
+        config:
+          required: false
+        label: title
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: links
     config:
       min: 
       max: 
       labelField: 
     label: Blog Curator
-  - name: links
-    type: field_group_list
-    fields:
-    - name: title
-      type: text
-      config:
-        required: false
-      label: Title
-    - name: link
-      type: text
-      config:
-        required: false
-      label: Link
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Links
   label: Blog Curator
 pages:
 - content/sidebar.md
