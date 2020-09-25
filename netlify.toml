@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo mod get -u && hugo --baseURL $URL --gc"
 
 [context.production.environment]
-HUGO_VERSION = "0.70.0"
+HUGO_VERSION = "0.75.1"
 HUGO_ENV = "production"
 GO_VERSION = "1.14"
 
@@ -18,6 +18,6 @@ GO_VERSION = "1.14"
     # All the feeds we wish to gather for use in the build
 
     [[plugins.inputs.feeds]]
-      name = "perr-analytics"
+      name = "analytics"
       url = "https://perr-analytics.netlify.app/.netlify/functions/fetch"
       ttl = 3600
