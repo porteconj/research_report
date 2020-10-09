@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2020-10-09T04:00:00Z
-draft = true
 subtitle = ""
 title = "Sovereign distress and the credibility of deposit insurance"
 
