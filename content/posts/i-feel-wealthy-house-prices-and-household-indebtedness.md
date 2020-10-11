@@ -1,7 +1,6 @@
 +++
 author = "albuquru"
 date = 2020-10-11T04:00:00Z
-draft = true
 subtitle = ""
 title = "I feel wealthy: house prices and household indebtedness"
 
