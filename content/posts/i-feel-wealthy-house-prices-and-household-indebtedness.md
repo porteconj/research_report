@@ -14,6 +14,4 @@ The results indicate that households who feel they have benefitted from house pr
 
 The remaining results confirm the evidence in other studies and for other countries. First, wealth in real assets is a poor predictor of indebtedness, while financial wealth is negatively associated with the probability of indebtedness. Second, a decrease in household’s living standards increases the probability of indebtedness. Third, lower-income households are more prone to use housing as collateral, while wealthier households display relatively higher over-indebtedness ratios in response to housing wealth.
 
-Sofia Vale† and Francisco Camo ̃es
-
-https://www.researchgate.net/publication/329174215_I_feel_wealthy_A_major_determinant_of_Portuguese_households%27_indebtedness
+Click here to go to the paper by [Sofia Vale and Francisco Camões](https://www.researchgate.net/publication/329174215_I_feel_wealthy_A_major_determinant_of_Portuguese_households%27_indebtedness).
