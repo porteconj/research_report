@@ -2,7 +2,7 @@
 author = ""
 date = 2020-11-04T05:00:00Z
 subtitle = ""
-title = "Product Market Decisions and product quality in the Wine Industry when Financial Constraints Hit"
+title = "Product market decisions and product quality in the wine industry when financial constraints hit"
 
 +++
 Barriers in access to finance (i.e., _financial constraints_) have been shown to affect real decisions of companies such as innovation, investment in fixed capital,and employment. This paper studies whether financial frictions affect one of the most central corporate decisions – which products to produce (i.e., _product mix_).The hypothesis is that firms adjust their product mix in order to generate cash flows faster. As different products have different production cycles and generate cash-flow at different points in time, companies may adjust their product mix in order to shorten the cash-flow maturity.
