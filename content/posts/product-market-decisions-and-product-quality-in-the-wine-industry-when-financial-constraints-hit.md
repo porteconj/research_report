@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2020-11-04T05:00:00Z
-draft = true
 subtitle = ""
 title = "Product Market Decisions and product quality in the Wine Industry when Financial Constraints Hit"
 
