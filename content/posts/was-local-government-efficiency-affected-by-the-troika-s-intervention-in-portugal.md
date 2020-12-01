@@ -1,7 +1,6 @@
 +++
 author = "albuquru"
 date = 2020-12-01T05:00:00Z
-draft = true
 subtitle = ""
 title = "Was local government efficiency affected by the Troika’s intervention in Portugal?"
 
