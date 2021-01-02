@@ -2,7 +2,7 @@
 author = "albuquru"
 date = 2021-01-02T05:00:00Z
 subtitle = ""
-title = "Does a VAT rise harm the tourism industry? Portuguese evidence"
+title = "How the tourism industry responded to the 2011 VAT increase?"
 
 +++
 Does a significant increase in VAT rates harm the tourism industry and if so how much? This paper investigates the consequences of a large increase in VAT rates on firm profitability and survival. In 2011, the Portuguese government increased the VAT by ten percent on catering services, restaurant meals, and beverages.
