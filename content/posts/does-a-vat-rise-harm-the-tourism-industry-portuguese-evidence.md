@@ -1,7 +1,6 @@
 +++
 author = "albuquru"
 date = 2021-01-02T05:00:00Z
-draft = true
 subtitle = ""
 title = "Does a VAT rise harm the tourism industry? Portuguese evidence"
 
