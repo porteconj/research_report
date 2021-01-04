@@ -1,6 +1,6 @@
 +++
 author = "albuquru"
-date = 2020-12-31T05:00:00Z
+date = 2021-01-04T05:00:00Z
 subtitle = ""
 title = "The repercussions of the 2011 VAT increase on the tourism industry"
 
