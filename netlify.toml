@@ -11,7 +11,7 @@ GO_VERSION = "1.14"
 #[[plugins]]
   #package = "netlify-plugin-fetch-feeds"
 
-  [plugins.inputs]
+  #[plugins.inputs]
     # Where should data files reside
     #dataDir = "data"
 
