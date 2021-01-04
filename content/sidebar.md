@@ -21,7 +21,7 @@ blogCurators:
   picture: "/v1585074958/research_report/rui_zarg8m.jpg"
   links:
   - title: Personal website
-    link: https://ruialbuquerque.webs.com/
+    link: https://sites.google.com/view/ruialbuquerque/home
 - name: Domingos Seward
   title: Co-curator
   bio: ''
