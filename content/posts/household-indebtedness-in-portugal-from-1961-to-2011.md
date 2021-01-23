@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-01-22T05:00:00Z
-draft = true
 subtitle = ""
 title = "Household indebtedness in Portugal from 1961 to 2011"
 
