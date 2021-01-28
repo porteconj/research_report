@@ -6,12 +6,14 @@ command = "hugo mod get -u && hugo --baseURL $URL --gc"
 NODE_VERSION = "12.20.0"
 
 [context.production.environment]
-HUGO_VERSION = "0.75.1"
+HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
-GO_VERSION = "1.14"
+GO_VERSION = "1.15"
 
 [context.branch-deploy]
   command = "hugo mod get -u && hugo --gc"
+  HUGO_VERSION = "0.80.0"
+  GO_VERSION = "1.15"
 
 [[plugins]]
   package = "netlify-plugin-fetch-feeds"
