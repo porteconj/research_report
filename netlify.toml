@@ -1,11 +1,11 @@
 [build]
 publish = "public"
-command = "hugo mod get -u && hugo --baseURL $URL --gc"
 
 [build.environment]
 NODE_VERSION = "12.20.0"
 
 [context.production.environment]
+command = "hugo mod get -u && hugo --baseURL $URL --gc"
 HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
 GO_VERSION = "1.15"
