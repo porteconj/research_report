@@ -8,16 +8,16 @@ HUGO_ENV = "production"
 GO_VERSION = "1.14"
 
 
-#[[plugins]]
-  #package = "netlify-plugin-fetch-feeds"
+[[plugins]]
+  package = "netlify-plugin-fetch-feeds"
 
-  #[plugins.inputs]
+  [plugins.inputs]
     # Where should data files reside
-    #dataDir = "data"
+    dataDir = "data"
 
     # All the feeds we wish to gather for use in the build
 
-    #[[plugins.inputs.feeds]]
-     # name = "analytics"
-     # url = "https://perr-analytics.netlify.app/.netlify/functions/fetch"
-     # ttl = 3600
+    [[plugins.inputs.feeds]]
+     name = "analytics"
+     url = "https://perr-analytics.netlify.app/.netlify/functions/fetch"
+     ttl = 3600
