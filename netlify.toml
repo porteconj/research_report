@@ -10,6 +10,8 @@ HUGO_VERSION = "0.75.1"
 HUGO_ENV = "production"
 GO_VERSION = "1.14"
 
+[context.branch-deploy]
+  command = "hugo mod get -u && hugo --baseURL $DEPLOY_PRIME_URL --gc"
 
 [[plugins]]
   package = "netlify-plugin-fetch-feeds"
