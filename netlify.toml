@@ -2,18 +2,28 @@
 publish = "public"
 
 [context.production.environment]
-command = "hugo mod get -u && hugo --baseURL $URL --gc"
 HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
 GO_VERSION = "1.15"
 NODE_VERSION = "12.20.0"
 
 
-[context.branch-deploy]
-command = "hugo mod get -u && hugo --baseURL $DEPLOY_PRIME_URL"
+[context.branch-deploy.environment]
 HUGO_VERSION = "0.80.0"
 GO_VERSION = "1.15"
 NODE_VERSION = "12.20.0"
+
+[context.production]
+command = "hugo mod get -u && hugo --baseURL $URL --gc"
+
+
+[context.branch-deploy]
+command = "hugo mod get -u && hugo --baseURL $DEPLOY_PRIME_URL"
+
+
+
+
+
 
 
 [[plugins]]
