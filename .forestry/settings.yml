@@ -9,7 +9,7 @@ sections:
   label: Curators
   create: all
   match: "**/*"
-  new_doc_ext: ".yaml"
+  new_doc_ext: yaml
 - type: directory
   path: content/posts
   label: Blog Posts

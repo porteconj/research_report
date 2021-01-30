@@ -79,5 +79,10 @@ fields:
     max: 
     labelField: 
   label: Blog Curators
+- name: curators
+  type: include
+  config: {}
+  template: curators
+  label: Curators
 pages:
 - content/sidebar.md
