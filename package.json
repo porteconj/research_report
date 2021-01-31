@@ -1,0 +1,28 @@
+{
+ "comments": {
+  "dependencies": {
+   "@tailwindcss/typography": "github.com/porteconj/pej_blog_theme",
+   "autoprefixer": "github.com/porteconj/pej_blog_theme",
+   "lazysizes": "github.com/porteconj/pej_blog_theme",
+   "postcss": "github.com/porteconj/pej_blog_theme",
+   "postcss-cli": "github.com/porteconj/pej_blog_theme",
+   "postcss-purgecss": "github.com/porteconj/pej_blog_theme",
+   "tailwindcss": "github.com/porteconj/pej_blog_theme",
+   "turbolinks": "github.com/porteconj/pej_blog_theme"
+  },
+  "devDependencies": {}
+ },
+ "dependencies": {
+  "@tailwindcss/typography": "^0.3.0",
+  "autoprefixer": "^10.0.4",
+  "lazysizes": "^5.2.0",
+  "postcss": "^8.1.10",
+  "postcss-cli": "^8.0.0",
+  "postcss-purgecss": "^2.0.3",
+  "tailwindcss": "^2.0.2",
+  "turbolinks": "^5.2.0"
+ },
+ "devDependencies": {},
+ "name": "research_report",
+ "version": "0.1.0"
+}
