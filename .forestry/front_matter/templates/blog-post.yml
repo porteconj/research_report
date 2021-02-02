@@ -19,6 +19,7 @@ fields:
   name: subtitle
   label: subtitle
 pages:
+- content/posts/a-taxonomy-of-productivity-growth-in-portugal.md
 - content/posts/competition-in-the-over-the-counter-drug-market-after-deregulation-evidence-from-portugal.md
 - content/posts/corporate-governance-and-financial-policies-of-portuguese-family-firms.md
 - content/posts/discrimination-against-same-sex-couples-in-the-portuguese-rental-market.md
