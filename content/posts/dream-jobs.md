@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-02-12T05:00:00Z
-draft = true
 subtitle = ""
 title = "Dream jobs"
 
@@ -16,8 +15,10 @@ This paper uses 16 years of data on Portuguese firms, workers, and international
 
 Figure: Experience-wage profiles for managers and blue-collar workers in domestic vs. internationally active firms.
 
-Dream jobs are not the same for all workers. Managers and blue-collar workers receive higher wages in internationally active firms because of very different mechanisms. Blue collar workers benefit from wage jumps when moving to an internationally active firm while managers of those firms---and especially more _able_ managers---benefit from higher wage growth that sticks with them even after they change jobs. 
+Dream jobs are not the same for all workers. Managers and blue-collar workers receive higher wages in internationally active firms because of very different mechanisms. Blue collar workers benefit from wage jumps when moving to an internationally active firm while managers of those firms---and especially more _able_ managers---benefit from higher wage growth that sticks with them even after they change jobs.
 
 The gap between the return on international and domestic experience for managers stacks up over a 10-year horizon to a substantial 10% to 17% difference. As for blue-collar workers this gap is negligible.
 
 Dream jobs also play a role at the aggregate level. International experience plays an important role in affecting spatial wage inequalities and the cross-sectional distribution of wages for more senior managers.
+
+Click here to go to the paper by [Giordano Mion, Luca David Opromolla, and Gianmarco I.P. Ottaviano](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653955).
