@@ -5,7 +5,7 @@ subtitle = ""
 title = "What drives exceptional job creation in Portuguese companies?"
 
 +++
-It is generally recognised in the economic literature that a small number of companies, known as Gazelles, contribute disproportionately to net job creation. This article analyses the drivers of high employment growth such as firm age, access to external sources of finance, and firms’ human capital, as well as companies' ability to export and innovate through investment in R&D.
+It is generally recognized in the economic literature that a small number of companies, known as Gazelles, contribute disproportionately to net job creation. This article analyzes the drivers of high employment growth such as firm age, access to external sources of finance, and firms’ human capital, as well as companies' ability to export and innovate through investment in R&D.
 
 The results suggest that younger companies are more likely to grow faster, and that human capital is an essential determinant of high growth phenomena. However, the results suggest that high growth companies are not hampered by the lack of external financing access, having mostly resorted to equity to support their financing needs.
 
@@ -15,4 +15,4 @@ The paper explores the possibility of growth episodes exhibiting some form of pe
 
 Overall, our results suggest that innovative capacity, availability of own funds, and the ability of experienced export companies significantly differentiate the average performance from the exceptional performance in job creation.
 
-Click here to go to the paper by [Francisco Rodrigues, Nuno Tavares, and Gabriel Osório de Barros](https://link.springer.com/article/10.1007/s10258-020-00172-6). 
+Click here to go to the paper by [Francisco Rodrigues, Nuno Tavares, and Gabriel Osório de Barros](https://link.springer.com/article/10.1007/s10258-020-00172-6).
