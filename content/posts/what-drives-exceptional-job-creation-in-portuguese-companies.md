@@ -15,3 +15,5 @@ Moreover, given a company's experience in the market, being an exporter is a rel
 The paper explores the possibility of growth episodes exhibiting some form of persistence over time. In line with the literature, the paper finds that past growth events are negatively associated with current growth. Arguably, periods of fast growth may be the outcome of an internal transformative process perhaps associated with a firm’s innovation capacity or external market expansion.
 
 Overall, our results suggest that innovative capacity, availability of own funds, and the ability of experienced export companies significantly differentiate the average performance from the exceptional performance in job creation.
+
+Click here to go to the paper by [Francisco Rodrigues, Nuno Tavares, and Gabriel Osório de Barros](https://link.springer.com/article/10.1007/s10258-020-00172-6). 
