@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-02-12T05:00:00Z
-draft = true
 subtitle = ""
 title = "What drives exceptional job creation in Portuguese companies?"
 
