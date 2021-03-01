@@ -1,7 +1,7 @@
 ---
 author: albuquru
 date: 2017-07-12T12:51:11.000+00:00
-title: 'Upward Nominal Wage Rigidity: extensions to wage agreements'
+title: 'Upward nominal wage rigidity: extensions to wage agreements'
 type: post
 url: "/2017/07/12/upward-nominal-wage-rigidity-wage-agreements-extensions/"
 categories:
