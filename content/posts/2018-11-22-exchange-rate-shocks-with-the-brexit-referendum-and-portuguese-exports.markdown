@@ -1,7 +1,7 @@
 ---
 author: albuquru
 date: 2018-11-22T14:52:23.000+00:00
-title: Exchange Rate Shocks with the Brexit Referendum and Portuguese Exports
+title: Exchange rate shocks with the Brexit referendum and Portuguese exports
 type: post
 url: "/2018/11/22/exchange-rate-shocks-with-the-brexit-referendum-and-portuguese-exports/"
 categories:
