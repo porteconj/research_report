@@ -1,14 +1,13 @@
 ---
 author: albuquru
-date: 2016-10-24 15:50:42+00:00
-draft: false
-title: Demand, Supply and Markup Fluctuations
+date: 2016-10-24T15:50:42.000+00:00
+title: Demand, supply and markup fluctuations
 type: post
-url: /2016/10/24/demand-supply-and-markup-fluctuations/
+url: "/2016/10/24/demand-supply-and-markup-fluctuations/"
 categories:
 - Portuguese Economy Research Report
----
 
+---
 Does monopoly power (i.e. markups) increase or decrease in recessions? If market power increases in recessions, production becomes more inefficient aggravating the recession. However, if market power decreases, competition works as a self-correcting mechanism in the economy increasing overall efficiency. For this reason, understanding how markups fluctuate has been so central in the debate about macroeconomic policy effectiveness.
 This debate is far from being solved. Its answer is empirical. However, there are two empirical challenges to determining the type of cyclical behavior of markups: (i) separating supply (productivity) shocks from demand shocks and (ii) properly measuring the markups.
 
