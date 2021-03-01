@@ -1,14 +1,13 @@
 ---
 author: albuquru
-date: 2019-05-31 16:24:35+00:00
-draft: false
-title: Selection of projects to the Portuguese Innovation Incentive System
+date: 2019-05-31T16:24:35.000+00:00
+title: Selection of projects to the Portuguese innovation incentive system
 type: post
-url: /2019/05/31/selection-of-projects-to-the-portuguese-innovation-incentive-system/
+url: "/2019/05/31/selection-of-projects-to-the-portuguese-innovation-incentive-system/"
 categories:
 - Portuguese Economy Research Report
----
 
+---
 It is often argued that public policies to support investment and innovation play a vital role when firms have difficulties in accessing external finance. However, several studies have demonstrated that public support can have no effect on the policy targets or even have a negative effect on firm performance. Oneexplanation for these findings could be the selection process to participate in public support programs.
 
 The aim of the article is to assess differences in investment project characteristics (expected impact) between firms with approved and non-approved applications and to understand which kinds of projects are selected for a subsidy. The analysis is focused on the case study of applications submitted to the Portuguese Innovation Incentive System (SI Innovation) between 2007 and 2013.
