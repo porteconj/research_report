@@ -1,14 +1,13 @@
 ---
 author: albuquru
-date: 2018-04-12 00:14:37+00:00
-draft: false
-title: 'The Effect of Mass Influx on Labor Markets: Portuguese 1974 Evidence Revisited'
+date: 2018-04-12T00:14:37.000+00:00
+title: 'The effect of mass influx on labor markets: Portuguese 1974 evidence revisited'
 type: post
-url: /2018/04/12/the-effect-of-mass-influx-on-labor-markets-portuguese-1974-evidence-revisited/
+url: "/2018/04/12/the-effect-of-mass-influx-on-labor-markets-portuguese-1974-evidence-revisited/"
 categories:
 - Portuguese Economy Research Report
----
 
+---
 The study of how labor supply shocks, especially immigration, affect labor market conditions has been a long-lasting concern in empirical labor economics. The textbook model of a competitive labor market suggests that high levels of immigration should lower the wage of competing workers. Despite the common sense intuition behind the theory, existing empirical literature offers contradictory evidence.
 
 This article provides a reappraisal of the evidence from the influx that has been unique in the recent European history, the flood of more than half million returnees from Mozambique and Angola to Portugal in the mid-1970s. The main finding of this article is that the influx had a significant adverse effect on the Portuguese aggregate labor productivity and wages. The empirical analysis suggests that in the short run, the 15 percent increase in the labor force decreased labor productivity by about 26 percent, the long run effect being even larger. In low-skilled professions (in agriculture and construction), the average wage impact of the returnees in Portuguese regions was -12 to -30 percent during the 1974-1977 period.
