@@ -1,7 +1,7 @@
 ---
 author: albuquru
 date: 2016-11-08T20:36:57.000+00:00
-title: 'From convergece to divergence: Portuguese demography and economic growth,
+title: 'From convergence to divergence: Portuguese demography and economic growth,
   1500-1850'
 type: post
 url: "/2016/11/08/from-convergece-to-divergence-portuguese-demography-and-economic-growth-1500-1850/"
