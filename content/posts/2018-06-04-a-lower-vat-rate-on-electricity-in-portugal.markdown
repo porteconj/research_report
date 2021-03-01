@@ -1,7 +1,7 @@
 ---
 author: albuquru
 date: 2018-06-04T14:02:20.000+00:00
-title: A Lower VAT Rate on Electricity in Portugal
+title: A lower VAT rate on electricity in Portugal
 type: post
 url: "/2018/06/04/a-lower-vat-rate-on-electricity-in-portugal/"
 categories:
