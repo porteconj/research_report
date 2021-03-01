@@ -7,7 +7,7 @@ title = "Has investment in wind energy impacted local labor markets in Portugal?
 +++
 Investment in wind power has grown remarkably in the past decades in Portugal (see figure). Although economic development is an argument for investment incentive policies, little evidence exists as to their net impact on local-level unemployment. Despite project-level estimates of direct employment creation, doubts remain as to whether these effects translate into an increase in overall employment - rather than a displacement of resources - as well as into effects at the local-level rather than at the aggregate level only. This is of major importance to the local communities that house these projects, sometimes with negative impacts for example in terms of housing prices.
 
-![](/v1614616943/research_report/Figure1_l05omb.jpg)
+![](/v1614616943/research_report/Figure1_l05omb.jpg "Evolution of installed generating capacity in Portugal")
 
 Using data for all Portuguese mainland municipalities for the years 1997–2017, the paper assesses the existence, distribution, and duration of local-level labor impacts of wind power investment.
 
@@ -15,4 +15,4 @@ The results show that there are short-term effects during the construction phase
 
 The absence of aggregate long-term impacts, along with the low mobility of labor, could indicate that, if policy makers wish to increase benefits to local labor markets, there might be a case for targeting skill development towards the needs of this new market, in order to fully take advantage of possible local labor benefits.
 
-Click here to go to the paper by [Hélia Costa and Linda Veiga](https://ideas.repec.org/p/nip/nipewp/05-2019.html).
+Click here to go to the paper by [Hélia Costa and Linda Veiga](https://www.sciencedirect.com/science/article/pii/S0140988320303959).
