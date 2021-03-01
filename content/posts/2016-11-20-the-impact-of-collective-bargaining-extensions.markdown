@@ -1,7 +1,7 @@
 ---
 author: albuquru
 date: 2016-11-20T11:23:05.000+00:00
-title: The Impact of Collective Labor Bargaining Extensions
+title: The impact of collective labor bargaining extensions
 type: post
 url: "/2016/11/20/the-impact-of-collective-bargaining-extensions/"
 categories:
