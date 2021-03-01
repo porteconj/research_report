@@ -1,14 +1,13 @@
 ---
 author: albuquru
-date: 2018-09-13 16:28:16+00:00
-draft: false
-title: Productivity of Portuguese Cooperatives
+date: 2018-09-13T16:28:16.000+00:00
+title: Productivity of Portuguese cooperatives
 type: post
-url: /2018/09/13/productivity-of-portuguese-cooperatives/
+url: "/2018/09/13/productivity-of-portuguese-cooperatives/"
 categories:
 - Portuguese Economy Research Report
----
 
+---
 In many countries and industries, cooperatives constitute a significant share of activity. Despite this widespread presence, there is little evidence on the merits of this organizational form with respect to productive efficiency relative to the more dominant way of organizing production through investor-owned firms.
 
 In this paper, we contribute towards answering the long-standing question of whether cooperatives are more or less efficient than investor-owned firms by providing empirical evidence from Portugal. Portugal offers a good study ground because of existing rich panel data covering a wide range of industries and because cooperatives (of all types) are widely represented across a number of different industries. This allows us to make a cross-industry comparison of a kind that is very rare in the literature.
