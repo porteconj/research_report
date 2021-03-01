@@ -1,14 +1,13 @@
 ---
 author: albuquru
-date: 2019-09-12 14:13:15+00:00
-draft: false
-title: Local Territorial Reform and Regional Spending Efficiency
+date: 2019-09-12T14:13:15.000+00:00
+title: Local territorial reform and regional spending efficiency
 type: post
-url: /2019/09/12/local-territorial-reform-and-regional-spending-efficiency/
+url: "/2019/09/12/local-territorial-reform-and-regional-spending-efficiency/"
 categories:
 - Portuguese Economy Research Report
----
 
+---
 Quite often, one encounters arguments advocating that mergers or amalgamation of territorial units are a pathway to reduce public spending and increase efficiency, pointing to advantages of economies of scale in the provision of public services. However, this article argues that these advantages might have been oversold. The article assesses the changes on municipal efficiency that stem from the 2013 Portuguese local territorial reform that reduced the number of local governments and parishes by around 29%.
 
 Model estimates indicate input efficiency gains for only 10% of municipalities and output efficiency gains for only 6% of municipalities. Notably, in the Alentejo and Centro regions, more than 50% of the municipalities improved efficiency after the territorial reform. Nevertheless, after controlling for other factors that might affect public efficiency, such as socio-demographic and economic factors, the territorial reform did not improve spending efficiency in the local government subsector in the Centro, Lisbon e Vale do Tejo regions and on aggregate for mainland Portugal.
