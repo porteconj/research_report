@@ -1,8 +1,8 @@
 ---
 author: albuquru
 date: 2018-03-23T14:28:32.000+00:00
-title: Zombie Companies in Portugal - The non-tradable sectors of construction and
-  services
+title: 'Zombie Companies in Portugal: the non-tradable sectors of construction and
+  services'
 type: post
 url: "/2018/03/23/zombie-companies-in-portugal-the-non-tradable-sectors-of-construction-and-services/"
 categories:
