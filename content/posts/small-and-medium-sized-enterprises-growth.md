@@ -2,7 +2,7 @@
 author = ""
 date = 2021-05-05T04:00:00Z
 subtitle = ""
-title = "Small- and medium-sized enterprises growth"
+title = "Small- and medium-sized enterprises and the financial crisis"
 
 +++
 This article studies the growth determinants of small and medium-sized firms (SMEs) before and after the 2008 subprime crisis. SME's growth correlates positively with firm-level cash flow and GDP, whereas it correlates negatively with firm-level debt, firm size and age, as well as with the economy-wide risk-free interest rate. After 2008, the financial crisis with the associated implementation of austerity measures in the Portuguese context, produced a negative effect on SME growth.
