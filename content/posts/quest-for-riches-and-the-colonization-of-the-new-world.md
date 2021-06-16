@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-06-15T23:00:00Z
-draft = true
 subtitle = ""
 title = "Quest for riches and the colonization of the “New World”"
 
