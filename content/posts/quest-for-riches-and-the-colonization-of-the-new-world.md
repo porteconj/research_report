@@ -13,4 +13,4 @@ In Latin America, silver was the backbone of the colonial enterprise. The coloni
 
 American precious metals travelled far, transforming economies and policies in Asia and Africa. American silver lubricated the wheels of trade in Asia. Europeans were able to enjoy silk, tea, and porcelain from China and Japan thanks to silver from Latin America. Mining prosperity in America also fueled the demand for African slaves, contributing to the largest involuntary migration in history.
 
-Click here to go to the paper by [Leticia Arroyo Abad and Nuno Palma](https://ideas.repec.org/p/hes/wpaper/0179.html).
+Click here to go to the paper by [Leticia Arroyo Abad and Nuno Palma](https://hummedia.manchester.ac.uk/schools/soss/economics/discussionpapers/EDP-2003.pdf).
