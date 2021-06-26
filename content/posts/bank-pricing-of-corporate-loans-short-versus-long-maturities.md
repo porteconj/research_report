@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-06-25T23:00:00Z
-draft = true
 subtitle = ""
 title = "Bank pricing of corporate loans, short versus long maturities"
 
