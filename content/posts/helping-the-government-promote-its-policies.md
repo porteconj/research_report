@@ -5,9 +5,13 @@ subtitle = ""
 title = "Helping the government promote its policies"
 
 +++
-Governments around the world devote substantial resources to support small and medium sized firms struggling with the consequences of economic and financial crises. A key question is whether the firms that stand to benefit most from government programs—for example, smaller firms or those with limited access to traditional financing—face information frictions that hamper access to aid. 
+Governments around the world devote substantial resources to support small and medium sized firms struggling with the consequences of economic and financial crises. A key question is whether the firms that stand to benefit most from government programs—for example, smaller firms or those with limited access to traditional financing—face information frictions that hamper access to aid.
 
-This paper tests whether informational frictions prevent firms from accessing government support measures. The paper considers the impact of providing detailed information on two COVID-19 assistance measures—a layoff support program and a guaranteed credit line scheme—on firm take-up using a sample of over 170,000 Portuguese firms. The exercise randomly assigned firms to an information treatment providing either simplified information regarding one of the assistance measures (including a short program description, eligibility criteria, and a link to official government resources), or a combination of information and step-by-step application support.
+This paper tests whether informational frictions prevent firms from accessing government support measures. The paper considers the impact of providing detailed information on two COVID-19 assistance measures—a layoff support program and a guaranteed credit line scheme—on firm take-up using a sample of over 170,000 Portuguese firms (see figure). The exercise randomly assigned firms to an information treatment providing either simplified information regarding one of the assistance measures (including a short program description, eligibility criteria, and a link to official government resources), or a combination of information and step-by-step application support.
+
+![](/v1625236156/research_report/Screen_Shot_2021-07-02_at_3.28.49_PM_cgowfl.png)
+
+Figure: Simplified information on a layoff assistance program offered to a random sample of firms.
 
 The paper finds evidence that the low-cost intervention had a meaningful impact on firm application for the layoff support program. Firms provided with information about the layoff support program were 2-3 percentage points more likely to submit applications (relative to a mean of just over 30 percent). This increase in applications coincided with the timing of the treatment (April 2020).
 
