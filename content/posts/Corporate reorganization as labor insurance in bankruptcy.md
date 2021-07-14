@@ -3,7 +3,7 @@ author = ""
 date = 2021-07-13T23:00:00Z
 draft = true
 subtitle = ""
-title = ""
+title = "Corporate reorganization as labor insurance in bankruptcy"
 
 +++
 How does corporate reorganization affect labor outcomes in bankruptcy? The existing literature argues that corporate reorganization affects labor reallocation because it retains workers in bankrupt firms. One the one hand, firms can remain alive for too long and retain workers inefficiently. On the other hand, reorganization reduces the probability of inefficient liquidation.
