@@ -1,6 +1,7 @@
 +++
 author = ""
 date = 2021-07-13T23:00:00Z
+draft = true
 subtitle = ""
 title = "Corporate reorganization as labor insurance in bankruptcy"
 
