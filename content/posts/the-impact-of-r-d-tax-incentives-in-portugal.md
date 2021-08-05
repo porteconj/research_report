@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-08-04T23:00:00Z
-draft = true
 subtitle = ""
 title = "The impact of R&D tax incentives in Portugal"
 
