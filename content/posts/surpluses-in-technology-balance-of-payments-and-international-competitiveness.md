@@ -2,10 +2,10 @@
 author = ""
 date = 2021-08-17T23:00:00Z
 subtitle = ""
-title = "Surpluses in Technology Balance of Payments and international competitiveness"
+title = "Surpluses in technology balance of payments and international competitiveness"
 
 +++
-Technology Balance of Payment (TBP) records the international trade flows of intangibles, namely money flows paid or received for the use of patents, licenses, knowledge, brands, models, designs, industrial research and development (R&D), and technical services, including technical assistance. Thus, the balance of the TBP reflects the ability of a country to sell/ acquire technologies from abroad.
+Technology Balance of Payments (TBP) records the international trade flows of intangibles, namely money flows paid or received for the use of patents, licenses, knowledge, brands, models, designs, industrial research and development (R&D), and technical services, including technical assistance. Thus, the balance of the TBP reflects the ability of a country to sell/ acquire technologies from abroad.
 
 Does a TBP surplus determine the international competitiveness of a country. Such a surplus may increase with a country’s high degree of technological autonomy and a low level of technology imports. It may also decrease due to an inability to assimilate foreign technologies, a country’s effort to increase its competitiveness with an increase in foreign technology imports.
 
