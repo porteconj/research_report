@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-08-17T23:00:00Z
-draft = true
 subtitle = ""
 title = "Surpluses in Technology Balance of Payments and international competitiveness"
 
@@ -15,3 +14,5 @@ Enhancing international competitiveness by increasing innovative performance--mo
 Quantitative analyses performed demonstrate that, between 2000 and 2017, TBP surpluses fostered price-competitiveness, labor productivity, and Total Factor Productivity growth of the four Southern European countries (Greece, Italy, Portugal and Spain) analyzed.
 
 From a policy viewpoint, the paper recommends that Southern European governments undertake initiatives to encourage technological trade, besides protecting intellectual property rights and fostering R&D intensive services. Investments should be directed to knowledge- and technology-intensive activities aimed at improving intellectual capacity, which has direct impact on companies, sustaining their competitive advantage, as well as an indirect impact by generating new ideas/knowledge and even greater ease of absorption of foreign technologies.
+
+Click here to go to the paper by [Diana Barros and Aurora A.C. Teixeira](https://ideas.repec.org/a/liu/liucej/v18y2021i1p105-136.html).
