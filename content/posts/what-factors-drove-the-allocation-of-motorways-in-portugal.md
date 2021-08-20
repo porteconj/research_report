@@ -2,7 +2,7 @@
 author = ""
 date = 2021-08-19T23:00:00Z
 subtitle = ""
-title = "What factors drove the allocation of motorways in Portugal?"
+title = "What factors explain the allocation of motorways in Portugal?"
 
 +++
 Transport infrastructure is an expensive investment and is considered to be an important driver of economic growth. Portugal’s road network remained of poor quality until the last quarter of the 20th century. The country had less than 200 km of motorways before joining the EU in 1986, whereas in 2017 it had the fifth and third highest endowments of motorways relative to population and GDP, respectively, in the EU.
