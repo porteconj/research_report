@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-08-19T23:00:00Z
-draft = true
 subtitle = ""
 title = "What factors drove the allocation of motorways in Portugal?"
 
