@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-10-08T23:00:00Z
-draft = true
 subtitle = ""
 title = "Self-employment and health outcomes"
 
