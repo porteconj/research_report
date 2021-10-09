@@ -15,3 +15,5 @@ The study considers hospital admissions as the health outcome, which may be rega
 The analysis is conducted comparing the same individuals, followed monthly between 2005 and 2011, and focusing on those that change between self-employment and wage work. It draws on a sample of individuals in Portugal —a country with similar social protection for employees and the self-employed, which allows the researchers to focus on the role of self-employment and not of social protection.
 
 The results indicate that self-employment has a positive effect on health as it reduces the likelihood of hospital admissions by at least half. In other words, the benefits of self-employment in terms of greater flexibility appear to trump the costs related to greater uncertainty, as far as health is concerned.
+
+Click here to go to the paper by [Judite Gonçalves and Pedro S. Martins](https://link.springer.com/article/10.1007/s11187-020-00360-w).
