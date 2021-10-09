@@ -3,7 +3,7 @@ author = ""
 date = 2021-10-08T23:00:00Z
 draft = true
 subtitle = ""
-title = ""
+title = "Self-employment and health outcomes"
 
 +++
 Is self-employment typically good for one’s health? This is an important question as a large number of people around the world and also in Europe are self-employed and many express concerns about the potential negative effects of this type of work.
