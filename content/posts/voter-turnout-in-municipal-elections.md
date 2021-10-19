@@ -16,3 +16,5 @@ The analysis exploits discontinuities in the number of Aldermen around the exoge
 The analysis is done using a regression discontinuity approach and relies on a rich panel dataset on Portuguese Local Elections between 2001 and 2017 together with a set of municipal socioeconomic and demographic characteristics. These findings are further confirmed with other statistical methods.
 
 The results reveal the importance of the number of elected seats in determining turnout. This effect is, on average, translated into an increase of 190 to 250 votes in the first threshold, and of 580 in the second one.
+
+Click here to go to the paper by [Bruno P. Carvalho, Gonçalo Marques, and Susana Peralta](https://www.ics.ulisboa.pt/sites/ics.ulisboa.pt/files/events/files/municipal_turnout.pdf).
