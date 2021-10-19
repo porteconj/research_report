@@ -1,0 +1,19 @@
++++
+author = ""
+date = 2021-10-19T04:00:00Z
+draft = true
+subtitle = ""
+title = "Voter turnout in municipal elections"
+
++++
+Electoral participation in Portugal has been decreasing across all elections being below 60% in recent times. This study asks if the number of elected representatives in an election for Town Council is related with voter turnout. To motivate the analysis, the paper constructs an index that proxies for each voter’s voting power defined as the ratio of the number of seats in the Town Council to the number of voters in the municipality. The ratio that describes voter’s voting power has a positive correlation with local turnout rates.
+
+To establish a causal relation between the number of elected representatives and voter turnout, the study proceeds to use the fact that the number of Aldermen (or “_Vereadores_” in Portuguese) varies according to pre-determined population thresholds.
+
+The analysis exploits discontinuities in the number of Aldermen around the exogenous population thresholds of 10,000 eligible voters (left panel) and of 50,000 eligible voters (right panel). The regression discontinuity results point to an increase between 3% and 4% in the first threshold (10.000 voters), and an increase of about 2% in the second threshold (50.000 voters) (see figure).
+
+![](/v1634657846/research_report/Screen_Shot_2021-10-19_at_11.37.00_AM_lz0cuv.png "Change in voter turnout in municipal elections in relation to eligible voter population.")
+
+The analysis is done using a regression discontinuity approach and relies on a rich panel dataset on Portuguese Local Elections between 2001 and 2017 together with a set of municipal socioeconomic and demographic characteristics. These findings are further confirmed with other statistical methods.
+
+The results reveal the importance of the number of elected seats in determining turnout. This effect is, on average, translated into an increase of 190 to 250 votes in the first threshold, and of 580 in the second one.
