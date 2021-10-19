@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-10-19T04:00:00Z
-draft = true
 subtitle = ""
 title = "Voter turnout in municipal elections"
 
