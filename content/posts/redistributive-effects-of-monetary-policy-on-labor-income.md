@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-10-26T04:00:00Z
-draft = true
 subtitle = ""
 title = "Redistributive effects of monetary policy on labor income"
 
