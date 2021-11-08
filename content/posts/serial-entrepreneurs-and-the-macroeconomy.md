@@ -11,7 +11,7 @@ In this paper, the authors argue that entrepreneurs themselves are key determina
 
 Serial entrepreneurship occurs across the economy and is not an obscure feature of only a few industries. Moreover, businesses of serial entrepreneurs outperform all other firms along multiple dimensions and disproportionally contribute to aggregate job creation and productivity growth.
 
-The paper documents a “serial entrepreneur premium” – the average difference in a particular characteristic (e.g. growth or size) between SE and R firms – is present throughout firms’ life-cycles. Figure 1 provides a glimpse at some of these differences – firm size and firm exit. The figure clearly shows the superior performance of SE firms, over their entire life-cycles by living longer and growing faster.
+The paper documents a “serial entrepreneur premium” – the average difference in a particular characteristic (e.g. growth or size) between SE and R firms – is present throughout firms’ life-cycles. Figure 1 provides a glimpse at some of these differences – firm size and firm exit. The figure shows the superior performance of SE firms, over their entire life-cycles by living longer and growing faster.
 
 ![](/v1636398048/research_report/Screen_Shot_2021-11-08_at_2.00.13_PM_grcaz7.png "Firm size and exit rates by age: serial entrepreneur versus regular firms")
 
