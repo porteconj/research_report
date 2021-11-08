@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-11-08T05:00:00Z
-draft = true
 subtitle = ""
 title = "Serial entrepreneurs and the macroeconomy"
 
