@@ -12,6 +12,6 @@ Exploiting the gradual implementation of the reform across Portuguese municipali
 
 ![The figure is in "event time", where "Ref." indicates the year of the reform in a municipality](/v1636554845/research_report/Screen_Shot_2021-11-10_at_9.33.45_AM_gcpyqt.png 'Impact of "Empresa na Hora" on local firm creation')
 
-The increased number of firms produced increased employment. The authors document that after the reform, local employment increased on average by 4.8 percent per year in the reformed municipalities relative to the non-reformed ones. An investigation of the micro-level mechanisms shows that about 40 percent of the increase in employment comes from the rise in the number of entrants. The increase in employment among the incumbent firms occurred only in the most productive ones.
+The increased number of firms produced increased employment. The authors document that after the reform, local employment increased on average by 4.8 percent per year in the reformed municipalities relative to the non-reformed ones. Consistent with the intent of the policy reform, an investigation of the micro-level mechanisms shows that about 40 percent of the increase in employment comes from the rise in the number of entrants. At the same time, the significant growth in employment that occurred in incumbent firms after the reform may be partially explained by the economic dynamism generated through the entry of new firms. 
 
 Click here to go to the paper by [Sónia Félix and Chiara Maggi](https://econpapers.repec.org/paper/ptuwpaper/w201904.htm).
