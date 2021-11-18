@@ -15,9 +15,8 @@ logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v15859
 blogCurators:
 - name: Rui Albuquerque
   title: Principal curator
-  bio: This page is curated by Professor Rui Albuquerque, currently teaching and researching
-    at Boston College. His main research interests are in asset pricing and corporate
-    governance.
+  bio: This page is curated by Professor Rui Albuquerque, who is affiliated with Boston
+    College. His main research interests are in asset pricing and corporate governance.
   picture: "/v1585074958/research_report/rui_zarg8m.jpg"
   links:
   - title: Personal website
