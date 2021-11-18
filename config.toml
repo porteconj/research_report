@@ -24,7 +24,7 @@ path = "card"
 permalinkable = true
 [outputs]
 home = ["HTML", "json"]
-page = ["HTML", "card"]
+page = ["HTML", "card", "RSS"]
 [params]
 analyticsID = "UA-81134426-2"
 cloudinaryPath = "research_report"
