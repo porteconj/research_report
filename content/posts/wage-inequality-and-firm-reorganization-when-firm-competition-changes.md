@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-11-19T05:00:00Z
-draft = true
 subtitle = ""
 title = "Wage inequality and firm reorganization when firm competition changes"
 
