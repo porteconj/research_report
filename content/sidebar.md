@@ -7,6 +7,8 @@ blogInfo: 'This forum is dedicated to research on the Portuguese Economy. All sc
 sidebarLinks:
 - title: Send your contribution
   url: mailto:discussionspej@gmail.com
+- title: RSS
+  url: https://research.pej.pt/posts/index.xml
 - title: Join The Network
   url: https://docs.google.com/forms/d/e/1FAIpQLSf_XBpr7klTMwn_OR9aSNWFfmP9m663cqitoLqXwTidfNY9jQ/viewform
 - url: http://pej.pt
