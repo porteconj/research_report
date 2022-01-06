@@ -2,7 +2,7 @@
 author = ""
 date = 2022-01-06T05:00:00Z
 subtitle = ""
-title = "Bank credit allocation and productivity: stylised facts for Portugal"
+title = "Bank credit allocation and productivity: stylized facts for Portugal"
 
 +++
 Long-term economic growth largely depends on the ability to channel resources to more productive firms, enabling them to invest and expand. Banks play a prominent role in resource allocation, especially in economies, such as the Portuguese one, which are heavily reliant on bank lending. The degree of efficiency in the allocation of bank credit can thus have major consequences for a country’s economic growth.
