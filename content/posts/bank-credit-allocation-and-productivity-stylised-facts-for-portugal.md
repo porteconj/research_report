@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2022-01-06T05:00:00Z
-draft = true
 subtitle = ""
 title = "Bank credit allocation and productivity: stylised facts for Portugal"
 
