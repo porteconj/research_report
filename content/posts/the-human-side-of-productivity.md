@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2022-01-07T05:00:00Z
-draft = true
 subtitle = ""
 title = "The human side of productivity"
 
