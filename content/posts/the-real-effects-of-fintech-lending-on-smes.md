@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2022-01-10T05:00:00Z
-draft = true
 subtitle = ""
 title = "The real effects of FinTech lending on SMEs"
 
