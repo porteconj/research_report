@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2022-01-24T05:00:00Z
-draft = true
 subtitle = ""
 title = "Evaluating fixed-term employment contracts"
 
