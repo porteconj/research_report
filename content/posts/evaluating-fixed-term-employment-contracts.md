@@ -15,8 +15,8 @@ Our results indicate that the FTC restriction did not encourage large firms to h
 
 We also find evidence of spillovers to smaller firms, which were not directly targeted by the reform: small firms more exposed to large firms, because of their common geographical and or sectoral location, tend to benefit more from the reduced hiring of FTCs of the latter, and end up hiring more workers. These and other results point to the importance of accounting for equilibrium effects to evaluate employment laws. It is unlikely that reduced form estimates of employment legislation effects that rely on the assumption that the control group is not affected by the reform yield reliable evaluations. We also find that the restrictions on FTCs are detrimental to the welfare of unemployed workers because they have fewer opportunities to find jobs when these restrictions are implemented. Moreover, such drop in welfare reduces the outside option of all employees and consequently also their welfare.
 
-Overall, the results indicate that flexibility at the margin, allowing firms to hire temporary workers, significantly improves labor market efficiency in our context. 
+Overall, the results indicate that flexibility at the margin, allowing firms to hire temporary workers, significantly improves labor market efficiency in our context.
 
-![](/v1643048716/research_report/Screen_Shot_2022-01-24_at_1.24.24_PM_zlvzjf.png "The figure depicts outcomes for companies directly affected (those with 750 plus employees) and others (those below 750 employees). (Data: Quadros do Pessoal and authors' calculations.)")
+![](/v1643048716/research_report/Screen_Shot_2022-01-24_at_1.24.24_PM_zlvzjf.png "The figure depicts outcomes for companies directly affected by the FTC policy (those with 750 plus employees) and others (those below 750 employees). (Data: Quadros do Pessoal and authors' calculations.)")
 
 Click here to go to the paper by [Pierre Cahuc, Pauline Carry, Franck Malherbet, Pedro Martins](https://econpapers.repec.org/paper/izaizadps/dp14999.htm).
