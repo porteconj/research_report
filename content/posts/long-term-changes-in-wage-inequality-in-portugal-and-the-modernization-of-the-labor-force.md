@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2022-01-25T05:00:00Z
-draft = true
 subtitle = ""
 title = "Long-term changes in wage inequality in Portugal and the modernization of the labor force"
 
