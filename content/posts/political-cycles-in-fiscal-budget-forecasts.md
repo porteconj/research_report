@@ -10,6 +10,6 @@ Recent studies suggest that governments use overly optimistic forecasts to expan
 
 The paper studies the hypothesis of manipulation of forecasts of fiscal budgets in the context of elections for Portuguese municipalities. The setting has several advantages as all municipalities are subject to the same laws and regulations, have the same responsibilities for public service provision, and have the same institutional structure.
 
-The results show that forecasts are indeed increased in election years. The paper then studies the determinants of the potential forecast manipulation and finds that the extent of manipulation is reduced when (i) the expected winning margin is higher, i.e., when the incumbent’s expectation of winning is higher; (ii) the incumbent is not running for re-election; and, (iii) the share of informed voters (proxied by education) is higher.
+The results show that forecasts are indeed increased in election years. The paper then studies the determinants of the potential forecast manipulation and finds that the extent of manipulation is reduced when (i) the expected winning margin is higher, i.e., when the incumbent’s expectation of winning is higher; (ii) the incumbent is not running for re-election; and, (iii) the share of informed voters (proxied by their education level) is higher.
 
-By Frank Bohn and Francisco Veiga
+Click here to go to the paper by [Frank Bohn and Francisco José Veiga](https://www.sciencedirect.com/science/article/pii/S0176268020300823).
