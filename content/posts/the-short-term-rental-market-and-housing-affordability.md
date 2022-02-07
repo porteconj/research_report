@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2022-02-07T05:00:00Z
-draft = true
 subtitle = ""
 title = "The short-term rental market and housing affordability"
 
