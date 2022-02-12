@@ -20,18 +20,3 @@ command = "hugo mod get -u && hugo --baseURL $URL --gc"
 [context.branch-deploy]
 command = "hugo mod get -u && hugo --baseURL $DEPLOY_PRIME_URL"
 
-
-
-[[plugins]]
-  package = "netlify-plugin-fetch-feeds"
-
-  [plugins.inputs]
-    # Where should data files reside
-    dataDir = "data"
-
-    # All the feeds we wish to gather for use in the build
-
-    [[plugins.inputs.feeds]]
-     name = "analytics"
-     url = "https://perr-analytics.netlify.app/.netlify/functions/fetch"
-     ttl = 3600
