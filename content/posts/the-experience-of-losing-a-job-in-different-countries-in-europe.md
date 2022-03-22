@@ -5,11 +5,11 @@ subtitle = ""
 title = "The experience of losing a job in different countries in Europe"
 
 +++
-This paper documents the consequences of losing a job across countries using administrative datasets from various European countries and the same empirical methodologies throughout the analysis. 
+This paper documents the consequences of losing a job across countries using administrative datasets from various European countries and the same empirical methodologies throughout the analysis.
 
 The paper shows that workers from Northern countries, such as Denmark and Sweden, experience the lowest earnings declines following job displacement, while workers in Southern countries, such as Portugal, Italy, and Spain experience losses three times as high. French and Austrian workers face earnings losses somewhere in-between (see Figure 1).
 
-![](/v1647961436/research_report/01_a_ByCountry_1_Yearly_Earnings_mlyvqn.jpg "Figure 1. Average labor earnings after job loss.")
+![](/v1647961436/research_report/01_a_ByCountry_1_Yearly_Earnings_mlyvqn.jpg "Figure 1. Change in average labor earnings around job loss")
 
 Key to these differences is that Southern European workers are less likely to find employment following displacement. The loss of high-quality jobs for workers is particularly important: the premium in compensation associated to the specific firm, and not to the specific workers’ skills, accounts for 40% to 95% of within country earnings declines. ![](/v1647961598/research_report/01_a_ByCountry_2_Employed_q7wmg0.jpg "Figure 2. Average employment status change after job loss.")
 
