@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Labor Market"]
 date = 2022-02-17T05:00:00Z
 subtitle = ""
 title = "Wage flexibility under collective bargaining"

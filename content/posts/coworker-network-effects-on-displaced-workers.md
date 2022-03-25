@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = ["Labor market"]
+categories = ["Labor Market"]
 date = 2022-03-09T05:00:00Z
 subtitle = ""
 title = "Coworker network effects on displaced workers"
