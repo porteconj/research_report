@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Labor"]
 date = 2022-03-22T04:00:00Z
 subtitle = ""
 title = "The experience of losing a job in different countries in Europe"
