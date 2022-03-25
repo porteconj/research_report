@@ -18,6 +18,10 @@ fields:
 - type: text
   name: subtitle
   label: subtitle
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
 pages:
 - content/posts/Corporate reorganization as labor insurance in bankruptcy.md
 - content/posts/Self-employment and health in Portugal.md
