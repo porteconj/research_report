@@ -1,14 +1,13 @@
 ---
 author: albuquru
-date: 2020-01-07 14:27:58+00:00
-draft: false
+date: 2020-01-07T14:27:58.000+00:00
 title: Finance and labor rigidity in Portugal
 type: post
-url: /2020/01/07/finance-and-labor-rigidity-in-portugal/
+url: "/2020/01/07/finance-and-labor-rigidity-in-portugal/"
 categories:
-- Portuguese Economy Research Report
----
+- Labor Market
 
+---
 How do credit shocks affect firms’ employment adjustment and exit? How does the propagation of these shocks depend on labor rigidities? Do credit shocks reinforce or hinder productivity-enhancing reallocations in the real economy?
 
 According to the classic Schumpeterian view, shocks should bring about creative destruction and a “cleansing eﬀect” on the real economy. However, financial frictions might attenuate or even reverse this, thus leading to “scarring”. The contribution of the paper is to exploit the exogeneity of a credit shock to Portugal to analyze these contrasting issues, and document how the responsiveness of firms to credit shocks depends on labor rigidities.
