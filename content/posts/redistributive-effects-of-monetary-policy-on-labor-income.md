@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Inequality", "Labor Market", "Monetary Policy", "Financial Constraints"]
 date = 2021-10-26T04:00:00Z
 subtitle = ""
 title = "Redistributive effects of monetary policy on labor income"
