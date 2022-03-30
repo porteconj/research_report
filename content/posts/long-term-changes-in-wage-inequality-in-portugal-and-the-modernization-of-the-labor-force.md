@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Labor Market", "Inequality"]
 date = 2022-01-25T05:00:00Z
 subtitle = ""
 title = "Long-term changes in wage inequality in Portugal and the modernization of the labor force"
