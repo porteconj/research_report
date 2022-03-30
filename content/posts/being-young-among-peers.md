@@ -3,7 +3,7 @@ author = ""
 categories = ["Education"]
 date = 2022-03-30T04:00:00Z
 subtitle = ""
-title = "Being young among peers"
+title = "Being older among peers at school"
 
 +++
 Children start school at different stages of their social, emotional, and cognitive development. This paper investigates the effect of being one year older among peers on a series of relevant outcomes, exploiting differences in school starting age, using administrative records of every public-school student in Portugal.
