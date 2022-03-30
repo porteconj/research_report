@@ -2,7 +2,6 @@
 author = ""
 categories = ["Education"]
 date = 2022-03-30T04:00:00Z
-draft = true
 subtitle = ""
 title = "Being young among peers"
 
