@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Productivity", "Bank Credit", "Economic Growth"]
 date = 2022-01-06T05:00:00Z
 subtitle = ""
 title = "Bank credit allocation and productivity: stylized facts for Portugal"
