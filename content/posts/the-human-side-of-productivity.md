@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Labor Market", "Productivity"]
 date = 2022-01-07T05:00:00Z
 subtitle = ""
 title = "The human side of productivity"
@@ -13,4 +14,4 @@ The project compared the workforce of firms along several dimensions -- skills, 
 
 The project finds that workforce differences can account for about one third of performance gaps between the most productive firms and the average firm. For skills – accounting for 20% of the gap – it is important to combine high skilled managers with high skilled workers, but medium skilled workers remain crucial even at high productivity firms. Gender and cultural diversity are also shown to be important, especially among managers, accounting for up to 10% of the gap.
 
-Click here to go to the paper by [Chiara Criscuolo, Peter Gal, Timo Leidecker, and Giuseppe Nicoletti](https://www.oecd.org/fr/innovation/the-human-side-of-productivity-5f391ba9-en.htm). 
+Click here to go to the paper by [Chiara Criscuolo, Peter Gal, Timo Leidecker, and Giuseppe Nicoletti](https://www.oecd.org/fr/innovation/the-human-side-of-productivity-5f391ba9-en.htm).
