@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Labor Market", "Renewable Energies"]
 date = 2021-03-01T05:00:00Z
 subtitle = ""
 title = "Has investment in wind energy impacted local labor markets in Portugal?"
