@@ -5,7 +5,8 @@ title: 'The effect of mass influx on labor markets: Portuguese 1974 evidence rev
 type: post
 url: "/2018/04/12/the-effect-of-mass-influx-on-labor-markets-portuguese-1974-evidence-revisited/"
 categories:
-- Portuguese Economy Research Report
+- Migration
+- Labor Market
 
 ---
 The study of how labor supply shocks, especially immigration, affect labor market conditions has been a long-lasting concern in empirical labor economics. The textbook model of a competitive labor market suggests that high levels of immigration should lower the wage of competing workers. Despite the common sense intuition behind the theory, existing empirical literature offers contradictory evidence.
