@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Labor Market", "COVID-19"]
 date = 2021-10-08T23:00:00Z
 subtitle = ""
 title = "Self-employment and health outcomes"
