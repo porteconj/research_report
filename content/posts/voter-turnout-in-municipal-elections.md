@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Local Government", "Elections"]
 date = 2021-10-19T04:00:00Z
 subtitle = ""
 title = "Voter turnout in municipal elections"
