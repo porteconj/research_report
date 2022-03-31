@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Real Estate", "Urban Economics"]
 date = 2022-02-07T05:00:00Z
 subtitle = ""
 title = "The short-term rental market and housing affordability"
