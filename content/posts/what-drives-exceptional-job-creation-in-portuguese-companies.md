@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Economic Growth", "Labor Market"]
 date = 2021-02-12T05:00:00Z
 subtitle = ""
 title = "What drives exceptional job creation in Portuguese companies?"
