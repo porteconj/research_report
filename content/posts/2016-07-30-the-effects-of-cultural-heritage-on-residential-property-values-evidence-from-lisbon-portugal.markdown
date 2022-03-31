@@ -1,15 +1,15 @@
 ---
 author: albuquru
-date: 2016-07-30 22:25:02+00:00
-draft: false
+date: 2016-07-30T22:25:02.000+00:00
 title: 'The effects of cultural heritage on residential property values: evidence
   from Lisbon, Portugal'
 type: post
-url: /2016/07/30/the-effects-of-cultural-heritage-on-residential-property-values-evidence-from-lisbon-portugal/
+url: "/2016/07/30/the-effects-of-cultural-heritage-on-residential-property-values-evidence-from-lisbon-portugal/"
 categories:
-- Portuguese Economy Research Report
----
+- Real Estate
+- Urban Economics
 
+---
 Historic cities are identifiable through their iconic monuments and buildings. Location relative to these structures generate premiums in the housing market. We examine the impact of such historic amenities on housing prices in Lisbon, Portugal. Results reveal heterogeneous impacts from different types of monuments. Churches, palaces and stone architecture have their own unique impact on the market and landmarks generate the highest premiums.
 
 Residents value living in proximity to a non-landmark church (yielding a premium of 4.2% for living within 100 meters), however higher concentrations of these churches in 1000 meters tend to have a negative impact of 0.1% of the property value. Although having one nearby may be of benefit, additional churches beyond the first serve little purpose and may have negative externalities with bell tolling and high activity during services. With more activity around landmark churches, which draw in tourists and those not in the congregation, this negative impact on price for higher concentrations in 1000 meters is more pronounced at 3.4%.
