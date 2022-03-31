@@ -6,6 +6,7 @@ type: post
 url: "/2019/11/27/sovereign-exposures-in-the-portuguese-banking-system/"
 categories:
 - Bank Credit
+- Sovereign Debt
 
 ---
 The euro area sovereign debt crisis exposed the linkages between banks and sovereigns and their adverse implications. In 2010, when sovereign spreads rose in several countries, tensions swiftly transmitted to the banking sector, uncovering the intertwining of banks’ and the respective sovereigns’ creditworthiness. Against a backdrop of already fragile fiscal positions, public finances in some countries were hampered by government support to banking institutions to avoid further systemic stress. These transmission mechanisms were reinforced during the crisis because, as sovereign distress intensified and led to loss of market access in some countries, banks substantially expanded their holdings of domestic sovereign debt. Such evolution was also observed in the case of Portugal. This paper provides a first attempt at uncovering the key drivers of the evolution of the exposure of the Portuguese banking system to the domestic public sector over 2008-2016.
