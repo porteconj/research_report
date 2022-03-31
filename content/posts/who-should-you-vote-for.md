@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Local Government", "Public Finance", "Elections"]
 date = 2021-09-14T04:00:00Z
 subtitle = ""
 title = "Who should you vote for? Or, what makes a good mayor?"
