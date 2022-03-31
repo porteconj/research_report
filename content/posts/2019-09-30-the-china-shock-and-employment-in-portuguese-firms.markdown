@@ -1,14 +1,14 @@
 ---
 author: albuquru
-date: 2019-09-30 21:53:37+00:00
-draft: false
+date: 2019-09-30T21:53:37.000+00:00
 title: The China shock and employment in Portuguese firms
 type: post
-url: /2019/09/30/the-china-shock-and-employment-in-portuguese-firms/
+url: "/2019/09/30/the-china-shock-and-employment-in-portuguese-firms/"
 categories:
-- Portuguese Economy Research Report
----
+- Labor Market
+- Trade
 
+---
 China’s rise as an export powerhouse has impacted labor markets across the Western world – but the effects appear to differ dramatically across countries.  We evaluate the impact of rising Chinese exports on employment in Portuguese manufacturing industries by looking at both direct competition in the Portuguese market and indirect competition in Portugal's largest export markets in Western Europe (Germany, Spain, Italy, France , and the UK).  In addition, we explore how Portugal’s stringent labor market regulations might have shaped those responses.
 
 Using rich employer-employee data matched to firm-level trade transactions, we measure the degree to which different Portuguese firms faced Chinese import competition, based on firms’ distribution of sales across products and export destination markets. We find economically and statistically significant employment declines in firms with more exposure to Chinese competition in European export markets, but minimal effects of direct competition with Chinese goods in Portugal itself.
