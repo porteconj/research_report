@@ -5,7 +5,7 @@ title: 'Upward nominal wage rigidity: extensions to wage agreements'
 type: post
 url: "/2017/07/12/upward-nominal-wage-rigidity-wage-agreements-extensions/"
 categories:
-- Portuguese Economy Research Report
+- Labor Market
 
 ---
 In Portugal, as in many other countries in continental Europe, the collective wage agreements between trade unions and employer associations are systematically extended to non-subscriber workers and employers. Since these agreements establish wage floors for most job titles, their frequent extension is equivalent to setting a wide range of compulsory minimum wages, which are regularly adjusted upward. In some firms these extensions can result in a wage structure that may not be appropriate, causing fewer hirings or added dismissals. With some trepidation, we call this phenomenon “upward nominal wage rigidity” (UNWR), in close symmetry with the Keynesian notion of downward nominal wage rigidity.
