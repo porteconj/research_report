@@ -5,7 +5,7 @@ title: The impact of collective labor bargaining extensions
 type: post
 url: "/2016/11/20/the-impact-of-collective-bargaining-extensions/"
 categories:
-- Portuguese Economy Research Report
+- Labor Market
 
 ---
 The recent crises raised a number of questions about the role of structural reforms in promoting economic growth. One area that has received greater attention is collective bargaining: the interactions between firms and employees in setting of pay and many other working conditions can be highly relevant promoting micro and macro flexibility, increasing resilience during a crisis and growth during the recovery.
