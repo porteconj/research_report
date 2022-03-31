@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Real Estate", "Urban Economics"]
 date = 2021-03-13T05:00:00Z
 subtitle = ""
 title = "Where are the expensive housing rental rates in Portugal?"
