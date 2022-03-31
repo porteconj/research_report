@@ -4,8 +4,7 @@ date: 2018-09-13T16:28:16.000+00:00
 title: Productivity of Portuguese cooperatives
 type: post
 url: "/2018/09/13/productivity-of-portuguese-cooperatives/"
-categories:
-- Portuguese Economy Research Report
+categories: []
 
 ---
 In many countries and industries, cooperatives constitute a significant share of activity. Despite this widespread presence, there is little evidence on the merits of this organizational form with respect to productive efficiency relative to the more dominant way of organizing production through investor-owned firms.
