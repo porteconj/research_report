@@ -1,5 +1,6 @@
 +++
 author = "albuquru"
+categories = ["COVID-19", "Consumer Behavior"]
 date = 2020-06-22T23:00:00Z
 subtitle = ""
 title = "What and how did people in Portugal buy during the Great Lockdown period?"
