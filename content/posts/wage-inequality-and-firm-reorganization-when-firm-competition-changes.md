@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Labor Market", "Inequality"]
 date = 2021-11-19T05:00:00Z
 subtitle = ""
 title = "Wage inequality and firm reorganization when firm competition changes"
