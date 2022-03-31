@@ -1,5 +1,6 @@
 +++
 author = "albuquru"
+categories = ["Local Government", "Government Efficiency", "Public Finance"]
 date = 2020-12-01T05:00:00Z
 subtitle = ""
 title = "Was local government efficiency affected by the Troika’s intervention in Portugal?"
