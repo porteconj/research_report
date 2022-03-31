@@ -5,7 +5,8 @@ title: Reducing corporate taxes triggers high-quality entrepreneurship
 type: post
 url: "/2020/02/13/reducing-corporate-taxes-triggers-high-quality-entrepreneurship/"
 categories:
-- Portuguese Economy Research Report
+- Entrepreneurship
+- Taxation
 
 ---
 This paper investigates the impact of corporate taxes on entrepreneurial activity using a quasi-natural experiment in Portugal. Before 2001, the corporate tax rate levied on start-ups in Portugal was 34%. The “Portuguese Tax Benefits for Inland Regions” (Benefícios Fiscais à Interioridade) implemented in 2001 reduced the corporate tax rate to 25% for all start-ups located in inland regions. After 2004, the tax rate was further reduced to 15%, and after 2007 it was reduced to 10%. In 2012, the tax benefits were abolished and the corporate tax rate was increased to 25%.  Figure 1 compares the corporate tax rates faced by start-ups located in inland (the treated group) and coastal (the unaffected, control group) municipalities before, and after the tax reform.
