@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Research and Development", "Trade"]
 date = 2021-08-17T23:00:00Z
 subtitle = ""
 title = "Surpluses in technology balance of payments and international competitiveness"
