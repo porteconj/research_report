@@ -4,8 +4,7 @@ date: 2016-04-06T16:55:04.000+00:00
 title: Productivity and organization in Portuguese firms
 type: post
 url: "/2016/04/06/productivity-and-organization-in-portuguese-firms/"
-categories:
-- Portuguese Economy Research Report
+categories: []
 
 ---
 Firms are extremely heterogeneous in their ability to transform a combination of inputs, like capital and labor, into the goods they decide to produce. One can point to many potential sources of heterogeneity and changes in productivity. Some of these sources are exogenous to a firm’s actions and can be most simply modeled as idiosyncratic (like random innovations or production disruptions). Some others are the organizational responses to changes in demand and consumer tastes, factor prices, and other changes in the economic environment, like trade liberalizations and tax reforms.
