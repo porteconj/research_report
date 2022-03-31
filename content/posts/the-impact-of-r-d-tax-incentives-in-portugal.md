@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Research and Development", "Taxation"]
 date = 2021-08-04T23:00:00Z
 subtitle = ""
 title = "The impact of R&D tax incentives in Portugal"
