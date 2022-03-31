@@ -1,15 +1,15 @@
 ---
 author: albuquru
-date: 2019-09-27 22:43:49+00:00
-draft: false
+date: 2019-09-27T22:43:49.000+00:00
 title: 'The impact of international migration on the Portuguese public pension system:
   a scenario analysis'
 type: post
-url: /2019/09/27/the-impact-of-international-migration-on-the-portuguese-public-pension-system-a-scenario-analysis/
+url: "/2019/09/27/the-impact-of-international-migration-on-the-portuguese-public-pension-system-a-scenario-analysis/"
 categories:
-- Portuguese Economy Research Report
----
+- Migration
+- Public Finance
 
+---
 Migration might constitute one possible pathway to mitigating the effects of the aging population on the financial stability of pension systems as migrant flows tend to present younger age-structures than their receiving countries. While this argument was proposed a few decades ago and subject to discussion ever since, there have only been a few empirical studies striving to assess the role of migration in the financial sustainability of public pension systems.
 
 This article evaluates the impact of migration on the financial position of the Portuguese public pension system, focusing specifically on the old-age pension scheme between 2015 and 2060. The exercise takes into consideration factors such as trends in economic growth, productivity and labour qualification and compares the pension system financial balance with and without the migration input complementing the natural growth of the population resident in Portugal. Under various other assumptions, we are able to estimate the evolution of the old-age pension scheme receipts and expenses.
