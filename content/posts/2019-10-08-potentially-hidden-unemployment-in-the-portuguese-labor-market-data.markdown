@@ -1,14 +1,13 @@
 ---
 author: albuquru
-date: 2019-10-08 21:16:10+00:00
-draft: false
+date: 2019-10-08T21:16:10.000+00:00
 title: Potentially hidden unemployment in the Portuguese labor market data
 type: post
-url: /2019/10/08/potentially-hidden-unemployment-in-the-portuguese-labor-market-data/
+url: "/2019/10/08/potentially-hidden-unemployment-in-the-portuguese-labor-market-data/"
 categories:
-- Portuguese Economy Research Report
----
+- Labor Market
 
+---
 The unemployment classification relies on the degree of attachment to the labor market, based on the job search criterion. An individual aged between 15 and 74 years-old is considered to be unemployed if he or she is not working, but is actively searching for a job and is available to start working within the next two weeks. Several studies have highlighted the arbitrariness of the unemployment classification criteria used in the Portuguese Labor Force Survey, considering that the non-employed population is a heterogeneous group. For example, some individuals classified as inactive may have a degree of attachment to the labor market that is close to those officially unemployed.
 
 Among these individuals stand out the so-called “marginally-attached”, which are those that wish to work, but are not actively searching for a job or are not immediately available to start work. These include the discouraged workers which despite being available to work are not actively searching for a job. On average, about 12% of these marginally-attached individuals move to employment every quarter. This transition rate is lower than for the short-term unemployed (27.5%), but rather close to the long-term unemployed (17.1%), and clearly higher than that of the other inactive individuals (4.6%). Employment inflows originating from inactivity are relevant and higher in absolute terms than employment inflows originating from unemployment.
