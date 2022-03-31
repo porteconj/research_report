@@ -1,14 +1,13 @@
 ---
 author: albuquru
-date: 2016-03-22 13:15:41+00:00
-draft: false
+date: 2016-03-22T13:15:41.000+00:00
 title: Renegotiation of Public-Private Partnerships
 type: post
-url: /2016/03/22/renegotiation-of-public-private-partnerships/
+url: "/2016/03/22/renegotiation-of-public-private-partnerships/"
 categories:
-- Portuguese Economy Research Report
----
+- Public-Private Partnerships
 
+---
 Over the last decades, Public-Private Partnerships (PPPs) have become a popular means for governments to build and maintain large infrastructure and public services. Portugal has used PPPs intensively (by 2011, it was the European country with the highest investment in PPPs as a % of GDP), mainly for highways. This paper raises the issue of why PPPs are so frequently renegotiated, and what effect those renegotiations have on PPP efficiency. We analyse who – the public or private party – initiates the renegotiation of the PPP contract and which reasons for renegotiations are most common. We also examine the outcomes of those renegotiations in terms of which party gains most from the renegotiations, and the potential learning from successive renegotiations (in terms of negotiations tactics, and supervisory and regulatory initiatives).
 
 
