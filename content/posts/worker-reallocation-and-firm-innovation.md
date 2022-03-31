@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = ["Trade", " Research and Development"]
+categories = ["Trade", "Research and Development"]
 date = 2021-04-24T04:00:00Z
 subtitle = ""
 title = "Worker reallocation and firm innovation"
