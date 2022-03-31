@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Public-Private Partnerships"]
 date = 2021-05-25T04:00:00Z
 subtitle = ""
 title = "Public-private partnerships in health care services"
