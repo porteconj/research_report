@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Trade", " Research and Development"]
 date = 2021-04-24T04:00:00Z
 subtitle = ""
 title = "Worker reallocation and firm innovation"
@@ -11,4 +12,4 @@ Using Danish register data, the paper finds that a 100 percent increase in impor
 
 When the analysis is extended to Portugal, the paper finds that relative to Denmark, the increase in firms' R&D worker share and innovation in response to import competition is smaller. Contrary to the Danish results, most of the increase in the share of R&D workers is attributable to the internal reallocation of labor. This result suggests that Portugal's more stringent labor market regulations and low productivity of firms limit firms' potential adjustment in response to competitive shocks. Furthermore, the increase in the share of R&D workers due to import competition has a weaker relation to firms' innovation in Portugal than in Denmark. This last result corroborates the importance of new hirings for explaining the relationship between import competition and innovation.
 
-Click here to go to the paper by [Grace Gu, Samreen Malik, Dario Pozzoli, and Vera Rocha](https://ideas.repec.org/p/hhs/cbsnow/2021_009.html). 
+Click here to go to the paper by [Grace Gu, Samreen Malik, Dario Pozzoli, and Vera Rocha](https://ideas.repec.org/p/hhs/cbsnow/2021_009.html).
