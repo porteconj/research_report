@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Bank Credit"]
 date = 2022-01-10T05:00:00Z
 subtitle = ""
 title = "The real effects of FinTech lending on SMEs"
