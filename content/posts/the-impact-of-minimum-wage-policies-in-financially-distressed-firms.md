@@ -1,8 +1,10 @@
 +++
 author = "albuquru"
+categories = ["Labor Market"]
 date = 2020-09-19T04:00:00Z
 subtitle = "A paper by Fernando Alexandre, Pedro Bação, João Cerejeira, Hélder Costa, and Miguel Portela"
 title = "The impact of minimum wage policies in financially distressed firms"
+
 +++
 The Portuguese government promised to increase the minimum wage to 750 euros by 2023. If this goal is achieved, between 2014 and 2023 the nominal minimum wage will have increased 55%. The final objective of this measure is to reduce poverty and income inequality. However, it implies additional costs to firms and customers. When many firms are already under pressure and living in a context of high uncertainty due to the covid-19 pandemic, the announced minimum wage increases cast further doubts on the evolution of employment and on the financial condition of firms.
 
