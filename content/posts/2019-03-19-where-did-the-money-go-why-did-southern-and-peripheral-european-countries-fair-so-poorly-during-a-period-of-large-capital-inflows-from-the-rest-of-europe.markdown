@@ -6,7 +6,8 @@ title: Where did the money go? Why did Southern and peripheral European countrie
 type: post
 url: "/2019/03/19/where-did-the-money-go-why-did-southern-and-peripheral-european-countries-fair-so-poorly-during-a-period-of-large-capital-inflows-from-the-rest-of-europe/"
 categories:
-- Portuguese Economy Research Report
+- Productivity
+- Economic Growth
 
 ---
 ![](/v1585066179/research_report/2019/03/research_report_2019_03_screen-shot-2019-03-19-at-12.02.48-pm_hguqqh.png)
