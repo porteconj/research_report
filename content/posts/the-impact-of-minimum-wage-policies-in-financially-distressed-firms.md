@@ -1,6 +1,6 @@
 +++
 author = "albuquru"
-categories = ["Labor Market"]
+categories = ["Labor Market", "Financial Constraints"]
 date = 2020-09-19T04:00:00Z
 subtitle = "A paper by Fernando Alexandre, Pedro Bação, João Cerejeira, Hélder Costa, and Miguel Portela"
 title = "The impact of minimum wage policies in financially distressed firms"
