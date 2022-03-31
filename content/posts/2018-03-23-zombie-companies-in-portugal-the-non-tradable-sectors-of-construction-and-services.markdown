@@ -6,7 +6,7 @@ title: 'Zombie companies in Portugal: the non-tradable sectors of construction a
 type: post
 url: "/2018/03/23/zombie-companies-in-portugal-the-non-tradable-sectors-of-construction-and-services/"
 categories:
-- Portuguese Economy Research Report
+- Productivity
 subtitle: A paper by paper by Gabriel Osório de Barros, Filipe Bento Caires and Dora
   Xarepe Pereira
 
