@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Economic Growth"]
 date = 2021-05-05T04:00:00Z
 subtitle = ""
 title = "Small- and medium-sized enterprises and the financial crisis"
