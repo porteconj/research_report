@@ -5,7 +5,7 @@ title: Aging and the compression of disability
 type: post
 url: "/2019/12/15/aging-and-the-compression-of-disability/"
 categories:
-- Portuguese Economy Research Report
+- Health
 
 ---
 ![](/v1585066172/research_report/2019/12/research_report_2019_12_screen-shot-2019-12-16-at-12.59.09-am_a8dmiy.png)
