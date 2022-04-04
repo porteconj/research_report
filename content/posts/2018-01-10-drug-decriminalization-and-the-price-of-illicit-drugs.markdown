@@ -1,14 +1,13 @@
 ---
 author: albuquru
-date: 2018-01-10 17:07:29+00:00
-draft: false
+date: 2018-01-10T17:07:29.000+00:00
 title: Drug decriminalization and the price of illicit drugs
 type: post
-url: /2018/01/10/drug-decriminalization-and-the-price-of-illicit-drugs/
+url: "/2018/01/10/drug-decriminalization-and-the-price-of-illicit-drugs/"
 categories:
-- Portuguese Economy Research Report
----
+- Health
 
+---
 _One moderate alternative to the war on drugs is to follow Portugal’s lead and decriminalize all drug use while maintaining the illegality of drug trafficking. -- _Gary S. Becker and Kevin M. Murphy (2013)
 
 In the late 1980s and 1990s a growing population of intravenous heroin users became a major threat to public health in Portugal, where rates of heroin users were among the highest in Europe. In the mid’90s Portugal engaged in an intensive debate on alternative enforcement policies to deal with drug use and, in 1998, a panel of leading scholars and medical professionals presented a report with recommendations rooted in understanding drug dependency as a disease rather than a crime. This process culminated with the approval of the law decriminalizing the personal use and possession of illicit drugs in 2001. In the Portuguese decriminalization framework, police can no longer arrest drug users but must refer them to the local Commissions for the Dissuasion of Drug Use that decide the administrative or public order sanction to apply. Severe criminal penalties are still applied to drug traffickers.
