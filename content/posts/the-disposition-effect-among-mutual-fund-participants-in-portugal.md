@@ -1,5 +1,6 @@
 +++
 author = "albuquru"
+categories = ["Financial Markets"]
 date = 2020-06-11T23:00:00Z
 subtitle = ""
 title = "The disposition effect among mutual fund participants in Portugal"
