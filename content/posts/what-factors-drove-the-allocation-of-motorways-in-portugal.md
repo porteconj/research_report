@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = ["Transportation"]
+categories = ["Transportation", "Urban Economics"]
 date = 2021-08-19T23:00:00Z
 subtitle = ""
 title = "What factors explain the allocation of motorways in Portugal?"
