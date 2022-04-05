@@ -1,7 +1,7 @@
 +++
 aliases = ["/2020/05/04/doctors-response-to-queues-evidence-from-a-portuguese-emergency-department/"]
 author = "albuquru"
-categories = []
+categories = ["Health"]
 date = 2020-04-05T15:59:35Z
 title = "Doctors’ response to queues: evidence from a Portuguese emergency department"
 type = "post"
