@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Economic Growth", "Economic History"]
 date = 2021-06-15T23:00:00Z
 subtitle = ""
 title = "Quest for riches and the colonization of the “New World”"
