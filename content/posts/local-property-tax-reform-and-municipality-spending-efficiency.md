@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Local Government", "Taxation", "Government Efficiency"]
 date = 2022-01-25T05:00:00Z
 subtitle = ""
 title = "Local property tax reform and municipality spending efficiency"
