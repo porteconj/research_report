@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Entrepreneurship", "Labor Market"]
 date = 2021-03-30T04:00:00Z
 subtitle = ""
 title = "Side benefits of promoting entrepreneurship"
