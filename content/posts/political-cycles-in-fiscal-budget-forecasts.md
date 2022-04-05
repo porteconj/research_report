@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Elections", "Local Government", "Public Finance"]
 date = 2022-01-27T05:00:00Z
 subtitle = ""
 title = "Political cycles in municipal revenue forecasts"
