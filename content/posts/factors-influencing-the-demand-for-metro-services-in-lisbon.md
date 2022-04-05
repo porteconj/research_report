@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Transportation", "Urban Economics"]
 date = 2021-11-08T05:00:00Z
 subtitle = ""
 title = "Factors influencing the demand for metro services in Lisbon"
