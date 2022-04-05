@@ -6,6 +6,7 @@ type: post
 url: "/2020/01/07/finance-and-labor-rigidity-in-portugal/"
 categories:
 - Labor Market
+- Bank Credit
 
 ---
 How do credit shocks affect firms’ employment adjustment and exit? How does the propagation of these shocks depend on labor rigidities? Do credit shocks reinforce or hinder productivity-enhancing reallocations in the real economy?
