@@ -5,7 +5,9 @@ title: Debt financing and internationalization of Portuguese SMEs
 type: post
 url: "/2018/06/04/debt-financing-and-internationalization-of-portuguese-smes/"
 categories:
-- Portuguese Economy Research Report
+- Small- and Medium-Sized Enterprises
+- Bank Credit
+- Trade
 
 ---
 This paper examines the relationship between the capital structure of Portuguese small and medium enterprises(SMEs) and their export performance. The Portuguese industrial firms are of great importance for the domestic economy and played a significant role in the country’s economic recovery amid the recessionary environment of the last decade. Being smaller and privately owned, and thus with less publicly available information, SMEs tend to face greater agency and asymmetric information problems that impact investment and performance generally, and export performance more specifically.
