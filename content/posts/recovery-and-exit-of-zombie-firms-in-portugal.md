@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Productivity"]
 date = 2021-05-07T04:00:00Z
 subtitle = ""
 title = "Recovery and exit of zombie firms in Portugal"
