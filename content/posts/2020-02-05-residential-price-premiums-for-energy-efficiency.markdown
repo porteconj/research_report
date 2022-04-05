@@ -1,14 +1,14 @@
 ---
 author: albuquru
-date: 2020-02-05 22:03:28+00:00
-draft: false
+date: 2020-02-05T22:03:28.000+00:00
 title: Residential price premiums for energy efficiency
 type: post
-url: /2020/02/05/residential-price-premiums-for-energy-efficiency/
+url: "/2020/02/05/residential-price-premiums-for-energy-efficiency/"
 categories:
-- Portuguese Economy Research Report
----
+- Real Estate
+- Energy
 
+---
 This paper addresses the question of whether increased energy efficiency, as measured by the Energy Performance Certificate (EPC), has an impact on the transaction price of residential properties in Portugal. The investigation of the relationship between the EPC label and residential property prices is carried out through the econometric estimation of an hedonic price model, which has been used as the workhorse model of house prices.
 
 Using a dataset of 256,000 residential property sales for Portugal, this paper estimates a price premium for energy efficiency. The average price premium is 13% for apartments and 5% to 6% for houses. Price premiums tend to increase from 2009 to 2013, a period in which the Portuguese housing market was depressed.
