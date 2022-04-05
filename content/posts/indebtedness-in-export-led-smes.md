@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Small- and Medium-Sized Enterprises", "Trade", "Bank Credit"]
 date = 2021-05-17T04:00:00Z
 subtitle = ""
 title = "Indebtedness in export-led SMEs"
