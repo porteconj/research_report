@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Government Policy", "COVID-19", "Small- and Medium-Sized Enterprises", "Behavioral Finance"]
 date = 2021-07-01T23:00:00Z
 subtitle = ""
 title = "Helping the government promote its policies"
