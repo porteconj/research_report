@@ -5,8 +5,7 @@ title: 'Innovations in digital government as business facilitators: internationa
   evidence and implications for Portugal'
 type: post
 url: "/2018/06/25/innovations-in-digital-government-as-business-facilitators-international-evidence-and-implications-for-portugal/"
-categories:
-- Portuguese Economy Research Report
+categories: []
 
 ---
 Administrative and regulatory burden reduction has become a priority to improve governmental efficiency and economic competitiveness. Innovations in government through Information Communication Technologies are seen as key tools in designing policies to achieve those goals. Although Portugal has been improving in the business environment and electronic government development indicators and considered a top reformer in some international reports, it is still far from the best-performing countries in several dimensions.
