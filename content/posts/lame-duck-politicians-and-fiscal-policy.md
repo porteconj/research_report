@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Elections", "Local Government", "Public Finance"]
 date = 2022-02-03T05:00:00Z
 subtitle = ""
 title = "Lame duck politicians and fiscal policy"
