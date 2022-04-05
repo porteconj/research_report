@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = ["Bank Credit", "Financial Markets", "Small- and Medium-Sized Enterprises"]
+categories = ["Financial Markets", "Small- and Medium-Sized Enterprises"]
 date = 2022-01-10T05:00:00Z
 subtitle = ""
 title = "The real effects of FinTech lending on SMEs"
