@@ -5,7 +5,8 @@ title: A lower VAT rate on electricity in Portugal
 type: post
 url: "/2018/06/04/a-lower-vat-rate-on-electricity-in-portugal/"
 categories:
-- Portuguese Economy Research Report
+- Taxation
+- Energy
 
 ---
 In late 2011, Portugal increased the statutory VAT rate on electricity from 6% to 23% as part of the austerity plan under the country’s international bailout. Naturally, this austerity measure met with widespread concern for its potentially negative effects on both economic performance and social justice. Seven years after its introduction, the country is facing a brighter economic outlook and a more positive outlook for its public finances. Nevertheless, there is no sign that authorities plan to reinstate the reduced VAT rate. Accordingly, evaluating the effects of this measure on the public purse – by any reckoning the rationale for its introduction – and to attempt to measure the possible detrimental effects on economic performance, inequality, and the environment is a pertinent policy question.
