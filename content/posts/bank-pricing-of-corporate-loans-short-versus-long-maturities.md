@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Bank Credit"]
 date = 2021-06-25T23:00:00Z
 subtitle = ""
 title = "Bank pricing of corporate loans, short versus long maturities"
