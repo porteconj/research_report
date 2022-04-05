@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Entrepreneurship"]
 date = 2021-11-08T05:00:00Z
 subtitle = ""
 title = "Serial entrepreneurs and the macroeconomy"
