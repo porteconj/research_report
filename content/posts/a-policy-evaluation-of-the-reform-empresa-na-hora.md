@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Labor Market", "Government Policy"]
 date = 2021-11-10T05:00:00Z
 subtitle = ""
 title = "A policy evaluation of the reform \"Empresa na Hora\""
