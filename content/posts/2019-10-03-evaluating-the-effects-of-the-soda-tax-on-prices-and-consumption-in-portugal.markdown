@@ -1,14 +1,14 @@
 ---
 author: albuquru
-date: 2019-10-03 15:11:33+00:00
-draft: false
+date: 2019-10-03T15:11:33.000+00:00
 title: Evaluating the effects of the soda tax on prices and consumption in Portugal
 type: post
-url: /2019/10/03/evaluating-the-effects-of-the-soda-tax-on-prices-and-consumption-in-portugal/
+url: "/2019/10/03/evaluating-the-effects-of-the-soda-tax-on-prices-and-consumption-in-portugal/"
 categories:
-- Portuguese Economy Research Report
----
+- Taxation
+- Consumer Behavior
 
+---
 [More than 40 countries around the world](https://www.dropbox.com/s/bqbj501wgocor24/UNCGFRP_SSB_tax_maps.pdf?dl=0) and a handful of American cities have introduced, or are considering introducing, soda taxes. In addition to raising tax revenues, these instruments aim to reduce the consumption of products whose prices do not reflect their true social costs, by making them comparatively more expensive (and increasing awareness about the negative effects of their consumption). Tobacco and alcohol taxes are classic such examples. The same rationale applies to soda (and other unhealthy foods and drinks): excessive sugar intake from soda is associated with higher prevalence of diseases such as obesity and diabetes, with the costs of treating these diseases falling on everyone.
 
 The recent popularity of soda taxes is not without criticism. In 2016, [Senator Bernie Sanders wrote an open letter](https://www.phillymag.com/citified/2016/04/24/bernie-sanders-soda-tax-op-ed/) against such taxes, on the grounds of their supposed regressivity and unfairness. On the other side of the political spectrum, many believe soda taxes are too paternalistic and impose restrictions on individual freedom.

@@ -1,14 +1,12 @@
 ---
 author: albuquru
-date: 2018-04-24 22:09:07+00:00
-draft: false
+date: 2018-04-24T22:09:07.000+00:00
 title: Hiring older workers in Portugal
 type: post
-url: /2018/04/24/hiring-older-workers/
-categories:
-- Portuguese Economy Research Report
----
+url: "/2018/04/24/hiring-older-workers/"
+categories: []
 
+---
 This paper asks why companies retain older workers while not hiring older workers in Portugal. The Portuguese case is particularly relevant to study this question, because the level of participation of older workers in the labor market is at least twice as high in Portugal when compared to European countries.
 
 Using unique matched employer-employee data of 2007, from _Quadros de Pessoal_, thispaper examines the determinants of hiring individuals aged 50 and older. The analysis considers the usual variables, but also the effect of several changes in the Portuguese pension system since 2000, which include new methods to calculate pensions--that take into account life time wages--reducing the replacement rate--through the introduction of a sustainability factor that depends of the average life expectancy--and the creation of reserve funds.
