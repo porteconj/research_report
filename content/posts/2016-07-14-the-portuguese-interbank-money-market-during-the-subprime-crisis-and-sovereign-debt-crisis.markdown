@@ -8,6 +8,7 @@ url: "/2016/07/14/the-portuguese-interbank-money-market-during-the-subprime-cris
 categories:
 - Bank Credit
 - Sovereign Debt
+- Financial Markets
 
 ---
 Money markets were severely impaired by the financial crisis and subsequent sovereign debt crisis. During the summer of 2007, BNP Paribas suspended redemptions for three investment funds due to the uncertainty regarding structured products. This event triggered the first stage of the financial crises in the euro area and linked it to the subprime mortgage crisis in the US. Afterwards, interbank lending was disturbed and the sovereign debt crisis aggravated the problem as country risk became a significant part of bank risk. Ultimately, the unsecured interbank money market froze.
