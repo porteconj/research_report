@@ -5,8 +5,7 @@ title: 'Boom, slump, sudden stops, recovery, and policy options: Portugal and th
   Euro'
 type: post
 url: "/2017/06/29/boom-slump-sudden-stops-recovery-and-policy-options-portugal-and-the-euro/"
-categories:
-- Portuguese Economy Research Report
+categories: []
 
 ---
 Over the past 20 years, Portugal has gone through a boom, a slump, a sudden stop, and now a timid recovery. Unemployment has decreased, but remains high, and output is still far below potential. Competitiveness has improved, but more is needed to keep the current account in check as the economy recovers. Private and public debt are high, both legacies of the boom, the slump and the sudden stop. Productivity growth remains low. Because of high debt and low growth, the recovery remains fragile.
