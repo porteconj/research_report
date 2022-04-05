@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Education", "Labor Market"]
 date = 2021-12-14T05:00:00Z
 subtitle = ""
 title = "Fluctuations in the wage gap between vocational and general secondary education"
@@ -15,4 +16,4 @@ Careful statistical and econometric analyses confirms this inverted U-shape patt
 
 The paper offers the interpretation that the traditional vocational education lost relevance for the labour market when the economy was restructured after the 1980s, and that the reorganization of vocational education, increasing the weight of building cognitive skills and preparing for new jobs in the service sector of the economy improved the relative position of vocational graduates in the high wage firms. That would appear to make the overhaul of vocational education at the secondary level a successful policy intervention.
 
-Click here to go to the paper by [Joop Hartog, Pedro Raposo, and Hugo Reis](https://link.springer.com/article/10.1007/s00148-021-00846-1). 
+Click here to go to the paper by [Joop Hartog, Pedro Raposo, and Hugo Reis](https://link.springer.com/article/10.1007/s00148-021-00846-1).
