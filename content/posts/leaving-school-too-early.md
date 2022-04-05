@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Education", "Government Policy"]
 date = 2021-08-30T04:00:00Z
 subtitle = ""
 title = "Leaving school too early?"
