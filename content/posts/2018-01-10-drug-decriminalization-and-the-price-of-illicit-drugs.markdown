@@ -6,6 +6,7 @@ type: post
 url: "/2018/01/10/drug-decriminalization-and-the-price-of-illicit-drugs/"
 categories:
 - Health
+- Government Policy
 
 ---
 _One moderate alternative to the war on drugs is to follow Portugal’s lead and decriminalize all drug use while maintaining the illegality of drug trafficking. -- _Gary S. Becker and Kevin M. Murphy (2013)
