@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Energy", "Productivity"]
 date = 2021-05-05T04:00:00Z
 subtitle = ""
 title = "Electricity prices for better yet sustainable economic performance"
