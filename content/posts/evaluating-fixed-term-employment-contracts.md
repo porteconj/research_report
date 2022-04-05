@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Labor Market", "Government Policy"]
 date = 2022-01-24T05:00:00Z
 subtitle = ""
 title = "Evaluating fixed-term employment contracts"
