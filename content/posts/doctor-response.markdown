@@ -1,11 +1,11 @@
 +++
+aliases = ["/2020/05/04/doctors-response-to-queues-evidence-from-a-portuguese-emergency-department/"]
 author = "albuquru"
-categories = ["Portuguese Economy Research Report"]
+categories = []
 date = 2020-04-05T15:59:35Z
 title = "Doctors’ response to queues: evidence from a Portuguese emergency department"
 type = "post"
 url = "/doctor-response-queues/"
-aliases = ["/2020/05/04/doctors-response-to-queues-evidence-from-a-portuguese-emergency-department/"]
 
 +++
 This study analyzes how emergency room doctors change their behavior when the waiting room is crowded. Resources in a fast-care setting such as emergency departments are limited (namely physicians’ time), and so it is important to study the extent to which those restrictions reflect on lower provision of care when more patients are waiting.
