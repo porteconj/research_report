@@ -5,7 +5,7 @@ title: 'Literacy and primary school expansion in Portugal: 1940–62'
 type: post
 url: "/2019/12/03/literacy-and-primary-school-expansion-in-portugal-1940-62/"
 categories:
-- Portuguese Economy Research Report
+- Education
 
 ---
 In Portugal, in 1940, only 40% of the population knew how to read. The causes of this backwardness, as well as the the rapid increase of literacy rates in the subsequent decades have been the focus of considerable research, and some controversy.
