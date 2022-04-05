@@ -4,8 +4,7 @@ date: 2017-06-23T13:42:47.000+00:00
 title: Earnings management dynamics in Portuguese listed firms
 type: post
 url: "/2017/06/23/earnings-management-dynamics-in-portuguese-listed-firms/"
-categories:
-- Portuguese Economy Research Report
+categories: []
 
 ---
 There are several incentives to engage in earnings management, which managers need to consider. Likewise, there are different ways to drive earnings and cash flows in a certain direction.  Given the complex context in which firms operate, earnings management may be seen has a continuous and iterative process characterized by a mixture of incentives and practices.
