@@ -4,8 +4,7 @@ date: 2019-09-12T14:13:15.000+00:00
 title: Local territorial reform and regional spending efficiency
 type: post
 url: "/2019/09/12/local-territorial-reform-and-regional-spending-efficiency/"
-categories:
-- Portuguese Economy Research Report
+categories: []
 
 ---
 Quite often, one encounters arguments advocating that mergers or amalgamation of territorial units are a pathway to reduce public spending and increase efficiency, pointing to advantages of economies of scale in the provision of public services. However, this article argues that these advantages might have been oversold. The article assesses the changes on municipal efficiency that stem from the 2013 Portuguese local territorial reform that reduced the number of local governments and parishes by around 29%.
