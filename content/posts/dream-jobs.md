@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Labor Market"]
 date = 2021-02-12T05:00:00Z
 subtitle = ""
 title = "Dream jobs"
