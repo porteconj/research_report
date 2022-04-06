@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = ["Financial Constraints", "Labor Market"]
+categories = ["Financial Constraints", "Inequality", "Labor Market"]
 date = 2022-02-01T05:00:00Z
 subtitle = ""
 title = "Financial constraints and the executive gender gap"
