@@ -4,7 +4,9 @@ date: 2016-11-20T10:52:22.000+00:00
 title: Maximum duration of fixed-term labor contracts in recessions
 type: post
 url: "/2016/11/20/maximum-duration-of-fixed-term-labor-contracts-in-recessions/"
-categories: []
+categories:
+- Labor Market
+- Government Policy
 
 ---
 Policy makers and academics put great effort in understanding and minimising the negative employment effects of business cycles. This paper evaluates one policy option in this regard: greater flexibility in the maximum duration of fixed term contracts during recessions. Its simple rationale is that, when faced with an uncertain outlook (and restrictive permanent contracts), firms may be more likely to dismiss fixed-term contracts if the only legal alternative is to convert them. By allowing more time in recessions until this ‘in or out' decision, employment levels may increase.
