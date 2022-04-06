@@ -5,7 +5,9 @@ title: 'From convergence to divergence: Portuguese demography and economic growt
   1500-1850'
 type: post
 url: "/2016/11/08/from-convergece-to-divergence-portuguese-demography-and-economic-growth-1500-1850/"
-categories: []
+categories:
+- Economic Growth
+- Economic History
 
 ---
 When did Portugal’s economy diverge from the European core? This paper constructs the first time-series for Portugal’s per capita GDP for 1500-1850, drawing on a new and extensive database. Starting around 1550 there was a highly persistent upward trend on per capita income, which accelerated after 1700 and peaked 50 years later. At that point, per capita incomes were high by European standards. Portuguese per capita GDP was about as high as that of Britain, Italy and the Netherlands, and higher than that of France, Spain, Germany and Sweden. But as the second half of the eighteenth century unfolded, a phase of economic decline was initiated.
