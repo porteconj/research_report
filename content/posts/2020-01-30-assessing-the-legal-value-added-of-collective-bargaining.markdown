@@ -4,7 +4,8 @@ date: 2020-01-30T15:35:01.000+00:00
 title: Assessing the legal value added of collective bargaining
 type: post
 url: "/2020/01/30/assessing-the-legal-value-added-of-collective-bargaining/"
-categories: []
+categories:
+- Labor Market
 
 ---
 Collective bargaining – the negotiation about working conditions between one or more employers and workers’ representatives – can improve wages, working time and various other dimensions of employment. Successful bargaining that takes into account the characteristics of the firms and workers involved can also increase engagement and stability, improve productivity and profitability. 
