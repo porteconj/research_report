@@ -1,5 +1,6 @@
 +++
 author = "albuquru"
+categories = ["Corporate Governance", "Corporate Social Responsibility"]
 date = 2020-09-17T04:00:00Z
 subtitle = "A paper by Inna Sousa Paiva"
 title = "Corporate governance and financial policies of Portuguese family firms"
