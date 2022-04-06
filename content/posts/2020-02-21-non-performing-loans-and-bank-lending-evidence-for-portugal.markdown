@@ -4,7 +4,8 @@ date: 2020-02-21T17:05:24.000+00:00
 title: 'Non-performing loans and bank lending: evidence for Portugal'
 type: post
 url: "/2020/02/21/non-performing-loans-and-bank-lending-evidence-for-portugal/"
-categories: []
+categories:
+- Bank Credit
 
 ---
 In the wake of the international financial crisis and the sovereign debt crises there has been a pronounced and increase of non-performing loans (NPLs) with the potential to impact banks’ supply of credit and ultimately economy-wide growth. This is a relevant topic in many European Countries, including Portugal, where in mid-2016 NPLs accounted at one time for almost 18% of banks’ total loans.
