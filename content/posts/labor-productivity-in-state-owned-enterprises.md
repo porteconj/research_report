@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Productivity", "Government Policy"]
 date = 2020-06-02T23:00:00Z
 subtitle = "A paper by António Afonso, Maria João Guedes, and Pankaj C. Patel"
 title = "Labor productivity in state-owned enterprises"
