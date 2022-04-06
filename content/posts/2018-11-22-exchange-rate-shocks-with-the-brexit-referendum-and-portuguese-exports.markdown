@@ -4,7 +4,9 @@ date: 2018-11-22T14:52:23.000+00:00
 title: Exchange rate shocks with the Brexit referendum and Portuguese exports
 type: post
 url: "/2018/11/22/exchange-rate-shocks-with-the-brexit-referendum-and-portuguese-exports/"
-categories: []
+categories:
+- Financial Markets
+- Trade
 
 ---
 Understanding the effect of exchange rate movements on international trade is a major issue for economists and for policy-makers. Using a quasi-natural experimental evidence on the effects of exchange rate shocks on export prices, quantities and export participation, the paper examines the consequences of the large, sudden and unanticipated plunge in the British pound following the Brexit referendum. As figure 1 shows, the pound depreciated sharply against the Euro after the referendum and it has stayed more or less at that level since.
