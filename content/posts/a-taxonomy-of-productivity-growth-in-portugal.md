@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Productivity", "Labor Market"]
 date = 2021-02-02T05:00:00Z
 subtitle = ""
 title = "A taxonomy of productivity growth in Portugal"
