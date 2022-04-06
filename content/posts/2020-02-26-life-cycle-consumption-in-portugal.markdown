@@ -4,7 +4,8 @@ date: 2020-02-26T15:00:04.000+00:00
 title: Life-cycle consumption in Portugal
 type: post
 url: "/2020/02/26/life-cycle-consumption-in-portugal/"
-categories: []
+categories:
+- Consumer Behavior
 
 ---
 How does personal consumption evolve over the life-cycle? According to the permanent income/life-cycle theory of consumption, primarily associated with Milton Friedman and Franco Modigliani, the answer to this question is that consumers try to smooth consumption over time, with significant adjustments occurring only in the event of permanent shocks to income. Empirical studies of consumption behavior, however, tend to find that consumption presents a hump-shaped pattern, mimicking the life-cycle pattern of income. A study conducted with US household data (Fernández-Villaverde and Krueger, 2007) find that from the beginning of the life cycle to the moment when the peak in consumption is reached in the late forties, consumption increases by about 30%.
