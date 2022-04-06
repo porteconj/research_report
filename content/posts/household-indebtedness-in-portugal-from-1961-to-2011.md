@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Real Estate", "Bank Credit"]
 date = 2021-01-22T05:00:00Z
 subtitle = ""
 title = "Household indebtedness in Portugal from 1961 to 2011"
