@@ -5,7 +5,10 @@ title: Are training grants a useful policy to increase productivity? (A policy s
   during the coronavirus pandemic.)
 type: post
 url: "/2020/03/16/are-training-grants-a-useful-policy-to-increase-productivity/"
-categories: []
+categories:
+- Productivity
+- Government Policy
+- COVID-19
 
 ---
 Recent research by the European Investment Bank indicates that workers in Europe spend less than 0.5% of their working time on training. This figure seems too low and indeed there are good economic reasons to suggest some degree of under-provision of training. First, training is expensive for firms, as it entails significant direct and indirect costs. Second, employers know they will lose their investments in training if employees subsequently leave.
