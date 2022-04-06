@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = ["Real Estate", "Inequality"]
 date = 2020-09-14T04:00:00Z
 subtitle = ""
 title = "Discrimination against same-sex couples in the Portuguese rental market"
