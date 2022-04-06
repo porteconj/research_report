@@ -4,7 +4,10 @@ date: 2017-11-06T13:57:33.000+00:00
 title: Entry and exit in the 2008–2013 Portuguese economic crisis
 type: post
 url: "/2017/11/06/entry-and-exit-in-the-2008-2013-portuguese-economic-crisis/"
-categories: []
+categories:
+- Productivity
+- Financial Markets
+- Bank Credit
 
 ---
 Recessions are conventionally considered as times in which low-productivity firms are driven out of the market at a relatively accelerated pace and resources freed to more productive uses as a result. But recessions that are closely associated with financial crises can reduce efficiency in resource reallocation through reduced bank lending to profitable projects. Banks may also forbear bad debtors, delaying the process of firm death in an effort to protect their own balance sheets, thereby hindering one of the key mechanisms through which productivity growth does its job. We study the hypothesis that when financial markets are seriously distorted, reallocation may be driven by financial constraints rather than by micro foundations such as productivity, demand, and cost structure. This hypothesis is therefore a strong candidate to explain the unusually anaemic economic growth in most advanced economies in the aftermath of the Great Recession despite extensive monetary easing policies.
