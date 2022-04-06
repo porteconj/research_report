@@ -4,7 +4,10 @@ date: 2019-11-01T14:30:06.000+00:00
 title: Does foreign presence induce host country firms’ exit? The case of Portugal
 type: post
 url: "/2019/11/01/does-foreign-presence-induce-host-country-firms-exit-the-case-of-portugal/"
-categories: []
+categories:
+- Trade
+- Productivity
+- Bankruptcy
 
 ---
 Multinational enterprises are a significant contributor to the world economy as evidenced by indicators of foreign affiliate activity such as sales, employment, exports, value added and assets. This paper studies their role as agents of competition using the Portuguese economy. Multinational activities might affect the host country industry dynamics due two main opposing effects. On one hand, the presence of foreign firms may induce less efficient domestic firms to exit the market (a crowding-out effect) through, for example, aggressive business practices of foreign firms (e.g. predatory conduct) or their better access to less expensive inputs. On the other hand, foreign firms may contribute to the transfer of advance knowledge and best practices to local firms, which is reflected in an improvement of domestic firms’ productivity and reduced exit rates. Both effects had been found in prior empirical literature, but their relative importance depends on the countries, sectors and periods of analysis.
