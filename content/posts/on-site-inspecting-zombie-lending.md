@@ -1,7 +1,7 @@
 +++
 author = "albuquru"
+categories = ["Productivity", "Bank Credit"]
 date = 2020-07-06T23:00:00Z
-draft = false
 subtitle = ""
 title = "On-site inspecting zombie lending"
 type = "post"
