@@ -4,7 +4,10 @@ date: 2019-05-27T02:06:04.000+00:00
 title: Private saving determinants in Portugal
 type: post
 url: "/2019/05/27/private-saving-determinants-in-portugal/"
-categories: []
+categories:
+- Economic Growth
+- Savings
+- Government Policy
 
 ---
 The combination of projected expenditure increases in the Portuguese public pension scheme and low rates of private saving constitutes a policy challenge, not least because the former may be associated with the later. The impact of public pension wealth on private saving has been widely studied since the late 1970’s, yet no consensus on the topic has been reached so far. Some authors find evidence that public pension wealth impacts negatively private saving, others argue that the effect is not statistically significant.
