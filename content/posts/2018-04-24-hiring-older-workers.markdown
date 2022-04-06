@@ -4,7 +4,8 @@ date: 2018-04-24T22:09:07.000+00:00
 title: Hiring older workers in Portugal
 type: post
 url: "/2018/04/24/hiring-older-workers/"
-categories: []
+categories:
+- Labor Market
 
 ---
 This paper asks why companies retain older workers while not hiring older workers in Portugal. The Portuguese case is particularly relevant to study this question, because the level of participation of older workers in the labor market is at least twice as high in Portugal when compared to European countries.
