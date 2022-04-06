@@ -1,5 +1,6 @@
 +++
 author = "albuquru"
+categories = ["Health", "Government Policy"]
 date = 2020-08-03T23:00:00Z
 subtitle = ""
 title = "Competition in the over-the-counter drug market after deregulation: evidence from Portugal"
