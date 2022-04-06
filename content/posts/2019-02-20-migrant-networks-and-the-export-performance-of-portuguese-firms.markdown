@@ -4,7 +4,9 @@ date: 2019-02-20T21:07:12.000+00:00
 title: Migrant networks and the export performance of Portuguese firms
 type: post
 url: "/2019/02/20/migrant-networks-and-the-export-performance-of-portuguese-firms/"
-categories: []
+categories:
+- Migration
+- Trade
 
 ---
 Fixed costs associated with learning about demand and setting up distribution networks are expected to be lower when there are more potential contacts in the destination market, suggesting a greater probability of market entry and larger export revenues. This paper matches historically-determined emigration stocks with detailed firm-level data from Portugal to examine the effect of migrant networks on export outcomes.
