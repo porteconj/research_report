@@ -1,7 +1,7 @@
 +++
 aliases = ["/2020/05/06/determinants-of-total-factor-productivity-in-the-portuguese-quaternary-sector/"]
 author = "albuquru"
-categories = []
+categories = ["Productivity", "Research and Development"]
 date = 2020-05-06T15:59:35Z
 title = "Determinants of total factor productivity in the Portuguese quaternary sector"
 type = "post"
