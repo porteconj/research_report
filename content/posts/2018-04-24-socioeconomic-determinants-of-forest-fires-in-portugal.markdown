@@ -5,7 +5,6 @@ title: Socioeconomic determinants of forest fires in Portugal
 type: post
 url: "/2018/04/24/socioeconomic-determinants-of-forest-fires-in-portugal/"
 categories:
-- Forestry
 - Conservation
 
 ---
