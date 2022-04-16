@@ -3,14 +3,14 @@ publish = "public"
 functions = "./functions"
 
 [context.production.environment]
-HUGO_VERSION = "0.80.0"
+HUGO_VERSION = "0.97.0"
 HUGO_ENV = "production"
 GO_VERSION = "1.15"
 NODE_VERSION = "16.13.2"
 
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.88.0"
+HUGO_VERSION = "0.97.0"
 GO_VERSION = "1.15"
 NODE_VERSION = "16.13.2"
 
