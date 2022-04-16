@@ -1,5 +1,6 @@
 [build]
 publish = "public"
+functions = "./functions"
 
 [context.production.environment]
 HUGO_VERSION = "0.80.0"
@@ -20,3 +21,6 @@ command = "hugo mod get -u && hugo --baseURL $URL --gc"
 [context.branch-deploy]
 command = "hugo mod get -u && hugo --baseURL $DEPLOY_PRIME_URL"
 
+[dev]
+targetPort=1313
+framework = "hugo"
