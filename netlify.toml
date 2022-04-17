@@ -2,25 +2,25 @@
 publish = "public"
 functions = "./functions"
 
+[dev]
+targetPort=1313
+framework = "hugo"
+
+[context.production]
+command = "hugo mod get -u && hugo --baseURL $URL --gc"
+
 [context.production.environment]
 HUGO_VERSION = "0.97.0"
 HUGO_ENV = "production"
 GO_VERSION = "1.15"
 NODE_VERSION = "16.13.2"
 
+[context.branch-deploy]
+command = "hugo mod get -u && hugo --baseURL $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.97.0"
 GO_VERSION = "1.15"
-NODE_VERSION = "16.13.2"
-
-[context.production]
-command = "hugo mod get -u && hugo --baseURL $URL --gc"
 
 
-[context.branch-deploy]
-command = "hugo mod get -u && hugo --baseURL $DEPLOY_PRIME_URL"
 
-[dev]
-targetPort=1313
-framework = "hugo"
