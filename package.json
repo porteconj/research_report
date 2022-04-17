@@ -20,7 +20,9 @@
   "postcss-cli": "^8.0.0",
   "postcss-purgecss": "^2.0.3",
   "tailwindcss": "^2.0.2",
-  "turbolinks": "^5.2.0"
+  "turbolinks": "^5.2.0",
+  "dotenv": "^8.2.0",
+  "googleapis": "^51.0.0"
  },
  "devDependencies": {},
  "name": "research_report",
