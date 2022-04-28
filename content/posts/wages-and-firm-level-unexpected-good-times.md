@@ -2,7 +2,6 @@
 author = ""
 categories = ["Labor Market", "Inequality"]
 date = 2022-04-28T04:00:00Z
-draft = true
 subtitle = ""
 title = "Wages and firm-level unexpected good times"
 
