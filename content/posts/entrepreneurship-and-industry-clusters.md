@@ -14,3 +14,5 @@ This paper reconciles these views by arguing that industry clusters can emerge b
 The paper hypothesizes that new firm founders locate their firms in their home regions in order to hire workers they know about through their prior employment since it is easier to find talented employees if you know where to look. It then predicts that spinoffs are more likely to locate in their founder’s home region, hire workers from the founder’s prior employer and other firms in the same region and industry, employ workers for longerperiods, and perform better than other new firms.
 
 The paper tests these predictions using data for the Portuguese economy that follows entrepreneurs, workers and firms over time and space. Results are consistent with the predictions, suggesting that the agglomerationof high-performing spinoffs next to their founders’ previous employers is likely to facilitate the emergence ofsuccessful industrial clusters.
+
+Click here to go to the paper by [Cristina Carias, Steven Klepper, and Rui Baptista](https://link.springer.com/article/10.1007/s11187-022-00618-5).
