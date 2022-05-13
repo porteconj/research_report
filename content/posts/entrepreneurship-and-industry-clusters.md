@@ -2,7 +2,6 @@
 author = ""
 categories = []
 date = 2022-05-12T22:00:00Z
-draft = true
 subtitle = ""
 title = "Entrepreneurship and industry clusters"
 
