@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = []
+categories = ["Small- and Medium-Sized Enterprises", "Labor Market", "Entrepreneurship"]
 date = 2022-05-12T22:00:00Z
 subtitle = ""
 title = "Entrepreneurship and industry clusters"
