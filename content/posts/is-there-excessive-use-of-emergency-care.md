@@ -3,7 +3,7 @@ author = ""
 categories = ["COVID-19", "Health"]
 date = 2022-05-19T17:00:00Z
 subtitle = ""
-title = "Is there excessive use of emergency care?"
+title = "Is there excessive use of emergency care by walk-in patients?"
 
 +++
 The inappropriate use of Emergency Department (ED) service by patients with non-urgent health problems is a worldwide problem, including in Portugal. Nowadays, with the COVID-19 pandemic, the problem is growing and the subject is again on the agenda.
