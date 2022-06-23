@@ -2,7 +2,6 @@
 author = ""
 categories = ["Business Fluctuations", "Corporate Finance", "COVID-19", "Financial Constraints", "Government Policy", "Labor Market", "Productivity"]
 date = 2022-06-22T23:00:00Z
-draft = true
 subtitle = ""
 title = "Loan guarantees and their implications for post-COVID-19 productivity"
 
@@ -14,3 +13,5 @@ The findings suggest that, absent policy support, the COVID-19 shock had the pot
 At the same time, however, large loan guarantee programs do not come without risks for future productivity, as they may favor the build-up of misallocation in the medium-term. The paper shows that, over 2007-2018, increases in large-scale loan guarantee schemes were associated with weaker reallocation of credit and labour from low to high productivity firms. Notably, this risk is consistently lower in intangible-intensive sectors and disappears for smaller scale programmes.
 
 Finally, as pandemic-related support is phased-out, the authors identify two main areas for action to foster the recovery. First, the implementation of dynamism enhancing structural policies that spur firm entry and digital diffusion, while preserving competitive markets, is essential to countervail the potentially negative long run reallocation effects of the hibernation strategy. Second, a set of policy actions to keep under control the risk of debt overhang are also warranted, in particular to ease the repayment and roll-over of pandemic induced debt.
+
+Click here to go to the paper by [Lilas Demmou and Guido Franco](https://www.oecd-ilibrary.org/economics/from-hibernation-to-reallocation-loan-guarantees-and-their-implications-for-post-covid-19-productivity_2f4a4c20-en).
