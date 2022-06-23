@@ -2,9 +2,8 @@
 author = ""
 categories = ["Bankruptcy", "Corporate Finance", "Government Policy"]
 date = 2022-06-22T23:00:00Z
-draft = true
 subtitle = ""
-title = "Giving zombie firms a second chance: An assessment of the reform of the Portuguese insolvency framework"
+title = "Giving zombie firms a second chance"
 
 +++
 The survival of less productive firms hampers the aggregate productivity growth in most developed economies as they consume resources that would be more productive elsewhere. Stimulated by the forbearance of creditors and inefficient insolvency regimes, the zombie phenomenon is generally believed to weaken business dynamism.
@@ -16,3 +15,5 @@ The results show that the probability of remaining as a zombie declined after th
 The new institutional framework seems in particular to have a larger effect on recovery than on the exit transition. Firm size plays a major role in the way zombie incidence is reduced. For larger firms, solving financial distress is a complex matter and as a consequence the zombie status tends to persist. Smaller firms, in turn, having a higher share of secured debt (and less dispersed too), are more easily liquidated.
 
 One of the main conclusions of the work is that not all zombies are unviable firms, and that an adequate institutional framework can increase the transition probability into reorganization and recovery. This approach seems to lead to a more desirable outcome, in comparison with the situation where zombies are forced to exit, thus destroying some valuable and promising projects.
+
+Click here to go to the paper by [Ernesto Nieto-Carrillo, Carlos Carreira, and Paulino Teixeira](https://ideas.repec.org/p/gmf/papers/2022-02.html).
