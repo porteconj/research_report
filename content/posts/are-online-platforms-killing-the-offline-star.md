@@ -2,7 +2,6 @@
 author = ""
 categories = ["Labor Market", "Productivity", "Small- and Medium-Sized Enterprises", "Online Platforms"]
 date = 2022-06-22T23:00:00Z
-draft = true
 subtitle = ""
 title = "Are online platforms killing the offline star?"
 
