@@ -2,7 +2,6 @@
 author = ""
 categories = ["Corporate Finance", "Entrepreneurship", "Financial Constraints"]
 date = 2022-06-22T23:00:00Z
-draft = true
 subtitle = ""
 title = "Cash holdings in start-ups and founder sociodemographic characteristics"
 
