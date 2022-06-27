@@ -2,7 +2,6 @@
 author = ""
 categories = ["Behavioral Finance", "Corporate Governance", "Corporate Social Responsibility", "Inequality"]
 date = 2022-06-26T23:00:00Z
-draft = true
 subtitle = ""
 title = "Narcissistic corporate managers do not share! "
 
