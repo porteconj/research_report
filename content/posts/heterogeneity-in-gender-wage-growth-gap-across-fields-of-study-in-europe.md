@@ -2,7 +2,6 @@
 author = ""
 categories = ["Education", "Inequality", "Labor Market"]
 date = 2022-06-29T23:00:00Z
-draft = true
 subtitle = ""
 title = "Heterogeneity in gender wage growth gap across fields of study in Europe"
 
