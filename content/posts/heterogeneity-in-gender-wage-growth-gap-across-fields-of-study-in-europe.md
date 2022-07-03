@@ -6,7 +6,7 @@ subtitle = ""
 title = "Heterogeneity in gender wage growth gap across fields of study in Europe"
 
 +++
-This research analyzes the early career dynamics of wages of European college graduates using data from the Flexible Professional in the Knowledge Society, a retrospective survey interviewing individuals approximately five years after their graduation in 1999/2000. The sample includes individuals from Austria, Belgium, Finland, France, Germany, Italy, the Netherlands, Spain, UK, Portugal and Norway. The paper documents an average annual wage growth over the five-year period after graduation of 6.5%, with a gender gap of 0.7 percentage points.
+This paper analyzes the early career dynamics of wages of European college graduates using data from the Flexible Professional in the Knowledge Society, a retrospective survey interviewing individuals a few years after their graduation in 1999/2000. The sample includes individuals from Austria, Belgium, Finland, France, Germany, Italy, Netherlands, Spain, UK, Portugal and Norway. The paper documents an average annual raw wage growth over the five-year period after graduation of 6.5%, with a gender gap of 0.7 percentage points.
 
 Portugal presents the lowest average wage growth, 3.3%, and the highest gender gap of 2.2 percentage points.
 
