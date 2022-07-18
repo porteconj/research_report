@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = ["Corporate Finance", "Labor Market", "Productivity", "Small- and Small- and Medium-Sized Enterprises"]
+categories = ["Corporate Finance", "Labor Market", "Productivity", "Small- and Medium-Sized Enterprises"]
 date = 2022-07-18T04:00:00Z
 subtitle = ""
 title = "The struggle of small firms to retain high-skill workers"
@@ -18,4 +18,4 @@ The paper also tests how personnel management practices mediate these effects an
 
 The study shows that small firms struggle to retain skilled workers, limiting their ability to handle knowledge. Even small knowledge-intensive firms with better human resource practices see no unique advantage in retention compared to larger firms or small less knowledge-intensive firms. There is a skill gap between small and large knowledge-intensive firms, which could lead to ever-expanding large firms and dwindling small firms who cannot maintain or grow their ranks of skilled workers necessary for greater innovation, technology adoption and knowledge production. The analysis suggests that policy should promote mechanisms to diminish barriers to knowledge, recognizing that human resources are the main assets of new ventures.
 
-Click here to go to the paper by [Hugo Castro-Silva and Francisco Lima](https://ideas.repec.org/p/inf/wpaper/2021.08.html).
+Click here to go to the paper by [Hugo Castro-Silva and Francisco Lima](https://link.springer.com/article/10.1007/s11187-022-00602-z).
