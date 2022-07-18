@@ -2,7 +2,6 @@
 author = ""
 categories = ["Economic Growth", "Labor Market", "Innovation", "Taxation"]
 date = 2022-07-18T04:00:00Z
-draft = true
 subtitle = ""
 title = "R&D tax credit and firm behavior"
 
