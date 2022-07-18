@@ -2,7 +2,6 @@
 author = ""
 categories = ["Corporate Finance", "Labor Market", "Productivity", "Small- and Small- and Medium-Sized Enterprises"]
 date = 2022-07-18T04:00:00Z
-draft = true
 subtitle = ""
 title = "The struggle of small firms to retain high-skill workers"
 
