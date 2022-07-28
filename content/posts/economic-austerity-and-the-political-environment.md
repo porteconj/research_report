@@ -2,7 +2,6 @@
 author = ""
 categories = ["Business Fluctuations", "Elections", "Government Policy", "Inequality", "Public Finance", "Sovereign debt"]
 date = 2022-07-27T23:00:00Z
-draft = true
 subtitle = ""
 title = "Economic austerity and the political environment"
 
