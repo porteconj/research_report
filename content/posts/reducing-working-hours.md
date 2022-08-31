@@ -2,7 +2,6 @@
 author = ""
 categories = ["COVID-19", "Economic Growth", "Labor Market", "Productivity"]
 date = 2022-08-31T04:00:00Z
-draft = true
 subtitle = ""
 title = "The effects of reducing working hours"
 
