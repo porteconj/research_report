@@ -16,4 +16,4 @@ The new institutional framework seems in particular to have a larger effect on r
 
 One of the main conclusions of the work is that not all zombies are unviable firms, and that an adequate institutional framework can increase the transition probability into reorganization and recovery. This approach seems to lead to a more desirable outcome, in comparison with the situation where zombies are forced to exit, thus destroying some valuable and promising projects.
 
-Click here to go to the paper by [Ernesto Nieto-Carrillo, Carlos Carreira, and Paulino Teixeira](https://ideas.repec.org/p/gmf/papers/2022-02.html).
+Click here to go to the paper by [Ernesto Nieto-Carrillo, Carlos Carreira, and Paulino Teixeira](https://www.sciencedirect.com/science/article/pii/S0313592622001205?via%3Dihub).
