@@ -2,7 +2,6 @@
 author = ""
 categories = ["Government Policy", "Health"]
 date = 2022-09-24T04:00:00Z
-draft = true
 subtitle = ""
 title = "Do subsidized nursing homes and home care teams reduce hospital bed-blocking?"
 
@@ -16,3 +15,5 @@ The paper has three main findings. First, while the entry of both NH and HC team
 Second, reductions in bed-blocking do not harm patients’ health: despite shorter hospital stays, treatment intensity and the probability of a readmission remain unchanged. Third, the beds freed up by reducing bed-blocking do not remain unoccupied: there is an increase in the number of planned admissions following the entry of HC teams.
 
 Hospital care is more expensive than care provided in a NH or by a HC team. Annual savings for the National Health Service were estimated at €849 per bed-blocker. This conservative estimate of the total economic benefit of reducing bed-blocking, ignores for example the potential health benefits of reducing bed-blocking (i.e. prevented mobility losses, improved mental health).
+
+Click here to go to the paper by [Ana Moura](https://www.sciencedirect.com/science/article/pii/S0167629622000595).
