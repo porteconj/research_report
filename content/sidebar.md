@@ -11,7 +11,7 @@ sidebarLinks:
   url: https://research.pej.pt/posts/index.xml
 - title: Join The Network
   url: https://docs.google.com/forms/d/e/1FAIpQLSf_XBpr7klTMwn_OR9aSNWFfmP9m663cqitoLqXwTidfNY9jQ/viewform
-- url: http://pej.pt
+- url: https://pej.iseg.ulisboa.pt/
   title: Journal Website
 logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1585913410/research_report/perr_logo_j8egle.svg
 blogCurators:
