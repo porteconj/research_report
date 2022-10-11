@@ -2,7 +2,6 @@
 author = ""
 categories = ["Bank Credit", "Corporate Finance", "COVID-19", "Financial Constraints", "Government Policy", "Financial Markets"]
 date = 2022-10-11T04:00:00Z
-draft = true
 subtitle = ""
 title = "Government support measures in Portugal during the COVID-19 pandemic"
 
