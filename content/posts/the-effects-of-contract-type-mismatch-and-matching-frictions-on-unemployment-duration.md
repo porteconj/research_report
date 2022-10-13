@@ -14,4 +14,4 @@ The paper introduces a mismatch index that measures the degree of contract-type 
 
 This work indicates that the Portuguese labor market is characterized by substantial contract-type mismatch, akin to matching frictions, and associated with longer average unemployment duration.Improving the desirability of temporary contracts and information about local contract-type mismatch rates may reduce matching frictions and average unemployment duration.
 
-Click here to go to the paper by [António Menezes and Dário Sciulli](https://www.tandfonline.com/doi/full/10.1080/15140326.2022.2084687).
+Click here to go to the paper by [António Menezes and Dario Sciulli](https://www.tandfonline.com/doi/full/10.1080/15140326.2022.2084687).
