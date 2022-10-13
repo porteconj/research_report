@@ -2,7 +2,6 @@
 author = ""
 categories = ["Labor Market"]
 date = 2022-10-12T23:00:00Z
-draft = true
 subtitle = ""
 title = "The effects of contract-type mismatch and matching frictions on unemployment duration"
 
