@@ -2,7 +2,6 @@
 author = ""
 categories = ["Labor Market", "Tourism", "Competition"]
 date = 2022-11-12T00:00:00Z
-draft = true
 subtitle = ""
 title = "Evolution of price-cost margins during the troika intervention"
 
