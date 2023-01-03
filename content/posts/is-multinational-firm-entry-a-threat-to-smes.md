@@ -2,7 +2,6 @@
 author = ""
 categories = ["Competition", "Small- and Medium-Sized Enterprises", "Firm Entry"]
 date = 2023-01-03T00:00:00Z
-draft = true
 subtitle = ""
 title = "Entry of IKEA and small and medium firms' response"
 
