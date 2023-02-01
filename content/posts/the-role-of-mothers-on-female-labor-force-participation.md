@@ -2,7 +2,6 @@
 author = ""
 categories = ["Economic History", "Labor Market"]
 date = 2023-01-31T05:00:00Z
-draft = true
 subtitle = ""
 title = "The role of mothers on female labor force participation"
 
