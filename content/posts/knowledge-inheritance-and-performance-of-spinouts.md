@@ -2,7 +2,6 @@
 author = ""
 categories = ["Economic Growth", "Entrepreneurship", "Innovation", "Small- and Medium-Sized Enterprises"]
 date = 2023-02-02T05:00:00Z
-draft = true
 subtitle = ""
 title = "Knowledge inheritance and performance of spinouts"
 
