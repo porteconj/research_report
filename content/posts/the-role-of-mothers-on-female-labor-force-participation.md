@@ -12,4 +12,4 @@ To explain this unprecedented increase in female labor force participation, econ
 
 The paper finds a large positive effect of 39.7 percentage points of the mother’s labor market participation on the daughter’s probability of participation. This is a sizable effect given that only a small percentage of women participated in the labor market back then. This estimate comprises several mother-to-daughter transmissions: (a) of skills in certain crafts; (b) of firms; and (c) of preferences and beliefs. The paper explores the extent of (a) and (b) by additionally controling for family characteristics. In this extended specification the estimate is still large, 26.7 percentage points. Finally, applying a naive approach that ignores the incomplete nature of the data reduces the estimates of the mother-daughter link by more than half.
 
-Click here to go to the paper by [Jesús M. Carro, Matilde P. Machado, and Ricardo Mora](https://www.dropbox.com/s/1qmgceiydpp2yeg/CMM.pdf?dl=0.).
+Click here to go to the paper by [Jesús M. Carro, Matilde P. Machado, and Ricardo Mora](https://link.springer.com/article/10.1007/s00181-023-02370-5).
