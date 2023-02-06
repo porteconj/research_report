@@ -2,7 +2,6 @@
 author = ""
 categories = []
 date = 2023-02-06T05:00:00Z
-draft = true
 subtitle = ""
 title = "Universities’ entrepreneurial activity and regional competitiveness"
 
