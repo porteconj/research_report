@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = []
+categories = ["Competition", "Education", "Entrepreneurship", "Innovation", "Research and Development"]
 date = 2023-02-06T05:00:00Z
 subtitle = ""
 title = "Universities’ entrepreneurial activity and regional competitiveness"
