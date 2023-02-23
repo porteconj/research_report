@@ -2,7 +2,6 @@
 author = ""
 categories = ["COVID-19", "Government Policy", "Small- and Medium-Sized Enterprises", "Trade"]
 date = 2023-02-22T05:00:00Z
-draft = true
 subtitle = ""
 title = "Firm adaptation to the COVID-19 crisis"
 
