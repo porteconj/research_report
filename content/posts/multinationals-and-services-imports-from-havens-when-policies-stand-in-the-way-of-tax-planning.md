@@ -2,7 +2,6 @@
 author = ""
 categories = ["Multinationals", "Taxation", "Trade", "Public Finance", "Corporate Finance"]
 date = 2023-03-16T04:00:00Z
-draft = true
 subtitle = ""
 title = "Multinationals and services imports from havens: when policies stand in the way of tax planning"
 
