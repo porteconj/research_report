@@ -16,6 +16,10 @@ target = "assets"
 [[module.imports.mounts]]
 source = "layouts"
 target = "layouts"
+
+[[module.imports.mounts]]
+source = "static"
+target = "static"
 [outputFormats.HTML]
 mediaType = "text/html"
 [outputFormats.card]
