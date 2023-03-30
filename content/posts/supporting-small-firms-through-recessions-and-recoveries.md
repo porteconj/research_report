@@ -2,7 +2,6 @@
 author = ""
 categories = ["Small- and Medium-Sized Enterprises", "Financial Constraints", "Bank Credit", "Government Policy"]
 date = 2023-03-30T04:00:00Z
-draft = true
 subtitle = ""
 title = "Supporting small firms through recessions and recoveries"
 
@@ -13,4 +12,6 @@ This paper overcomes such difficulties by using variation in access to the PME L
 
 The design of the program helps deal with the challenges usually faced by researchers. Instead of comparing firms that obtained the PME Líder certification with others (which would have the selection problems already discussed), we compare firms that barely meet the eligibility criteria, with those that were very close to do so. Formally, we estimate the intention-to-treat effects of the program by using a multidimensional regression discontinuity design.
 
-We find that eligible firms borrow more and at lower rates than non-eligible firms, allowing them to increase investment and employment during crises. However, when the economy is recovering the effects of the program are less pronounced. These results show that government support during recessions can successfully help firms to continue to invest, though supporting them through recoveries seems to bring fewer tangible benefits. 
+We find that eligible firms borrow more and at lower rates than non-eligible firms, allowing them to increase investment and employment during crises. However, when the economy is recovering the effects of the program are less pronounced. These results show that government support during recessions can successfully help firms to continue to invest, though supporting them through recoveries seems to bring fewer tangible benefits.
+
+Click here to go to the paper by [Diana Bonfim, Cláudia Custódio, and Clara Raposo](https://www.sciencedirect.com/science/article/pii/S0304405X23000144).
