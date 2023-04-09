@@ -16,11 +16,9 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'curators'
-    label: 'Curators'
-    folder: 'data/curators'
+    label: 'Curator'
+    folder: 'data/curators/rui.yml'
     create: true
-    editor:
-      preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Name', name: 'name', widget: 'string' }
