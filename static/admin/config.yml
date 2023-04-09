@@ -19,10 +19,13 @@ collections:
     label: 'Curators'
     folder: 'data/curators'
     create: true
+    preview: false
     extension: 'yaml'
     format: 'yaml'
     fields:
       - { label: 'Name', name: 'name', widget: 'string' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Bio', name: 'bio', widget: 'text' }
+      - { label: 'Picture', name: 'picture', widget: 'image' }
+      - { label: 'Links', name: 'links', widget: 'list', fields: [{label: 'Link', name: 'link', widget: 'string'}, {label: 'Title', name: 'title', widget: 'string'}] }
 
