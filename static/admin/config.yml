@@ -17,7 +17,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'curators'
     label: 'Curator'
-    folder: 'data/curators/rui.yml'
+    file: 'data/curators/rui.yml'
     create: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
