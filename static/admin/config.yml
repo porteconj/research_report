@@ -12,7 +12,7 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Publish Date', name: 'date', widget: 'date', format: 'YYYY-MM-DD' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'curators'
@@ -27,5 +27,10 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Bio', name: 'bio', widget: 'text' }
       - { label: 'Picture', name: 'picture', widget: 'image' }
-      - { label: 'Links', name: 'links', widget: 'list', fields: [{label: 'Link', name: 'link', widget: 'string'}, {label: 'Title', name: 'title', widget: 'string'}] }
+      - { label: 'Links', name: 'links', widget: 'list', summary: '{{fields.title}}',
+          fields:
+        [
+          {label: 'Link', name: 'link', widget: 'string'},
+          {label: 'Title', name: 'title', widget: 'string'}
+        ]}
 
