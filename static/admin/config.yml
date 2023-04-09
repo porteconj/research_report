@@ -2,12 +2,18 @@ backend:
   name: git-gateway
 media_folder: static/img
 public_folder: /img
+media_library:
+  name: cloudinary
+  config:
+      cloud_name: portuguese-economic-journal
+      api_key: 197739781531424
+
 collections:
   - name: 'blog'
     label: 'Blog'
     folder: 'content/posts'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{title}}'
     editor:
       preview: false
     fields:
