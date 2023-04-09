@@ -18,8 +18,8 @@ collections:
   - name: 'curators'
     label: 'Curators'
     files:
-      - label: {{name}}
-        name: {{name}}
+      - label: '{{name}}'
+        name: '{{name}}'
         file: 'data/curators/{{name}}.yaml'
         fields:
           - { label: 'Name', name: 'name', widget: 'string' }
