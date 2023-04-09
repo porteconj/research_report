@@ -17,13 +17,12 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'curators'
     label: 'Curators'
-    files:
-      - label: '{{name}}'
-        name: '{{name}}'
-        file: 'data/curators/{{name}}.yaml'
-        fields:
-          - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Bio', name: 'bio', widget: 'string' }
-          - { label: 'Picture', name: 'picture', widget: 'image' }
-          - { label: 'Links', name: 'links', widget: 'list', fields: [{label: 'Title', name: 'title', widget: 'string'}, {label: 'Link', name: 'link', widget: 'string'}] }
+    folder: 'data/curators'
+    create: true
+    extension: 'yaml'
+    format: 'yaml'
+    fields:
+      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Bio', name: 'bio', widget: 'text' }
+
