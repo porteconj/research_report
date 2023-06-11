@@ -35,5 +35,5 @@ lower expected profitability in the short term but bring the benefit of reducing
 in profitability in the medium term.
 
 
-Click here to go to the paper by [Ana Pereira and Joana Passinhas](<https://www.bportugal.pt/en/paper/macroprudential-look-risk-return-framework-
-banks-profitability>).
+Click here to go to the paper by [Ana Pereira and Joana Passinhas](https://www.bportugal.pt/en/paper/macroprudential-look-risk-return-framework-
+banks-profitability).
