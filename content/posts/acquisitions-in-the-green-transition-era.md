@@ -35,5 +35,4 @@ Agreement, green acquisitions do not show any significant impact on their post-a
 innovation performances, raising concerns related to greenwashing behavior by investing
 firms.
 Click here to go to the paper by [Udichibarna Bose, Wildmer Daniel Gregori, and Maria
-Martinez Cillero](<https://www.bportugal.pt/paper/does-green-transition-promote-green-innovation-
-and-technological-acquisitions>).
+Martinez Cillero](<https://www.bportugal.pt/paper/does-green-transition-promote-green-innovation-and-technological-acquisitions>).
