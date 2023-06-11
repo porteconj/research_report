@@ -9,7 +9,6 @@ This paper investigates how cyclical systemic risk affects the risk-return relat
 profitability in Portugal at different horizons, which is key for bank solvency and financial
 stability.
 
-
 Macroprudential policy became prominent after the 2008 Global Financial Crisis. This new
 policy area may tighten bank capital requirements such that banks stay resilient against
 systemic risk, i.e. any risk that threatens financial stability and could spill over to the economy.
