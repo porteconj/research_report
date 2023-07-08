@@ -14,7 +14,7 @@ Specifically, the paper exploits the discontinuities in the number of Aldermen a
 
 The regression discontinuity results point to an increase between 3% and 4% in the first threshold (10.000 voters, left panel of figure), and an increase of about 2% in the second threshold (50.000 voters, right panel of figure). These findings are further confirmed with other statistical methods.
 
-![](/v1634657846/research_report/Screen_Shot_2021-10-19_at_11.37.00_AM_lz0cuv.png "Change in voter turnout in municipal elections in relation to eligible voter population.")
+![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1634657846/research_report/Screen_Shot_2021-10-19_at_11.37.00_AM_lz0cuv.png "Change in voter turnout in municipal elections in relation to eligible voter population.")
 
 The results reveal the importance of the number of elected seats in determining turnout. This effect is, on average, translated into an increase of 190 to 250 votes in the first threshold, and of 580 in the second one.
 

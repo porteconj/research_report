@@ -10,7 +10,7 @@ Governments around the world devote substantial resources to support small and m
 
 This paper tests whether informational frictions prevent firms from accessing government support measures. The paper considers the impact of providing detailed information on two COVID-19 assistance measures—a layoff support program and a guaranteed credit line scheme—on firm take-up using a sample of over 170,000 Portuguese firms (see figure). The exercise randomly assigned firms to an information treatment providing either simplified information regarding one of the assistance measures (including a short program description, eligibility criteria, and a link to official government resources), or a combination of information and step-by-step application support.
 
-![](/v1625236156/research_report/Screen_Shot_2021-07-02_at_3.28.49_PM_cgowfl.png)
+![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1625236156/research_report/Screen_Shot_2021-07-02_at_3.28.49_PM_cgowfl.png)
 
 Figure: Simplified information on a layoff assistance program offered to a random sample of firms.
 

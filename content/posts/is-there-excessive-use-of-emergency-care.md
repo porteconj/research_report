@@ -12,7 +12,7 @@ Every patient admitted to the ED is submitted to a risk stratification (RS) asse
 
 Most studies focus on the supply side, identifying greens and blues according to MTS as inappropriate. This paper considers in addition that demand for health care services results from an individual choice process. Thus, not only referred patients (either from primary care or SNS 24 helpline) should not be viewed as inappropriate, but also that the proportion of greens and blues should be significantly higher for patients who freely decide to go to the ED.
 
-![](/v1653058157/research_report/Screen_Shot_2022-05-20_at_9.47.12_PM_qsdimr.png "Crosstabulation for Manchester Triage System and Admission Type.")
+![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1653058157/research_report/Screen_Shot_2022-05-20_at_9.47.12_PM_qsdimr.png "Crosstabulation for Manchester Triage System and Admission Type.")
 
 The paper reports data that show that things aren’t as expected (see figure). The proportion of greens and blues in walk-in admissions (patients showed up by their own decision at the ED) is 36,5% (32,4% plus 4,1% in the figure). In contrast, the proportion of greens and blues in people who went to the hospital emergency after having gone to primary care is 30,7% (26,8% plus 3,9% in the figure), and the proportion of greens and blues that were admitted to hospital ED after SNS24 helpline indication were 23,3% (22,3% plus 1% in the figure). That is, even in cases where there were prior contact with the National Health Service, the proportions of non-urgent cases (blues and greens) are high.
 

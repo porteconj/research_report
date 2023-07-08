@@ -13,7 +13,7 @@ The paper uses novel and comprehensive data on electronic payments from SIBS, th
 
 **Figure 1: The Impact of the Great Lockdown on YoY growth rate of overall purchases, groceries, and leisure and tourism**
 
-![](/v1592925337/research_report/Screen_Shot_2020-06-23_at_4.15.09_PM_is4pig.png)
+![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1592925337/research_report/Screen_Shot_2020-06-23_at_4.15.09_PM_is4pig.png)
 
 Purchases of essential goods such as supermarkets and groceries increase mildly (Figure 1), contrasting with severe contractions in sectors that were closed by government order or depend heavily on tourism, including the leisure industry and restaurants.
 
@@ -21,7 +21,7 @@ The paper finds suggestive evidence of initial stockpiling of essential through 
 
 **Figure 2: The Impact of the Great Lockdown on YoY growth rate of pharmacies, health care service purchases, and technology and entertainment**
 
-![](/v1592925363/research_report/Screen_Shot_2020-06-23_at_4.15.19_PM_xc3lw2.png)
+![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1592925363/research_report/Screen_Shot_2020-06-23_at_4.15.19_PM_xc3lw2.png)
 
 It is also interesting to note the rapid recovery of purchases in technology and entertainment in April, after an initial drop in March, possibly to adapt to the confinement. Moreover, buyers adjust their shopping strategies in rational ways to minimize public health risks: they go less often to supermarkets and buy more each time, and visit local groceries more.
 

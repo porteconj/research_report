@@ -14,7 +14,7 @@ Serial entrepreneurship occurs across the economy and is not an obscure feature 
 
 The paper documents a “serial entrepreneur premium” – the average difference in a particular characteristic (e.g. growth or size) between SE and R firms – is present throughout firms’ life-cycles. Figure 1 provides a glimpse at some of these differences – firm size and firm exit. The figure shows the superior performance of SE firms, over their entire life-cycles by living longer and growing faster.
 
-![](/v1636398048/research_report/Screen_Shot_2021-11-08_at_2.00.13_PM_grcaz7.png "Firm size and exit rates by age: serial entrepreneur versus regular firms")
+![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1636398048/research_report/Screen_Shot_2021-11-08_at_2.00.13_PM_grcaz7.png "Firm size and exit rates by age: serial entrepreneur versus regular firms")
 
 What lies behind the superior performance of serial entrepreneur firms? The results point to (selection on) ex-ante heterogeneity as a key source of success of serial entrepreneurs, rather than learning or favorable ex-post shocks. Using observable characteristics of business owners, the authors show that age and especially education can account for over 20 percent of the estimated premia.
 

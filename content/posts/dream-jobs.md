@@ -12,7 +12,7 @@ The positive effect that a ‘good’ job has on lifetime wage income may be due
 
 This paper uses 16 years of data on Portuguese firms, workers, and international trade. Internationally active firms experience higher sales growth relative to domestic firms and can thus provide for better experience and opportunities for managers. Internationally active firms also provide for steeper wage growth for managers (see the figure).
 
-![](/v1613169369/research_report/Screen_Shot_2021-02-12_at_5.35.25_PM_susokh.png)
+![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1613169369/research_report/Screen_Shot_2021-02-12_at_5.35.25_PM_susokh.png)
 
 Figure: Experience-wage profiles for managers and blue-collar workers in domestic vs. internationally active firms.
 

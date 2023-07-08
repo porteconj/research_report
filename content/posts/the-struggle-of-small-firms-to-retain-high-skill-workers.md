@@ -14,7 +14,7 @@ The paper finds that skilled (both in terms of education and firm-specific skill
 
 The paper also tests how personnel management practices mediate these effects and finds that even small knowledge firms paying higher wages find it hard to keep workers (see figure). The figure shows that firms in the 4th quartile systematically pay above-market wages even after controlling for observable worker and firm characteristics.
 
-![](/v1658171868/research_report/Screen_Shot_2022-07-18_at_3.17.27_PM_uzftpt.png "Effect of human resource management practices on the probability of job separation.")
+![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1658171868/research_report/Screen_Shot_2022-07-18_at_3.17.27_PM_uzftpt.png "Effect of human resource management practices on the probability of job separation.")
 
 The study shows that small firms struggle to retain skilled workers, limiting their ability to handle knowledge. Even small knowledge-intensive firms with better human resource practices see no unique advantage in retention compared to larger firms or small less knowledge-intensive firms. There is a skill gap between small and large knowledge-intensive firms, which could lead to ever-expanding large firms and dwindling small firms who cannot maintain or grow their ranks of skilled workers necessary for greater innovation, technology adoption and knowledge production. The analysis suggests that policy should promote mechanisms to diminish barriers to knowledge, recognizing that human resources are the main assets of new ventures.
 
