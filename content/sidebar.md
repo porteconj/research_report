@@ -13,7 +13,7 @@ sidebarLinks:
   url: https://docs.google.com/forms/d/e/1FAIpQLSf_XBpr7klTMwn_OR9aSNWFfmP9m663cqitoLqXwTidfNY9jQ/viewform
 - url: https://pej.iseg.ulisboa.pt/
   title: Journal Website
-logo: https://res.cloudinary.com/portuguese-economic-journal/image/uploadhttps://res.cloudinary.com/portuguese-economic-journal/image/upload/v1585913410/research_report/perr_logo_j8egle.svg
+logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1585913410/research_report/perr_logo_j8egle.svg
 blogCurators:
 - name: Rui Albuquerque
   title: Principal curator
