@@ -16,7 +16,6 @@ collections:
     slug: '{{title}}'
     editor:
       preview: false
-    summary: '{{commit_date}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'date', format: 'YYYY-MM-DD' }
