@@ -18,7 +18,7 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'date', format: 'YYYY-MM-DD' }
+      - { label: 'Publish Date', name: 'date', widget: 'date', date_format: 'YYYY-MM-DD' }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', modes: ['rich_text'] }
   - name: 'curators'
