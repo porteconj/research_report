@@ -1,4 +1,4 @@
 ---
 title: "Index File, do not delete"
-hideInCMS: true
+date: 2015-12-31
 ---
