@@ -3,15 +3,16 @@ publish = "public"
 functions = "./functions"
 
 [context.production.environment]
-HUGO_VERSION = "0.97.0"
+HUGO_VERSION = "0.112.3"
 HUGO_ENV = "production"
-GO_VERSION = "1.15"
+GO_VERSION = "1.20.2"
 NODE_VERSION = "16.13.2"
 
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.97.0"
-GO_VERSION = "1.15"
+HUGO_VERSION = "0.112.3"
+HUGO_ENV = "production"
+GO_VERSION = "1.20.2"
 NODE_VERSION = "16.13.2"
 
 [context.production]
@@ -21,6 +22,15 @@ command = "hugo mod get -u && hugo --baseURL $URL --gc"
 [context.branch-deploy]
 command = "hugo mod get -u && hugo --baseURL $DEPLOY_PRIME_URL"
 
+[context.dev]
+HUGO_MODULE_WORKSPACE="hugo.work"
+HUGO_VERSION = "0.112.3"
+
 [dev]
-targetPort=1313
+command = "hugo server"
 framework = "hugo"
+targetPort = 1313
+
+[[edge_functions]]
+function = "og"
+path = "/og"
