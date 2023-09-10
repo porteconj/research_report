@@ -16,7 +16,7 @@ collections:
     slug: '{{title}}'
     editor:
       preview: false
-    sortable_fields: ['date', 'title']
+    sortable_fields: ['title']
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'date', date_format: 'YYYY-MM-DD' }
