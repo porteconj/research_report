@@ -1,5 +1,5 @@
 ---
-title: The distribution of firm growth, and business cycles
+title: The distribution of firm growth and business cycles
 date: 2023-10-04T19:35:10.670Z
 ---
 In any given economy, the majority of firms are small while only a handful of firms are relatively large. However, overall aggregate cyclicality is heavily dependent on the behavior of these few, large firms. Specifically, the behavior of large firms plays a fundamental role in the amplification of shocks.
