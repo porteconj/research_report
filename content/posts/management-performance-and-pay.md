@@ -8,8 +8,6 @@ In this paper we combine several different Portuguese datasets, including a larg
 
 In our main analysis we explore the relationship between management practices and different measures of wages and wage inequality. We find that the use of more structured management practices is positively related with average pay and within-firm pay inequality, and that these relationships are almost entirely driven by management practices related to incentives. The positive relationship between management practices and average pay applies to all parts of the wage distribution and for all occupational skill groups, but the relationship is much stronger towards the top of the wage distribution and for workers in high-skilled occupations. 
 
-We also identify the presence of works councils as a mediating factor in the relationship between management practices and worker pay. In firms with worker respresentation through works councils, the productivity gains of structured management practices are to a larger extent transmitted to workers in the form of higher average wages, but in a less unequal way across the workforce.
-
-
+We also identify the presence of work councils as a mediating factor in the relationship between management practices and worker pay. In firms with worker respresentation through work councils, the productivity gains of structured management practices are to a larger extent transmitted to workers in the form of higher average wages, but in a less unequal way across the workforce.
 
 [Click here to go to the paper by Natalia P. Monteiro and OddRune Straume](https://ideas.repec.org/p/nip/nipewp/05-2023.html).
