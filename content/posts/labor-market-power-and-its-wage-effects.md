@@ -8,7 +8,7 @@ Are employers able to profit from labor market concentration to lower wages and 
 
 This paper measures labor market concentration and its effects on wages in Portugal. It defines local labor markets based on district-by-occupation pairs (for example, construction workers in Leiria). The authors compute the share of new hires for each employer in that local labor market in each year (over the 1986-2019 period), which is then used to calculate a concentration (Herfindahl) index.
 
-![](https://ucarecdn.com/949d4570-47f6-4a38-8c61-a74c95401f70/ "Concentration indices for over workers (HHI Workers) and for newly hired employees (HHI New Hire) over the past 30 years.")
+![](https://ucarecdn.com/949d4570-47f6-4a38-8c61-a74c95401f70/ "Concentration indices for workers (HHI Workers) and for newly hired employees (HHI New Hire) over the past 30 years.")
 
 First, the paper finds stable levels of concentration over the past 30 years (see the figure). Moreover, most workers (92.5%) are exposed to levels of concentration *below* the threshold that is thought to raise product market power concerns. This may follow from the large number of small firms in Portugal, which increases the number of alternative opportunities for workers.
 
