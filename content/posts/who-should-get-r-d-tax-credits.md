@@ -1,5 +1,6 @@
 ---
-title: Who should get R&D tax credits?
+title: The effects of R&D tax credits (SIFIDE scheme) on small and large firms
+  in Portugal
 date: 2024-02-27T15:54:24.222Z
 categories:
   - Productivity
