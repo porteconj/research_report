@@ -7,6 +7,8 @@ categories:
 ---
 In recent decades, discussions about mounting wage inequality have become central among economists and policymakers, with the potential role of minimum wage policies to address it gaining increased attention. In Portugal, a fascinating case emerges, offering insights into how minimum wage adjustments can significantly impact the wage distribution.
 
+![](https://ucarecdn.com/050557a1-edca-4eee-9000-6dd8fe092158/ "Wage growth across the distribution between 2006 and 2019, together with the counterfactual wage growth had the minimum wage had not increased since 2006. The shaded area represents the part of wage growth that can be attributed to the rising minimum wage.")
+
 This paper studies the evolution of the minimum wage in Portugal over the last thirty years, and how it has shaped the wage distribution. Drawing upon rich matched employer-employee data covering the population of Portuguese employees from 1986 to 2019, the study estimates counterfactual wage distributions under different minimum wage assumptions.
 
 After years of diminishing importance, the minimum wage began to rise steadily starting 2006. This rise coincided with a notable reduction in wage inequality. For comparison, the magnitude of reduction in wage inequality in Portugal mirrors the increase in wage inequality in the United States that has occurred there since the 1970s. The core finding of this investigation is the profound effect that the rising minimum wage has had on compressing the wage distribution and reducing inequality.
