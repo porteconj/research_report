@@ -1,5 +1,5 @@
 ---
-title: "Credit Access and Market Access: the SME-Leader program "
+title: "Credit access and market access: the SME-Leader program "
 date: 2024-06-25T11:47:30.271Z
 categories:
   - Productivity
