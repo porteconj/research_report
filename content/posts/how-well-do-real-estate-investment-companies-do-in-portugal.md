@@ -4,6 +4,7 @@ date: 2024-08-29T13:31:03.530Z
 categories:
   - Real Estate
   - Urban Economics
+  - Taxation
 ---
 Increased housing affordability problems are well-known in the European Union (EU) and Portugal. According to a study by the International Monetary Fund, Portugal ranks ninth in house price increases in 2020 and third in price-to-income (an indicator of housing unaffordability). Within the EU, Portugal ranks second in house price increases (adjusted for inflation) from 2016 to 2020.
 
