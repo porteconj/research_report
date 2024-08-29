@@ -14,3 +14,5 @@ There is a gap in the research regarding non-listed real estate investment compa
 We analyzed 37,761 companies' ROEs from 2012 to 2021, finding that an increase in house prices does not translate into an increase in the aggregate ROE. The results are robust to a reduced survivorship-biased sample, meaning that even the most successful real estate investment companies do not depend on house price growth for their accounting ROE.
 
 Policy decision-makers should know that the real estate investment industry does not generate excess profits due to house price growth that could be subject to windfall taxes.
+
+[Click here to go to the paper by António Manuel Cunha, Ana Pinto Borges, and Miguel Ferreira.](https://www.emerald.com/insight/content/doi/10.1108/IJHMA-01-2023-0007/full/html)
