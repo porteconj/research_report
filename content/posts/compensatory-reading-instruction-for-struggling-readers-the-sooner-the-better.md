@@ -7,9 +7,9 @@ categories:
 ---
 Learning to read represents a major cognitive achievement for individuals and an amazing evolutionary step for humanity. However, some individuals show significant and persistent problems with reading, placing them at a disadvantage throughout life. This paper analyzes the results of a yearly intensive reading intervention program for 182 second-grade struggling readers. 
 
-Reducing the gap between struggling readers and their classroom peers is a daunting but crucial societal challenge. Connie Juel (1988) has long shown that students who begin the 1st grade with reading difficulties do not reach, by the end of the 4th grade, even the decoding level of good readers starting the 2nd grade. Worse still, past evidence also shows that the gap between good and poor readers widens over time. Heckman (2006) (Nobel Prize in Economics in 2000) showed that the return on investment in education during early childhood is immeasurably higher than that achieved during adolescence or adulthood (“Heckman Curve.” See Figure). 
-
 ![](https://ucarecdn.com/943f75e1-12b6-4556-9409-dd93d780de11/ "Heckman curve.")
+
+Reducing the gap between struggling readers and their classroom peers is a daunting but crucial societal challenge. Connie Juel (1988) has long shown that students who begin the 1st grade with reading difficulties do not reach, by the end of the 4th grade, even the decoding level of good readers starting the 2nd grade. Worse still, past evidence also shows that the gap between good and poor readers widens over time. Heckman (2006) (Nobel Prize in Economics in 2000) showed that the return on investment in education during early childhood is immeasurably higher than that achieved during adolescence or adulthood (“Heckman Curve.” See Figure). 
 
 While Juel and Heckman’s findings show that early intervention is invaluable, other studies stress that (1) the structure of intervention programs, (2) the instructional delivery, and (3) the program intensity are also critical features for successful interventions.
 
