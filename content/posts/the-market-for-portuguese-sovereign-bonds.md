@@ -17,11 +17,15 @@ The data is used to construct the demand curve for each auction and from it to o
 
  The paper offers several findings: 
 
-* The auction cut-off point appears to be systematically chosen by the IGCP at an inflection point of the demand curve (see Figure). 
-* The average absolute value of the elasticity of demand calculated with unsubscribed bids is 332 (the marginal elasticity in the Figure). According to this estimate, an increase in quantity supplied at an auction by roughly 3% is accommodated with only a one basis point drop in the price on average, an indication of a fairly liquid market.
-* In the cross-section of all the auctions, the marginal elasticity has a strong negative correlation with the pre-auction volatility of the secondary market returns of the bond being auctioned. This negative correlation suggests that the two variables may be proxying for dealer risk-bearing capacity.
-* The Portuguese government secondary Treasury bond market displays a V-shaped price pattern around T-bond auctions. On average, the secondary-market price of the bond being issued drops by nine basis points in the three trading days prior to an auction and subsequently increases by six basis points, relative to a benchmark representing the performance of all Portuguese government bonds. These effects exist only when the marginal elasticity of demand is low, as predicted. 
-* In predictive bond return regressions, the marginal elasticity has a negative coefficient at every investment horizon and is statistically significant at all horizons up to 10 days, except for the two-day horizon.
+\-- The auction cut-off point appears to be systematically chosen by the IGCP at an inflection point of the demand curve (see Figure). 
+
+\-- The average absolute value of the elasticity of demand calculated with unsubscribed bids is 332 (the marginal elasticity in the Figure). According to this estimate, an increase in quantity supplied at an auction by roughly 3% is accommodated with only a one basis point drop in the price on average, an indication of a fairly liquid market.
+
+\-- In the cross-section of all the auctions, the marginal elasticity has a strong negative correlation with the pre-auction volatility of the secondary market returns of the bond being auctioned. This negative correlation suggests that the two variables may be proxying for dealer risk-bearing capacity.
+
+\-- The Portuguese government secondary Treasury bond market displays a V-shaped price pattern around T-bond auctions. On average, the secondary-market price of the bond being issued drops by nine basis points in the three trading days prior to an auction and subsequently increases by six basis points, relative to a benchmark representing the performance of all Portuguese government bonds. These effects exist only when the marginal elasticity of demand is low, as predicted. 
+
+\-- In predictive bond return regressions, the marginal elasticity has a negative coefficient at every investment horizon and is statistically significant at all horizons up to 10 days, except for the two-day horizon.
 
 The paper thus offers evidence that primary dealers’ risk bearing capacity impacts the Treasury’s ability to place bonds and the liquidity in the secondary market. Also, since primary dealers were a point of fragility during the U.S. financial sector crisis of 2007-2009, the paper suggests that looking at sovereign debt auctions may be a place to detect fragilities in the financial sector.
 
