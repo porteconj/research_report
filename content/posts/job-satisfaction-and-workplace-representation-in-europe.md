@@ -1,5 +1,5 @@
 ---
-title: Job satisfaction and workplace representation in Europe
+title: Job (dis)satisfaction and workplace representation in Europe
 date: 2024-11-11T17:36:33.929Z
 categories:
   - Labor Market
