@@ -14,4 +14,4 @@ Results show that contract splitting is the main mechanism of manipulation. The 
 
 The paper highlights the consequences of contract splitting. It shows that splitting can bias existing statistical methods used to quantify manipulation, leading to an underestimation of its true extent. The results suggest favoritism as the main driver of discretion-seeking manipulation; manipulation tends to favor politically connected and local companies, and municipalities with lower transparency manipulate more. These contracts usually have longer durations without generating cost savings. The paper finds no evidence supporting efficiency-promoting motivations. The results emphasize the importance of oversight and transparency over complex regulatory frameworks to ensure fair and effective use of public resources.
 
-Click here to go to the paper by Filipe B. Caires, Susana Peralta, and Diogo Mendes[](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419)
+[Click here to go to the paper by Filipe B. Caires, Susana Peralta, and Diogo Mendes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419)
