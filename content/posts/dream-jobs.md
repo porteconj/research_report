@@ -6,13 +6,14 @@ subtitle = ""
 title = "Dream jobs"
 
 +++
+
 What makes some jobs better than others?
 
 The positive effect that a ‘good’ job has on lifetime wage income may be due to a wage jump upon taking the job (i.e., a static effect) or to a faster wage growth after taking the job (i.e., a dynamic effect), and may depend on whether the benefits are portable to another job, as well as on the quality of the match between occupation worker’s skill and ability.
 
 This paper uses 16 years of data on Portuguese firms, workers, and international trade. Internationally active firms experience higher sales growth relative to domestic firms and can thus provide for better experience and opportunities for managers. Internationally active firms also provide for steeper wage growth for managers (see the figure).
 
-![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1613169369/research_report/Screen_Shot_2021-02-12_at_5.35.25_PM_susokh.png)
+![](https://ucarecdn.com/7b3c8006-770d-47c4-a775-9567a8172025/)
 
 Figure: Experience-wage profiles for managers and blue-collar workers in domestic vs. internationally active firms.
 

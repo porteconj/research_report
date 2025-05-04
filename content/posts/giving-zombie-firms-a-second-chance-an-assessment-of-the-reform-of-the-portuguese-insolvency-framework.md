@@ -6,9 +6,10 @@ subtitle = ""
 title = "Giving zombie firms a second chance"
 
 +++
+
 The survival of less productive firms hampers the aggregate productivity growth in most developed economies as they consume resources that would be more productive elsewhere. Stimulated by the forbearance of creditors and inefficient insolvency regimes, the zombie phenomenon is generally believed to weaken business dynamism.
 
-The paper analyses how the 2012 institutional reforms related to insolvency and prudential supervision of credit institutions, introduced by the Portuguese and European Authorities, have reduced the share of zombie firms in the economy, and how they have impacted the growth of aggregate productivity. Portugal is one of the OECD countries most affected by the zombie phenomenon. At the same time, the country has been particularly active in the adoption of the best international practices related to bankruptcy legislation.![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1656016222/research_report/Screen_Shot_2022-06-23_at_9.30.00_PM_evxmua.png "Survival function of zombies before and after the reforms")
+The paper analyses how the 2012 institutional reforms related to insolvency and prudential supervision of credit institutions, introduced by the Portuguese and European Authorities, have reduced the share of zombie firms in the economy, and how they have impacted the growth of aggregate productivity. Portugal is one of the OECD countries most affected by the zombie phenomenon. At the same time, the country has been particularly active in the adoption of the best international practices related to bankruptcy legislation.![](https://ucarecdn.com/1ddb2ef8-6827-4e5c-b098-8139c29ebc84/ "Survival function of zombies before and after the reforms")
 
 The results show that the probability of remaining as a zombie declined after the introduction of the 2012 reforms (see figure), an indication of the success of the reforms.
 

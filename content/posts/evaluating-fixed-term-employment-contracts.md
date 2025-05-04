@@ -6,6 +6,7 @@ subtitle = ""
 title = "Evaluating fixed-term employment contracts"
 
 +++
+
 In February 2009, Portugal sought to promote the use of open-ended employment contracts by reducing the range of circumstances under which fixed-term contracts (FTCs henceforth) could be used by large firms. Before this date, new establishments were free to hire under FTCs. After February 2009, such flexibility applied only in the case of firms with fewer than 750 employees. Large firms could still hire under FTCs in new establishments in specific cases.
 
 This reform reversed the trend of previous policies that promoted fixed-term contracts while leaving open-ended contracts largely unchanged, namely in dismissals. The previous trend may have contributed towards segmented or two-tiered labor markets. In these cases, workers can experience significant churning across multiple FTCs, leading to higher unemployment. Hence, restricting fixed-term contracts might be desirable.
@@ -18,6 +19,6 @@ We also find evidence of spillovers to smaller firms, which were not directly ta
 
 Overall, the results indicate that flexibility at the margin, allowing firms to hire temporary workers, significantly improves labor market efficiency in our context.
 
-![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1643048716/research_report/Screen_Shot_2022-01-24_at_1.24.24_PM_zlvzjf.png "The figure depicts outcomes for companies directly affected by the FTC policy (those with 750 plus employees) and others (those below 750 employees). (Data: Quadros do Pessoal and authors' calculations.)")
+![](https://ucarecdn.com/913c3882-f4cc-49f5-b5cc-76ca5fba61dd/ "The figure depicts outcomes for companies directly affected by the FTC policy (those with 750 plus employees) and others (those below 750 employees). (Data: Quadros do Pessoal and authors' calculations.)")
 
 Click here to go to the paper by [Pierre Cahuc, Pauline Carry, Franck Malherbet, Pedro Martins](https://econpapers.repec.org/paper/izaizadps/dp14999.htm).

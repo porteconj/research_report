@@ -6,11 +6,12 @@ subtitle = ""
 title = "Leaving school too early?"
 
 +++
+
 Reducing early school leaving, defined as leaving education with at most lower secondary schooling, is generally considered to be one of the top priorities of educational policy due to its significant social and economic costs. Increasing the Compulsory Schooling Law (CSL) leaving age is a policy that has typically been used to address this concern. The effects of the policy on students' educational outcomes are still unclear, with the literature identifying mixed effects both on graduation probabilities and school track choices.
 
 This paper studies the effects of the increase in the CSL leaving age from 15 to 18 years old, or upon finishing upper-secondary schooling, that happened in Portugal in 2009.
 
-![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1630349348/research_report/Compliance_Grad_event_study_cyjhkh.jpg "Results are estimated both by comparing student cohorts that were affected by the new CSL with cohorts that were not affected; and by comparing students first affected by the reform just because they were marginally promoted to the next grade, with those who were not affected by it just because they were marginally retained in that grade, an analysis that aims at separating the effects of the reform from contemporaneous effects on all students.")
+![](https://ucarecdn.com/1d4ac946-f091-442d-8b05-ff9a871f0206/ "Results are estimated both by comparing student cohorts that were affected by the new CSL with cohorts that were not affected; and by comparing students first affected by the reform just because they were marginally promoted to the next grade, with those who were not affected by it just because they were marginally retained in that grade, an analysis that aims at separating the effects of the reform from contemporaneous effects on all students.")
 
 As a result of this policy, are students simply spending a longer time in school without necessarily finishing their education with a high-school diploma, or is it instead, that their probability of graduation is substantially and positively affected? Moreover, do students’ choices of upper-secondary school track, namely the choice between the Academic versus the Vocational tracks, also changed after the reform?
 

@@ -6,9 +6,10 @@ subtitle = ""
 title = "Bank pricing of corporate loans, short versus long maturities"
 
 +++
+
 From the sovereign debt crisis to the end of 2019, bank credit to Portuguese firms fell, spreads on new loans decreased and banks reported an increase in competition. The combination of these dynamics raises concerns that banks were underpricing loans. In a bid to remain competitive, banks may have offered loan spreads below the level needed to compensate banks’ equity holders for bearing risk.
 
-![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1624710884/research_report/Screen_Shot_2021-06-26_at_1.33.16_PM_fesvdz.png)
+![](https://ucarecdn.com/3954132f-d5bf-4b7f-a423-4c3bd0bde916/)
 
 This paper studies whether the spreads on new corporate loans are sufficient to cover loans’ expected credit losses, operating costs and capital costs. The analysis covers bank loans originated between September 2018 and December 2019 by the largest banks operating in Portugal.
 

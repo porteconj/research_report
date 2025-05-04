@@ -6,7 +6,10 @@ subtitle = ""
 title = "Recovery and exit of zombie firms in Portugal"
 
 +++
-![](https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1620397377/research_report/Graph_Share_of_Zombies_qfqe1z.tiff)This paper estimates that a 1% decline in the share of highly indebted and unprofitable mature firms (i.e. zombies) increases the average labor productivity by 3.1 percent.
+
+![](https://ucarecdn.com/0164238a-b81f-47a8-91de-69a0c7ba8ef2/)
+
+This paper estimates that a 1% decline in the share of highly indebted and unprofitable mature firms (i.e. zombies) increases the average labor productivity by 3.1 percent.
 
 In well-functioning markets, competition is expected to force zombie firms to restructure or exit. However, in many instances, these firms have a tendency to remain zombies. Aggregate productivity is therefore impaired by reduced allocative efficiency and negative externalities on investment and entrepreneurship.
 
