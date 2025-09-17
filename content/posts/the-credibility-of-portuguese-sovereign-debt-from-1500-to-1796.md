@@ -1,5 +1,5 @@
 ---
-title: The credibility of Portuguese sovereign debt from 1500 to 1796
+title: The Portuguese sovereign debt from 1500 to 1796
 date: 2025-09-17T09:05:23.146Z
 categories:
   - Sovereign Debt
