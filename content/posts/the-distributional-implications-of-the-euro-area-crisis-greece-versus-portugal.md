@@ -13,4 +13,4 @@ The sovereign debt crisis underscored how a weak unemployment benefits system in
 
 The findings suggest that stable income from pensions and social transfers played a critical role for the most vulnerable households during the Eurozone crisis. Building effective, sustainable safety nets in stable times prevents harmful ad hoc tweaks during budgetary stabilization. Targeted reforms can help alleviate pressures on the poor. Research relying on microeconomic analyses using detailed household-level data can support the identification of at-risk groups and the design of targeted social policies that effectively mitigate adverse outcomes during economic adjustment.
 
-Click here to go to the paper by [Misina Cato, Olga Francova, and Valentin Lang.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.esm.europa.eu/system/files/document/2025-01/ESM%20WP%2067.pdf)
+Click here to go to the paper by [Misina Cato, Olga Francova, and Valentin Lang.](https://www.esm.europa.eu/publications/distributional-implications-euro-area-crisis-evidence-macroeconomic-adjustment-greece)
