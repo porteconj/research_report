@@ -8,7 +8,7 @@ categories:
 ---
 Several advanced economies have experienced a rise in political fragmentation over the last decades (see figure). Simultaneously, governments face major challenges, like the climate transition and geopolitical tensions, that increasingly require active fiscal policy.
 
-![The authors calculate fragmentation as the number of hypothetical parties of equal size that would have the same total effect on the fragmentation of parliament as the actual parties of unequal size.](https://ucarecdn.com/28b11ad5-27e7-4769-a97f-17b00a73eb9d/)
+![](https://ucarecdn.com/28b11ad5-27e7-4769-a97f-17b00a73eb9d/ "The authors calculate fragmentation as the number of hypothetical parties of equal size that would have the same total effect on the fragmentation of parliament as the actual parties of unequal size.")
 
 While economists have long studied how economic conditions shape fiscal policy effectiveness, this paper provides the first empirical evidence that the political environment is important, too: political fragmentation substantially weakens the transmission of fiscal policy to economic activity.
 
