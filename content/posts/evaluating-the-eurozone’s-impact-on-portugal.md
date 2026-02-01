@@ -1,5 +1,5 @@
 ---
-title: Evaluating the Eurozone’s impact on Portugal
+title: Evaluating the net-benefits of Portugal entering the Eurozone
 date: 2026-02-01T20:52:08.276Z
 categories:
   - Economic History
