@@ -5,8 +5,10 @@ date: 2026-05-25T14:27:36.281Z
 type: post
 url: /2019/03/19/where-did-the-money-go-why-did-southern-and-peripheral-european-countries-fair-so-poorly-during-a-period-of-large-capital-inflows-from-the-rest-of-europe/
 categories:
-  - Productivity
-  - Economic Growth
+  - Urban Economics
+  - Real Estate
+  - Taxation
+  - Government Policy
 ---
 Can a tax exemption for young, first-time buyers make housing more affordable, or will it simply be passed through in higher house prices? In 2024, the Portuguese government introduced an exemption from property transfer tax and stamp duty for individuals under 35 buying their first home. The policy was designed to reduce the upfront cost of buying a home and help young households enter the housing market. But in a market where supply is limited, lowering buyers' costs may also increase what sellers believe buyers can pay.
 
