@@ -4,4 +4,4 @@ date: 2026-06-17T14:34:50.568Z
 categories:
   - Portuguese Economic Journal News
 ---
-[Video with a bit of the story of the blog and its purpose (part 1 of 2).](https://youtu.be/hD8RXy7SHHo)
+Check out the [](https://youtu.be/hD8RXy7SHHo)story of the blog and its purpose [part 1](https://youtu.be/hD8RXy7SHHo) a﻿nd [part 2](https://youtu.be/7v-9OFp4Hjw)).
