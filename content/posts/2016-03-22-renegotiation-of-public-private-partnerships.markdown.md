@@ -10,4 +10,4 @@ categories:
 ---
 M﻿aria Carolina Neves Martinho, PhD student at Stockholm University, is the new co-curator for the blog. Welcome Maria Carolina! I am excited to have you join the editorial team of the blog. 
 
-I﻿ would like to thank the generous participation over almost 10 years of Domingos Seward. Domingos worked diligently over all this time, supporting the mission of the blog, creating content, and interacting with the media. I will miss working with you Domingos!
+I﻿ would like to thank the generous participation over almost 10 years of Domingos Seward. Domingos worked diligently over all this time, supporting the mission of the blog, creating content, and interacting with the media. I will miss working with you Domingos! Many thanks!
