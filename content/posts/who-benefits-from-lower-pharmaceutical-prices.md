@@ -1,6 +1,6 @@
 ---
 author: albuquru
-title: Who benefits from lower pharmaceutical prices?
+title: The effect of lower drug prices on pharmacists
 date: 2026-08-14T11:25:20.392Z
 type: post
 url: /2016/04/06/productivity-and-organization-in-portuguese-firms/
