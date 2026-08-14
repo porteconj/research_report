@@ -11,7 +11,7 @@ categories:
   - Migration
   - Economic Growth
 ---
-Refugee entrepreneurship is often presented as a win-win solution: it can facilitate refugees' economic and social integration while contributing to economic growth and job creation in host countries. However, little is known about what drives refugees to consider entrepreneurship, particularly in countries such as Portugal, where research on this topic remains scarce. Do the hardships and obstacles refugees face discourage entrepreneurial activity, or can they actually stimulate it?
+Refugee entrepreneurship is often presented as a win-win solution: it can facilitate refugees' economic and social integration while contributing to economic growth and job creation in host countries. However, little is known about what drives refugees to consider entrepreneurship, particularly in countries such as Portugal, where research on this topic remains scarce. Do the hardships and obstacles refugees face discourage entrepreneurial activity, or can they actually stimulate it? 
 
 This study examines the entrepreneurial intentions of refugees living in Portugal through the lens of the underdog theory of entrepreneurship. According to this theory, individuals facing significant disadvantages may develop resilience, creativity, and determination that ultimately strengthen their entrepreneurial ambitions. To investigate this proposition, t﻿he authors surveyed 41 refugees from 15 different countries residing in Portugal.
 
