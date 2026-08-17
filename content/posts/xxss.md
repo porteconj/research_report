@@ -20,4 +20,4 @@ The effects also depend on the broader economic environment. They become stronge
 
 Overall, the paper suggests that the effects of deregulation are not unambiguous. Rather, institutional design matters, as do timing and economic circumstances. Portugal’s experience suggests that political and economic shocks can have very long-lasting consequences when the institutions that emerge afterwards affect investment and the economy’s capacity to adjust.
 
-Click here to go to the paper by João Tovar Jalles.
+[Click here to go to the paper by João Tovar Jalles.](https://ideas.repec.org/p/ise/remwps/wp04142026.html)
