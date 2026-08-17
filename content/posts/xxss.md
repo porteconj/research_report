@@ -1,5 +1,5 @@
 ---
-title: xxss
+title: Structural reforms and the persistence of Portugal’s growth gap
 date: 2026-08-17T15:37:55.748Z
 categories:
   - Productivity
