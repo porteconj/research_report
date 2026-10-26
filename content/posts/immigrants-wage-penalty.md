@@ -1,5 +1,5 @@
 ---
-title: "Immigrants' wage penalty "
+title: Immigrants' wage penalty
 date: 2026-10-26T11:09:58.393Z
 categories:
   - Inequality
