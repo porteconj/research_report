@@ -8,7 +8,7 @@ categories:
 ---
 Why did Portuguese women enter the labour market so quickly in the 1960s and 1970s? Portugal lacked the usual explanations for rising female employment, such as schooling, labour-saving household appliances, access to contraception and childcare, and progressive social norms. Under Salazar’s dictatorship, women had little education, divorce and contraception were banned, and the law confined women’s role largely to the household. Yet, Portugal went from the lowest female participation rate among OECD countries in 1960 to one of the highest by 1980 (see Figure). Spain, with similar institutions and norms, remained near the bottom.
 
-![](https://ucarecdn.com/5489c115-38dc-4099-9344-791b203e3d12/ "Female activity rates in Portugal and other OECD countries.")
+![](https://ucarecdn.com/5489c115-38dc-4099-9344-791b203e3d12/ "Female activity rates in Portugal and other OECD countries (with permission from Journal of Human Resources).")
 
 T﻿he paper argues that the answer lies in a massive and permanent loss of men. Between 1961 and 1974, Portugal fought a colonial war in Africa. During that period, more than 1.5 million people emigrated, mainly to France, and few returned. Most were men, and many were escaping the military draft. Because this migration hit some birth cohorts and regions much harder than others, the research is able to compare the labour market outcomes of women who faced very different scarcities of men.
 
